@@ -1,996 +1,996 @@
 id,name,gender,phone_number,mother_name,city,id_score_lower,id_score_upper,employment_duration,annual_income,income_verification_status,home_ownership
-1,Lili Sitompul,Female,+62-878-555-746,Jais Rahayu,Bandung,449,454,7,39000000,1,rent
-2,Halima Simbolon,Male,+62-878-555-819,Tina Prasasta,Pare-pare,486,491,1,45000000,1,rent
-3,Tira Nuraini,Male,+62-838-555-834,Najwa Suryono,Kupang,362,367,6,189000000,1,rent
-4,Uli Dongoran,female,+62-855-555-322,Yunita Putra,Ambon,753,758,3,122000000,1,rent
-5,Cornelia Saptono,,+62-878-555-689,Carub Padmasari,Sorong,306,311,9,169000000,0,missing
-6,Septi Hartati,Male,+62-898-555-482,Titin Hidayanto,Bengkulu,688,693,10,84000000,1,mortgage
-7,Garan Zulkarnain,,+62-852-555-144,Iriana Marbun,Semarang,538,543,9,58000000,0,other
-8,Natalia Usamah,female,+62-898-555-852,Rosman Hartati,Cimahi,347,352,0,161000000,1,other
-9,Kania Wijayanti,male,+62-838-555-404,Lutfan Suartini,Tasikmalaya,300,305,4,105000000,1,rent
-10,Vanya Prayoga,female,+62-815-555-899,Anita Budiyanto,Surabaya,772,777,8,190000000,1,
-11,Wage Firmansyah,Female,+62-814-555-354,Tari Maryati,Padang,439,444,5,115000000,1,missing
-12,Raden Suryono,,+62-898-555-315,Prima Hartati,Banjarmasin,673,678,1,209000000,0,
-13,Bambang Habibi,Male,+62-819-555-337,Unggul Latupono,Banjarbaru,437,442,8,149000000,1,missing
-14,Ayu Widiastuti,,+62-854-555-288,Damu Hardiansyah,Pagar Alam,636,641,9,222000000,1,rent
-15,Utama Pratama,Male,+62-838-555-794,Irnanto Jailani,Tanjung Pinang,779,784,6,168000000,1,mortgage
-16,Bajragin Wahyudin,,+62-878-555-006,Jais Zulaika,Denpasar,343,348,0,137000000,0,other
-17,Gawati Mardhiyah,male,+62-898-555-857,Galang Gunawan,Gunung Sitoli,356,361,8,44000000,0,
-18,Gamblang Safitri,male,+62-878-555-127,Hardi Winarsih,Bau-bau,565,570,1,155000000,0,own
-19,Yulia Saputra,female,+62-838-555-990,Carla Sitorus,Yogyakarta,576,581,6,169000000,0,mortgage
-20,Qori Hasanah,Female,+62-878-555-539,Yosef Hidayanto,Jayapura,772,777,1,56000000,0,mortgage
-21,Rika Najmudin,,+62-898-555-486,Darmanto Namaga,Sungaipenuh,718,723,9,186000000,1,mortgage
-22,Sarah Utami,,+62-854-555-452,Jefri Anggraini,Blitar,642,647,0,109000000,0,mortgage
-23,Parman Nugroho,female,+62-899-555-362,Febi Lailasari,Solok,629,634,0,40000000,0,rent
-24,Bakijan Usada,male,+62-859-555-459,Hani Hidayanto,Pagar Alam,418,423,9,145000000,1,other
-25,Mutia Puspasari,Female,+62-852-555-233,Juli Hutagalung,Gunung Sitoli,524,529,10,224000000,0,rent
-26,Mala Simanjuntak,female,+62-898-555-546,Irfan Irawan,Jayapura,615,620,2,161000000,1,mortgage
-27,Gasti Firmansyah,Male,+62-896-555-833,Ami Budiman,Jakarta Utara,414,419,5,162000000,1,own
-28,Adikara Rahimah,male,+62-838-555-317,Hasta Rahayu,Sukabumi,685,690,10,92000000,0,mortgage
-29,Cahyanto Laksmiwati,,+62-838-555-586,Zulaikha Pratama,Pasuruan,523,528,6,38000000,1,
-30,Kurnia Halimah,Male,+62-856-555-865,Puti Novitasari,Tebing Tinggi,731,736,8,117000000,0,other
-31,Nardi Puspasari,male,+62-852-555-413,Johan Kurniawan,Palembang,324,329,2,227000000,1,mortgage
-32,Danuja Permata,male,+62-898-555-276,Malika Mandasari,Gunung Sitoli,763,768,10,163000000,1,missing
-33,Febi Gunawan,male,+62-878-555-036,Drajat Megantara,Ternate,771,776,4,237000000,0,missing
-34,Nugraha Fujiati,Male,+62-859-555-522,Kartika Sitorus,Pekanbaru,336,341,0,128000000,1,own
-35,Unjani Wulandari,Male,+62-878-555-077,Sadina Lazuardi,Jakarta Selatan,470,475,0,81000000,0,rent
-36,Hana Sitorus,Male,+62-838-555-167,Calista Anggraini,Ambon,331,336,5,194000000,0,missing
-37,Lala Sihombing,female,+62-838-555-867,Manah Adriansyah,Sukabumi,696,701,9,145000000,1,
-38,Cici Handayani,,+62-878-555-423,Jarwadi Yulianti,Madiun,672,677,2,51000000,0,rent
-39,Jaswadi Natsir,female,+62-858-555-135,Rahman Firmansyah,Banda Aceh,337,342,9,135000000,1,missing
-40,Oskar Laksita,Male,+62-838-555-143,Estiono Nasyiah,Bontang,453,458,10,130000000,0,own
-41,Luthfi Safitri,Male,+62-838-555-797,Asmuni Suartini,Makassar,737,742,7,71000000,1,own
-42,Galang Situmorang,male,+62-859-555-290,Tiara Laksita,Tidore Kepulauan,515,520,3,163000000,0,other
-43,Galur Saputra,male,+62-896-555-850,Lalita Novitasari,Tasikmalaya,614,619,5,82000000,0,
-44,Shania Oktaviani,Female,+62-815-555-138,Irsad Nugroho,Tanjung Balai,791,796,9,45000000,0,rent
-45,Kiandra Dabukke,male,+62-838-555-998,Latika Nurdiyanti,Sukabumi,650,655,2,151000000,1,own
-46,Cinthia Tarihoran,female,+62-811-555-008,Tantri Samosir,Gorontalo,702,707,4,195000000,0,mortgage
-47,Patricia Anggriawan,Male,+62-838-555-397,Dimas Hutasoit,Kotamobagu,398,403,4,49000000,0,other
-48,Opan Najmudin,,+62-838-555-204,Ellis Wahyudin,Subulussalam,445,450,5,189000000,0,
-49,Rachel Laksita,Male,+62-896-555-380,Ilyas Pudjiastuti,Pasuruan,721,726,8,108000000,1,
-50,Queen Marbun,,+62-898-555-584,Elon Prabowo,Banjarmasin,668,673,7,50000000,1,mortgage
-51,Olga Maryati,,+62-878-555-889,Mutia Yulianti,Balikpapan,619,624,10,97000000,1,missing
-52,Purwadi Budiman,Female,+62-811-555-136,Genta Hutasoit,Medan,408,413,2,108000000,1,own
-53,Citra Melani,female,+62-814-555-822,Hartana Latupono,Tanjung Balai,817,822,7,168000000,1,own
-54,Marsudi Haryanti,,+62-896-555-787,Titi Oktaviani,Mojokerto,770,775,7,102000000,0,own
-55,Harimurti Wasita,male,+62-858-555-020,Titin Nurdiyanti,Cirebon,371,376,5,210000000,0,mortgage
-56,Samiah Tamba,male,+62-852-555-686,Harsana Siregar,Tegal,546,551,0,100000000,1,own
-57,Ifa Wulandari,,+62-878-555-728,Amalia Mandasari,Palangka Raya,616,621,5,210000000,1,other
-58,Qori Uyainah,,+62-878-555-772,Alika Riyanti,Bogor,330,335,7,189000000,1,rent
-59,Lalita Firmansyah,,+62-811-555-331,Cemani Permadi,Solok,583,588,8,86000000,1,
-60,Eli Wacana,male,+62-811-555-982,Virman Siregar,Malang,731,736,0,220000000,1,missing
-61,Sakura Haryanti,,+62-899-555-658,Darijan Lestari,Padang Panjang,636,641,1,47000000,1,missing
-62,Dartono Iswahyudi,,+62-818-555-756,Ella Pranowo,Mojokerto,760,765,5,109000000,1,
-63,Zaenab Pratama,female,+62-878-555-613,Ida Nasyiah,Kendari,337,342,3,190000000,1,
-64,Paramita Halimah,female,+62-897-555-548,Juli Nurdiyanti,Sabang,354,359,4,162000000,1,rent
-65,Queen Irawan,Female,+62-838-555-968,Teguh Andriani,Bukittinggi,688,693,5,198000000,0,rent
-66,Safina Hassanah,Female,+62-878-555-488,Aisyah Fujiati,Samarinda,628,633,8,125000000,0,missing
-67,Nilam Mahendra,male,+62-878-555-322,Lasmono Hidayat,Kendari,560,565,4,71000000,0,other
-68,Cager Usamah,Female,+62-899-555-350,Saiful Anggraini,Salatiga,540,545,10,134000000,1,missing
-69,Gaman Wibowo,female,+62-838-555-322,Niyaga Rahimah,Tarakan,483,488,8,121000000,1,missing
-70,Wirda Mandala,male,+62-897-555-712,Wirda Hidayat,Jakarta Timur,564,569,3,125000000,1,
-71,Sakti Hartati,Female,+62-899-555-248,Cemeti Kuswoyo,Kupang,545,550,4,124000000,0,mortgage
-72,Unggul Hassanah,Female,+62-854-555-947,Melinda Wastuti,Pagar Alam,621,626,6,174000000,1,rent
-73,Karimah Mandala,Female,+62-857-555-674,Dalima Mahendra,Cimahi,713,718,7,97000000,1,mortgage
-74,Halima Prabowo,Female,+62-878-555-909,Natalia Aryani,Langsa,457,462,2,222000000,1,missing
-75,Salimah Prayoga,,+62-855-555-566,Betania Latupono,Batu,556,561,4,181000000,1,other
-76,Ade Lailasari,Female,+62-856-555-184,Kani Wahyudin,Bukittinggi,411,416,4,114000000,0,rent
-77,Siska Lestari,Female,+62-838-555-644,Asirwanda Rahmawati,Medan,665,670,8,106000000,0,rent
-78,Capa Dabukke,Female,+62-811-555-056,Makara Rahimah,Langsa,528,533,7,177000000,1,other
-79,Galak Sudiati,Male,+62-899-555-981,Yahya Pradipta,Samarinda,750,755,4,211000000,0,own
-80,Iriana Andriani,,+62-878-555-475,Mila Fujiati,Dumai,553,558,5,118000000,0,other
-81,Kemal Wasita,Male,+62-897-555-629,Manah Melani,Tegal,478,483,2,209000000,0,mortgage
-82,Raisa Situmorang,female,+62-899-555-680,Shakila Prayoga,Bengkulu,391,396,10,91000000,0,mortgage
-83,Paulin Wulandari,female,+62-898-555-435,Latika Suryatmi,Bogor,496,501,5,165000000,0,
-84,Marsudi Latupono,Female,+62-811-555-485,Rina Adriansyah,Kotamobagu,446,451,0,198000000,0,own
-85,Belinda Iswahyudi,male,+62-878-555-368,Raden Safitri,Tasikmalaya,522,527,8,106000000,1,mortgage
-86,Maras Rahmawati,Male,+62-898-555-684,Makuta Mandasari,Dumai,668,673,5,66000000,1,missing
-87,Silvia Pratama,Female,+62-857-555-400,Shakila Dabukke,Padang,330,335,10,131000000,1,missing
-88,Oskar Kusmawati,Male,+62-878-555-633,Among Gunarto,Tangerang,304,309,4,201000000,1,
-89,Rendy Santoso,,+62-855-555-471,Fitriani Mardhiyah,Bandung,498,503,8,138000000,0,
-90,Keisha Yuliarti,Female,+62-899-555-520,Lurhur Hasanah,Ternate,751,756,1,96000000,0,own
-91,Hafshah Riyanti,Female,+62-838-555-831,Mustika Permata,Palu,695,700,6,191000000,0,missing
-92,Mahesa Hartati,female,+62-878-555-022,Elma Rajata,Lhokseumawe,488,493,8,221000000,0,mortgage
-93,Vanesa Hassanah,male,+62-815-555-879,Jessica Utami,Madiun,485,490,8,198000000,1,rent
-94,Maimunah Wibowo,male,+62-878-555-317,Ibun Fujiati,Tual,786,791,2,169000000,1,missing
-95,Novi Yuliarti,female,+62-838-555-270,Diah Prastuti,Bengkulu,758,763,6,122000000,0,own
-96,Cakrabirawa Firgantoro,male,+62-896-555-635,Limar Purwanti,Tangerang Selatan,373,378,7,113000000,1,other
-97,Ciaobella Ardianto,,+62-878-555-521,Raden Suryatmi,Yogyakarta,447,452,2,90000000,0,
-98,Saka Simbolon,Female,+62-838-555-427,Diana Zulaika,Medan,522,527,4,110000000,0,own
-99,Padma Mulyani,Female,+62-896-555-509,Caraka Rahmawati,Ternate,767,772,9,160000000,0,
-100,Ulya Thamrin,,+62-812-555-446,Vera Nasyiah,Lhokseumawe,311,316,9,107000000,1,
-101,Halima Oktaviani,female,+62-819-555-483,Ira Purnawati,Pematangsiantar,816,821,9,54000000,1,
-102,Halim Salahudin,,+62-838-555-751,Embuh Novitasari,Metro,553,558,1,220000000,1,rent
-103,Oskar Wibowo,male,+62-878-555-893,Kusuma Adriansyah,Jakarta Barat,419,424,10,69000000,1,own
-104,Asmianto Tampubolon,Male,+62-817-555-659,Jarwadi Wijayanti,Banda Aceh,748,753,10,105000000,0,
-105,Kartika Prabowo,Female,+62-819-555-908,Galur Ramadan,Serang,781,786,4,130000000,0,
-106,Vicky Prastuti,,+62-878-555-373,Cahyono Andriani,Sibolga,509,514,8,228000000,0,mortgage
-107,Karsa Wibisono,Male,+62-878-555-762,Juli Nugroho,Malang,361,366,5,219000000,1,rent
-108,Hamima Saefullah,Male,+62-838-555-639,Maria Prasasta,Surakarta,825,830,3,201000000,1,rent
-109,Malika Hasanah,,+62-899-555-653,Harjasa Agustina,Solok,591,596,9,231000000,0,
-110,Hasta Pertiwi,,+62-852-555-236,Adikara Nainggolan,Gunung Sitoli,440,445,10,186000000,0,other
-111,Rosman Melani,Male,+62-852-555-176,Saka Sihombing,Banjar,527,532,2,94000000,0,mortgage
-112,Halima Astuti,female,+62-856-555-848,Bancar Hutapea,Kotamobagu,304,309,5,196000000,1,
-113,Kemba Agustina,male,+62-856-555-216,Bakti Narpati,Palopo,761,766,6,171000000,0,
-114,Sarah Nuraini,Male,+62-878-555-094,Maria Waskita,Gunung Sitoli,338,343,4,170000000,0,
-115,Elma Puspasari,Male,+62-838-555-667,Jinawi Hutasoit,Palangka Raya,692,697,4,51000000,1,other
-116,Pangestu Prasetyo,Female,+62-838-555-198,Cinta Lestari,Solok,509,514,9,201000000,1,other
-117,Kenari Prakasa,Male,+62-811-555-845,Ana Iswahyudi,Yogyakarta,429,434,10,183000000,1,mortgage
-118,Kenzie Zulkarnain,Male,+62-878-555-672,Rina Puspasari,Bekasi,393,398,5,124000000,0,missing
-119,Irsad Yolanda,female,+62-838-555-183,Setya Latupono,Langsa,813,818,6,78000000,0,mortgage
-120,Kania Najmudin,Female,+62-878-555-698,Hamima Mandala,Manado,495,500,8,155000000,1,rent
-121,Aurora Oktaviani,male,+62-838-555-798,Kawaca Hartati,Solok,511,516,2,145000000,1,mortgage
-122,Devi Siregar,Female,+62-854-555-288,Novi Nababan,Bandung,586,591,0,144000000,1,rent
-123,Gaman Wibisono,,+62-899-555-442,Atmaja Tarihoran,Bengkulu,524,529,10,69000000,0,other
-124,Ibrahim Melani,Female,+62-878-555-489,Lembah Kusmawati,Tebing Tinggi,425,430,10,170000000,0,other
-125,Ciaobella Wastuti,male,+62-878-555-715,Marsudi Hutapea,Jakarta Timur,530,535,8,63000000,1,other
-126,Arsipatra Latupono,male,+62-854-555-092,Catur Riyanti,Gorontalo,819,824,8,108000000,0,rent
-127,Ajeng Januar,Male,+62-878-555-608,Kayla Safitri,Gunung Sitoli,615,620,1,103000000,0,other
-128,Harsanto Utama,female,+62-814-555-309,Yuliana Habibi,Lubuklinggau,309,314,0,93000000,0,mortgage
-129,Jayadi Nuraini,male,+62-838-555-797,Vivi Hastuti,Tanjung Pinang,396,401,6,236000000,0,
-130,Nadine Irawan,,+62-897-555-312,Alika Yolanda,Mojokerto,603,608,8,166000000,1,mortgage
-131,Balapati Prayoga,male,+62-859-555-405,Aurora Anggraini,Banjarbaru,602,607,5,176000000,0,missing
-132,Sari Nugroho,,+62-896-555-959,Harja Zulaika,Tanjung Pinang,745,750,0,101000000,1,mortgage
-133,Jessica Kuswandari,Female,+62-899-555-683,Edi Winarsih,Malang,331,336,3,176000000,1,missing
-134,Darmaji Mustofa,Male,+62-897-555-636,Ina Laksmiwati,Depok,753,758,6,136000000,0,
-135,Lala Farida,male,+62-838-555-608,Eva Maheswara,Bekasi,713,718,5,62000000,0,
-136,Ghaliyati Pudjiastuti,female,+62-855-555-571,Argono Pranowo,Payakumbuh,815,820,1,50000000,1,missing
-137,Amalia Suartini,,+62-878-555-581,Prayogo Laksita,Bogor,525,530,2,124000000,0,own
-138,Intan Wijayanti,male,+62-896-555-661,Nasim Laksita,Banjarmasin,704,709,7,65000000,0,rent
-139,Jamil Wahyuni,Male,+62-878-555-226,Jais Yulianti,Manado,827,832,7,64000000,1,rent
-140,Uli Hassanah,Female,+62-878-555-408,Artanto Palastri,Malang,564,569,8,71000000,1,missing
-141,Edison Winarno,male,+62-814-555-613,Iriana Uwais,Padang Panjang,342,347,7,117000000,0,own
-142,Rizki Firgantoro,female,+62-838-555-073,Ulva Latupono,Pekalongan,419,424,7,49000000,1,own
-143,Puspa Marbun,female,+62-897-555-105,Bahuwarna Suwarno,Cilegon,644,649,3,77000000,0,mortgage
-144,Alika Pudjiastuti,male,+62-853-555-310,Ami Wahyudin,Tegal,655,660,7,76000000,0,
-145,Irwan Pratiwi,Female,+62-878-555-800,Nrima Dongoran,Pare-pare,546,551,8,91000000,0,
-146,Yulia Puspasari,female,+62-811-555-340,Sadina Hasanah,Salatiga,345,350,10,84000000,1,missing
-147,Asman Astuti,male,+62-811-555-745,Jamil Sihotang,Jakarta Selatan,615,620,10,225000000,0,rent
-148,Danang Waluyo,,+62-838-555-683,Calista Prayoga,Kediri,625,630,8,100000000,1,missing
-149,Zelaya Anggraini,Female,+62-854-555-361,Wulan Oktaviani,Tangerang Selatan,743,748,3,211000000,0,rent
-150,Cahyo Rahimah,Male,+62-838-555-987,Atma Habibi,Gunung Sitoli,526,531,1,108000000,1,
-151,Faizah Utami,male,+62-878-555-213,Hairyanto Suryatmi,Tangerang Selatan,481,486,8,140000000,1,
-152,Mustika Zulaika,female,+62-838-555-199,Sakti Nasyiah,Banjarbaru,415,420,6,120000000,0,rent
-153,Digdaya Manullang,Female,+62-855-555-663,Nabila Latupono,Jakarta Pusat,843,848,5,94000000,1,other
-154,Lidya Melani,Male,+62-838-555-154,Eja Mulyani,Tanjung Pinang,559,564,8,48000000,0,own
-155,Raden Situmorang,Female,+62-878-555-776,Darman Wulandari,Denpasar,324,329,10,112000000,1,own
-156,Asmadi Permata,,+62-878-555-936,Mursita Haryanto,Jakarta Pusat,745,750,0,121000000,0,missing
-157,Alambana Suryatmi,Male,+62-838-555-866,Nova Sihotang,Subulussalam,808,813,10,237000000,0,other
-158,Hartaka Padmasari,male,+62-857-555-781,Shania Nababan,Jakarta Barat,789,794,5,112000000,0,
-159,Taufik Mandasari,female,+62-898-555-301,Amelia Hidayanto,Padang Sidempuan,655,660,2,89000000,0,missing
-160,Okta Adriansyah,,+62-838-555-802,Virman Prakasa,Probolinggo,775,780,10,76000000,0,rent
-161,Ridwan Hasanah,Female,+62-817-555-488,Jessica Nasyidah,Surakarta,429,434,5,100000000,1,other
-162,Asmianto Samosir,Male,+62-838-555-028,Zahra Susanti,Tegal,487,492,2,236000000,0,
-163,Sarah Tarihoran,,+62-859-555-745,Mutia Handayani,Balikpapan,717,722,2,77000000,1,
-164,Dirja Siregar,male,+62-838-555-061,Kemal Hastuti,Padang Sidempuan,358,363,7,129000000,1,rent
-165,Wawan Iswahyudi,Male,+62-878-555-937,Jagapati Yuliarti,Tanjung Pinang,568,573,8,136000000,1,rent
-166,Kacung Pudjiastuti,Female,+62-897-555-478,Okta Tamba,Bandar Lampung,695,700,3,207000000,1,missing
-167,Mahmud Riyanti,female,+62-898-555-916,Mumpuni Saputra,Tangerang Selatan,703,708,0,68000000,0,missing
-168,Nova Najmudin,male,+62-812-555-988,Nasim Maulana,Tebing Tinggi,343,348,8,160000000,0,own
-169,Jarwi Kuswoyo,Male,+62-815-555-200,Puji Aryani,Medan,680,685,3,182000000,1,mortgage
-170,Tami Mulyani,,+62-878-555-725,Darimin Oktaviani,Tangerang,471,476,2,210000000,1,own
-171,Irnanto Wastuti,Female,+62-878-555-336,Nasim Anggriawan,Pagar Alam,772,777,7,129000000,1,missing
-172,Reza Saragih,Male,+62-898-555-134,Zulaikha Fujiati,Serang,306,311,6,123000000,1,other
-173,Maya Waluyo,Male,+62-878-555-372,Vega Yuliarti,Pagar Alam,414,419,9,205000000,0,other
-174,Opan Tampubolon,Male,+62-859-555-078,Vanya Kuswoyo,Jakarta Barat,692,697,0,148000000,1,other
-175,Olga Prastuti,,+62-857-555-590,Salman Lazuardi,Bukittinggi,477,482,4,93000000,1,mortgage
-176,Mustofa Gunawan,male,+62-811-555-692,Simon Anggriawan,Salatiga,424,429,2,159000000,0,missing
-177,Daniswara Kuswandari,,+62-855-555-188,Marwata Marpaung,Sabang,786,791,3,185000000,1,missing
-178,Uchita Kuswoyo,,+62-859-555-586,Respati Handayani,Padang,626,631,4,178000000,1,rent
-179,Harsaya Dongoran,Male,+62-858-555-459,Umi Situmorang,Cimahi,603,608,7,108000000,0,other
-180,Estiono Andriani,Male,+62-896-555-588,Viktor Tamba,Samarinda,622,627,1,58000000,1,other
-181,Jaeman Rahimah,Female,+62-896-555-601,Bahuraksa Purwanti,Depok,310,315,1,143000000,0,own
-182,Luis Pratiwi,male,+62-838-555-115,Ami Laksita,Kediri,785,790,8,210000000,1,rent
-183,Bakidin Prasetyo,male,+62-838-555-912,Ira Farida,Jakarta Barat,776,781,8,195000000,1,mortgage
-184,Rahmat Januar,male,+62-859-555-310,Eva Rahayu,Padang,837,842,7,163000000,1,own
-185,Paris Mulyani,female,+62-819-555-379,Jessica Suartini,Bandar Lampung,473,478,7,46000000,1,missing
-186,Upik Kusumo,Female,+62-878-555-980,Lanang Hastuti,Subulussalam,808,813,3,184000000,1,mortgage
-187,Chelsea Puspita,Female,+62-838-555-986,Maida Tarihoran,Probolinggo,711,716,6,199000000,0,mortgage
-188,Ami Laksita,Male,+62-878-555-217,Salman Mansur,Cirebon,769,774,7,112000000,0,mortgage
-189,Cindy Haryanti,male,+62-898-555-556,Hartana Nasyidah,Tanjung Pinang,611,616,6,206000000,1,other
-190,Zaenab Suartini,Female,+62-896-555-983,Nilam Rahmawati,Pare-pare,674,679,3,120000000,0,missing
-191,Empluk Pradipta,Male,+62-813-555-077,Raisa Budiyanto,Tegal,591,596,3,235000000,0,missing
-192,Adikara Utami,Female,+62-857-555-079,Hamima Lestari,Gorontalo,678,683,7,42000000,0,mortgage
-193,Cakrabirawa Nashiruddin,female,+62-854-555-633,Rafi Padmasari,Banjarbaru,691,696,3,57000000,0,mortgage
-194,Oni Samosir,male,+62-838-555-376,Hendri Yuniar,Lhokseumawe,650,655,6,134000000,0,rent
-195,Banara Lestari,,+62-838-555-029,Lasmono Widiastuti,Tebing Tinggi,832,837,4,83000000,0,missing
-196,Parman Maheswara,male,+62-859-555-475,Humaira Novitasari,Tarakan,329,334,4,100000000,1,missing
-197,Paramita Yulianti,male,+62-815-555-487,Devi Damanik,Padang,626,631,1,96000000,0,mortgage
-198,Emin Maryati,,+62-878-555-754,Zizi Gunarto,Tanjung Balai,435,440,8,165000000,1,own
-199,Ikhsan Lailasari,male,+62-878-555-550,Hamzah Simbolon,Banjar,381,386,0,190000000,0,missing
-200,Karsa Wijayanti,Male,+62-815-555-862,Anastasia Widiastuti,Bontang,390,395,0,102000000,0,missing
-201,Wulan Suryatmi,Male,+62-838-555-017,Karman Nasyiah,Palembang,495,500,0,144000000,1,
-202,Hasta Wijayanti,Female,+62-878-555-328,Hilda Rahayu,Padang Sidempuan,739,744,8,90000000,0,missing
-203,Omar Manullang,Female,+62-838-555-887,Hasan Sihotang,Mojokerto,843,848,10,198000000,0,
-204,Daliono Rahimah,Female,+62-898-555-300,Galak Suryatmi,Banjarbaru,685,690,2,160000000,1,
-205,Wani Marpaung,Female,+62-838-555-240,Atma Megantara,Surabaya,483,488,9,40000000,1,rent
-206,Daryani Iswahyudi,Female,+62-878-555-270,Daruna Nasyiah,Bengkulu,384,389,2,187000000,0,rent
-207,Vicky Januar,Female,+62-838-555-947,Faizah Prasasta,Jayapura,536,541,1,52000000,0,other
-208,Lili Utama,female,+62-878-555-054,Eli Winarno,Tebing Tinggi,511,516,10,130000000,1,
-209,Ajiono Usada,male,+62-815-555-314,Edward Agustina,Cimahi,471,476,5,158000000,1,other
-210,Mala Lestari,Female,+62-838-555-722,Siti Usada,Bengkulu,353,358,3,38000000,0,rent
-211,Julia Lazuardi,male,+62-817-555-303,Wardaya Natsir,Tebing Tinggi,481,486,3,176000000,1,missing
-212,Septi Tamba,Male,+62-838-555-439,Ade Wijayanti,Tanjung Pinang,479,484,8,59000000,0,mortgage
-213,Ina Widodo,Male,+62-838-555-010,Teguh Rahayu,Tebing Tinggi,541,546,0,238000000,0,other
-214,Tania Tampubolon,,+62-817-555-864,Diana Laksita,Palangka Raya,527,532,5,120000000,1,mortgage
-215,Kania Prakasa,female,+62-899-555-726,Gawati Yuniar,Bontang,739,744,0,179000000,1,mortgage
-216,Olivia Mandala,Female,+62-838-555-186,Ophelia Natsir,Surakarta,720,725,5,119000000,0,mortgage
-217,Teguh Puspita,female,+62-878-555-483,Dian Suryatmi,Tangerang,789,794,4,217000000,1,own
-218,Alika Rahimah,Female,+62-819-555-126,Mulyono Sihombing,Banjarbaru,719,724,3,202000000,0,
-219,Latika Uyainah,Female,+62-813-555-633,Cayadi Maulana,Pare-pare,628,633,7,74000000,1,rent
-220,Gamani Napitupulu,male,+62-899-555-620,Chelsea Utama,Ambon,818,823,4,45000000,1,
-221,Gawati Hutagalung,female,+62-896-555-381,Asmadi Prasetyo,Palembang,425,430,3,118000000,1,rent
-222,Karen Pertiwi,male,+62-818-555-943,Lalita Saefullah,Banjar,807,812,8,238000000,1,rent
-223,Keisha Mardhiyah,,+62-899-555-282,Bakijan Laksita,Tangerang,301,306,8,221000000,0,missing
-224,Rina Puspita,male,+62-853-555-445,Samiah Santoso,Sungaipenuh,403,408,7,207000000,0,other
-225,Sidiq Megantara,female,+62-838-555-172,Putri Waskita,Sabang,655,660,1,146000000,1,
-226,Halima Uyainah,Female,+62-896-555-603,Ika Gunarto,Banjarmasin,448,453,1,45000000,0,rent
-227,Karja Utama,female,+62-818-555-742,Darman Rahayu,Samarinda,769,774,0,174000000,1,rent
-228,Uli Kusmawati,female,+62-838-555-492,Jessica Purnawati,Manado,587,592,6,160000000,0,mortgage
-229,Cinta Mangunsong,Male,+62-816-555-200,Rachel Mahendra,Binjai,511,516,3,232000000,0,missing
-230,Jarwadi Budiyanto,female,+62-854-555-876,Opung Firgantoro,Bandung,621,626,2,219000000,0,own
-231,Julia Wahyuni,,+62-899-555-380,Titi Siregar,Bandar Lampung,684,689,1,109000000,1,rent
-232,Kartika Pratama,,+62-878-555-812,Saiful Riyanti,Kotamobagu,576,581,8,148000000,0,other
-233,Kairav Hutagalung,Female,+62-838-555-575,Fathonah Wasita,Jakarta Utara,470,475,8,47000000,0,own
-234,Opung Suryono,male,+62-878-555-631,Ganda Salahudin,Salatiga,373,378,10,116000000,0,own
-235,Joko Marbun,Female,+62-838-555-258,Nilam Pradipta,Bontang,450,455,8,61000000,0,other
-236,Rina Safitri,Female,+62-838-555-105,Amelia Mayasari,Pasuruan,422,427,10,172000000,0,other
-237,Karsana Usada,Female,+62-857-555-027,Jaswadi Wijaya,Blitar,763,768,10,145000000,0,rent
-238,Jefri Saputra,Male,+62-838-555-282,Yani Prasetya,Singkawang,467,472,4,213000000,1,other
-239,Puji Nasyidah,,+62-812-555-873,Tira Novitasari,Banda Aceh,408,413,0,164000000,1,missing
-240,Paiman Puspita,Female,+62-811-555-922,Kairav Wacana,Surakarta,627,632,6,170000000,1,other
-241,Viman Nasyiah,Female,+62-855-555-911,Bahuwirya Rahayu,Pontianak,611,616,2,117000000,1,mortgage
-242,Cahyadi Natsir,Male,+62-838-555-102,Puti Purwanti,Sorong,303,308,0,131000000,1,missing
-243,Aris Lailasari,,+62-878-555-553,Lanjar Permata,Pangkalpinang,540,545,2,223000000,0,
-244,Wahyu Sinaga,male,+62-858-555-930,Mutia Hidayat,Pangkalpinang,327,332,7,150000000,1,other
-245,Daniswara Santoso,,+62-897-555-897,Cawisadi Kuswandari,Lhokseumawe,438,443,4,169000000,1,
-246,Prayogo Mayasari,male,+62-899-555-109,Nabila Ardianto,Jayapura,695,700,2,233000000,0,rent
-247,Putu Jailani,Female,+62-858-555-119,Ratna Pranowo,Binjai,577,582,6,168000000,1,mortgage
-248,Indah Hariyah,,+62-878-555-199,Cinta Astuti,Singkawang,568,573,1,94000000,1,own
-249,Tira Putra,,+62-838-555-623,Emong Sinaga,Banjar,398,403,4,87000000,0,mortgage
-250,Patricia Manullang,Male,+62-858-555-938,Michelle Sihotang,Tangerang,418,423,9,60000000,0,
-251,Mariadi Mansur,Male,+62-853-555-663,Julia Nurdiyanti,Jakarta Utara,303,308,3,71000000,0,rent
-252,Opan Andriani,female,+62-838-555-750,Kania Handayani,Batu,578,583,3,197000000,0,other
-253,Estiono Nugroho,,+62-816-555-557,Darimin Halimah,Serang,374,379,7,96000000,1,other
-254,Faizah Budiman,,+62-858-555-308,Vivi Yuniar,Malang,407,412,10,204000000,0,other
-255,Syahrini Ardianto,female,+62-899-555-880,Chelsea Simanjuntak,Kupang,420,425,5,175000000,1,missing
-256,Lanang Pratiwi,male,+62-812-555-174,Ridwan Usada,Gunung Sitoli,431,436,8,227000000,1,own
-257,Ratna Saefullah,Male,+62-838-555-624,Narji Purwanti,Kediri,628,633,7,112000000,1,mortgage
-258,Dina Puspasari,male,+62-897-555-087,Gada Maryati,Jakarta Timur,776,781,1,204000000,0,other
-259,Ratna Megantara,,+62-878-555-749,Luwar Yuniar,Metro,549,554,0,52000000,0,rent
-260,Bagya Mulyani,Male,+62-813-555-058,Padmi Mayasari,Balikpapan,383,388,3,63000000,1,missing
-261,Caket Prayoga,Male,+62-878-555-602,Farah Oktaviani,Mataram,568,573,9,122000000,1,own
-262,Siti Habibi,Female,+62-857-555-047,Makara Siregar,Tanjung Balai,812,817,0,39000000,1,other
-263,Cornelia Pertiwi,male,+62-859-555-408,Najwa Hakim,Lhokseumawe,759,764,8,80000000,1,
-264,Kamila Rahimah,female,+62-853-555-962,Maya Hidayat,Serang,656,661,9,223000000,1,missing
-265,Cindy Pratama,,+62-878-555-641,Upik Permadi,Tanjung Balai,722,727,5,75000000,0,other
-266,Aurora Budiyanto,female,+62-818-555-932,Martaka Tampubolon,Sukabumi,523,528,5,170000000,1,rent
-267,Padma Puspasari,Male,+62-838-555-228,Padma Irawan,Dumai,483,488,6,77000000,1,rent
-268,Lasmono Prasasta,Female,+62-817-555-182,Intan Hastuti,Tegal,314,319,6,140000000,0,own
-269,Mustika Pudjiastuti,Male,+62-838-555-431,Artawan Laksita,Blitar,598,603,2,204000000,1,missing
-270,Hasan Marpaung,Female,+62-852-555-344,Narji Yuliarti,Manado,396,401,1,99000000,1,rent
-271,Lasmono Marbun,female,+62-812-555-779,Prasetyo Pratama,Kediri,440,445,3,120000000,0,own
-272,Rafi Hastuti,Female,+62-878-555-138,Ayu Prakasa,Pare-pare,382,387,2,127000000,1,mortgage
-273,Hasna Mayasari,Female,+62-859-555-751,Arta Latupono,Malang,351,356,9,81000000,1,mortgage
-274,Queen Zulkarnain,,+62-852-555-753,Safina Firgantoro,Batu,361,366,3,83000000,1,
-275,Puput Yulianti,male,+62-817-555-984,Makara Handayani,Bengkulu,736,741,2,202000000,0,
-276,Putri Hariyah,Male,+62-878-555-016,Cinta Anggriawan,Binjai,828,833,3,225000000,1,mortgage
-277,Gamblang Haryanto,male,+62-838-555-435,Laras Thamrin,Tarakan,681,686,6,169000000,0,own
-278,Upik Natsir,female,+62-852-555-280,Dalima Prasetya,Jakarta Selatan,545,550,6,73000000,0,own
-279,Genta Namaga,Female,+62-838-555-614,Hardana Purwanti,Depok,496,501,10,162000000,0,other
-280,Wulan Rahayu,,+62-838-555-532,Sakura Safitri,Jayapura,756,761,1,119000000,0,missing
-281,Aswani Budiman,,+62-813-555-199,Farhunnisa Gunawan,Tual,432,437,8,43000000,1,missing
-282,Lanang Nababan,male,+62-897-555-813,Jarwadi Nasyiah,Tanjung Pinang,464,469,4,103000000,0,rent
-283,Wahyu Halimah,Male,+62-878-555-598,Maimunah Nuraini,Medan,831,836,8,129000000,0,
-284,Cornelia Najmudin,,+62-897-555-380,Yusuf Wulandari,Bontang,775,780,2,62000000,0,missing
-285,Kartika Rajata,female,+62-878-555-730,Darsirah Damanik,Semarang,796,801,7,68000000,1,rent
-286,Putri Mandasari,Male,+62-815-555-895,Dadap Kusmawati,Banda Aceh,826,831,10,151000000,1,own
-287,Lintang Oktaviani,Female,+62-878-555-537,Rosman Waluyo,Pekanbaru,354,359,6,129000000,0,missing
-288,Fathonah Rajata,female,+62-898-555-904,Ade Latupono,Bandar Lampung,620,625,1,217000000,1,mortgage
-289,Melinda Latupono,female,+62-838-555-120,Hesti Kuswoyo,Banjarmasin,724,729,3,73000000,0,other
-290,Tira Wahyudin,Male,+62-857-555-198,Luwar Marbun,Sawahlunto,358,363,8,71000000,1,missing
-291,Yessi Samosir,male,+62-819-555-302,Ani Uwais,Probolinggo,351,356,9,228000000,0,mortgage
-292,Nadia Widiastuti,Male,+62-812-555-379,Puput Prabowo,Cilegon,384,389,5,170000000,0,own
-293,Puji Oktaviani,,+62-815-555-444,Nilam Januar,Palopo,685,690,1,84000000,0,own
-294,Jumadi Winarsih,,+62-899-555-953,Laila Wacana,Bandung,825,830,6,115000000,1,rent
-295,Pangeran Riyanti,Male,+62-817-555-255,Jais Hidayanto,Samarinda,439,444,8,195000000,0,other
-296,Mustika Saragih,Male,+62-878-555-987,Cakrabirawa Namaga,Kendari,370,375,9,178000000,1,rent
-297,Jayadi Hasanah,,+62-897-555-316,Bakiono Pudjiastuti,Binjai,501,506,1,113000000,1,
-298,Cakrawala Zulaika,Male,+62-878-555-924,Balijan Widiastuti,Sorong,426,431,9,203000000,1,mortgage
-299,Farhunnisa Laksmiwati,female,+62-852-555-655,Zulfa Kuswandari,Banjarbaru,651,656,0,55000000,0,rent
-300,Hasan Tampubolon,,+62-817-555-737,Reza Mangunsong,Tasikmalaya,724,729,9,74000000,1,
-301,Rina Dongoran,male,+62-896-555-851,Malik Usamah,Bontang,327,332,1,185000000,0,own
-302,Gatot Manullang,male,+62-899-555-808,Malik Prayoga,Denpasar,799,804,10,136000000,1,missing
-303,Purwa Rahimah,Female,+62-898-555-241,Yessi Prastuti,Cilegon,668,673,4,178000000,1,rent
-304,Uli Pradipta,female,+62-838-555-529,Wasis Permata,Sorong,713,718,6,146000000,0,
-305,Ajeng Anggriawan,male,+62-838-555-013,Betania Wastuti,Pematangsiantar,441,446,9,76000000,0,own
-306,Edison Safitri,Male,+62-857-555-268,Kasim Lailasari,Bekasi,621,626,6,128000000,1,mortgage
-307,Rama Agustina,,+62-898-555-370,Aurora Nasyidah,Tasikmalaya,361,366,1,137000000,0,rent
-308,Teddy Safitri,male,+62-878-555-582,Makara Latupono,Pematangsiantar,543,548,10,225000000,0,missing
-309,Embuh Rajata,Male,+62-854-555-870,Soleh Habibi,Pare-pare,770,775,0,159000000,0,rent
-310,Sarah Mansur,Female,+62-819-555-387,Makara Nashiruddin,Probolinggo,658,663,2,105000000,1,other
-311,Warsita Pradipta,,+62-816-555-176,Widya Widodo,Palopo,833,838,0,229000000,0,other
-312,Eva Winarsih,male,+62-853-555-893,Natalia Yuniar,Magelang,693,698,2,93000000,0,other
-313,Prasetyo Kuswandari,female,+62-854-555-212,Tasnim Wahyuni,Tanjung Balai,706,711,8,87000000,0,other
-314,Gasti Pranowo,,+62-819-555-764,Bakijan Firmansyah,Kediri,718,723,4,190000000,0,other
-315,Siti Wastuti,,+62-898-555-776,Rudi Hidayanto,Subulussalam,568,573,1,240000000,0,
-316,Gatot Firmansyah,male,+62-878-555-866,Syahrini Nugroho,Pasuruan,439,444,5,86000000,0,own
-317,Zizi Yuniar,,+62-838-555-351,Mujur Susanti,Sorong,796,801,9,185000000,1,rent
-318,Gina Usada,,+62-878-555-427,Bahuraksa Wulandari,Cirebon,812,817,9,231000000,0,own
-319,Garan Wahyuni,Female,+62-838-555-791,Zelaya Marbun,Malang,662,667,9,102000000,1,own
-320,Sabrina Lestari,,+62-878-555-754,Talia Prastuti,Pagar Alam,719,724,3,204000000,1,other
-321,Rini Anggraini,female,+62-878-555-708,Bella Suartini,Probolinggo,459,464,10,81000000,1,rent
-322,Yulia Wacana,Female,+62-838-555-065,Darijan Marpaung,Subulussalam,651,656,0,187000000,1,missing
-323,Kadir Rahimah,Male,+62-852-555-376,Harsaya Manullang,Binjai,493,498,10,124000000,0,mortgage
-324,Malik Usamah,,+62-811-555-264,Mulyanto Nurdiyanti,Padang,816,821,10,76000000,0,mortgage
-325,Rosman Hardiansyah,Female,+62-898-555-551,Laksana Marpaung,Sabang,488,493,5,191000000,0,
-326,Raden Zulkarnain,female,+62-878-555-822,Zamira Saptono,Tidore Kepulauan,692,697,4,112000000,1,other
-327,Tari Nainggolan,,+62-838-555-535,Iriana Nasyiah,Samarinda,618,623,4,67000000,0,missing
-328,Iriana Simanjuntak,male,+62-896-555-792,Zelda Haryanti,Pematangsiantar,646,651,9,118000000,0,other
-329,Wira Tamba,,+62-857-555-102,Prasetyo Maryati,Solok,710,715,1,201000000,0,rent
-330,Rini Haryanto,female,+62-815-555-487,Cahyo Winarno,Prabumulih,636,641,3,200000000,1,rent
-331,Iriana Lazuardi,,+62-899-555-303,Cahyanto Mangunsong,Padang Sidempuan,356,361,10,191000000,1,missing
-332,Jefri Zulkarnain,Female,+62-899-555-366,Lulut Kusmawati,Lubuklinggau,536,541,6,134000000,1,own
-333,Taufik Purnawati,Male,+62-878-555-636,Kenes Sitompul,Bima,824,829,8,229000000,1,
-334,Vanya Halimah,female,+62-896-555-276,Zamira Utami,Serang,416,421,1,43000000,0,mortgage
-335,Heryanto Setiawan,female,+62-899-555-066,Rahman Hidayat,Payakumbuh,587,592,3,173000000,0,other
-336,Mila Agustina,Female,+62-838-555-385,Rahmi Suwarno,Serang,378,383,10,174000000,1,other
-337,Ulva Hasanah,female,+62-838-555-279,Respati Andriani,Sorong,322,327,1,163000000,1,
-338,Emil Natsir,male,+62-853-555-318,Azalea Rahimah,Kupang,652,657,10,194000000,1,own
-339,Jamalia Halimah,female,+62-857-555-200,Lanang Pudjiastuti,Samarinda,827,832,7,124000000,0,own
-340,Nugraha Yulianti,Male,+62-878-555-684,Puput Wasita,Madiun,551,556,1,128000000,1,own
-341,Lintang Budiman,Male,+62-815-555-066,Jail Megantara,Banjarbaru,663,668,0,160000000,1,mortgage
-342,Puspa Widodo,Female,+62-898-555-293,Hani Lestari,Gorontalo,663,668,1,116000000,0,missing
-343,Rika Firmansyah,female,+62-898-555-857,Surya Mardhiyah,Pare-pare,421,426,9,92000000,0,
-344,Hani Agustina,female,+62-855-555-511,Aswani Megantara,Tomohon,658,663,9,202000000,1,own
-345,Citra Susanti,Male,+62-878-555-662,Harjaya Sitorus,Malang,618,623,2,139000000,0,
-346,Nilam Yolanda,Female,+62-899-555-438,Artawan Mulyani,Prabumulih,746,751,0,173000000,1,mortgage
-347,Lala Widiastuti,Female,+62-855-555-405,Garda Hasanah,Palopo,343,348,7,207000000,1,other
-348,Ratna Latupono,,+62-896-555-798,Pranata Wibisono,Sukabumi,472,477,6,143000000,0,
-349,Rizki Maheswara,Male,+62-852-555-893,Putri Wahyudin,Sungaipenuh,777,782,5,76000000,0,
-350,Ibrani Kusmawati,Male,+62-897-555-020,Edison Ardianto,Bandung,310,315,1,52000000,0,other
-351,Titin Situmorang,male,+62-815-555-855,Galak Agustina,Jakarta Utara,580,585,4,200000000,0,other
-352,Dodo Nuraini,Female,+62-813-555-157,Tiara Firmansyah,Surabaya,345,350,1,145000000,1,
-353,Kezia Oktaviani,,+62-898-555-584,Hendra Napitupulu,Palopo,659,664,7,221000000,1,
-354,Eka Dabukke,,+62-896-555-915,Ifa Lestari,Pekalongan,532,537,5,237000000,0,other
-355,Zahra Suryono,female,+62-815-555-029,Anita Namaga,Jakarta Pusat,584,589,2,154000000,0,rent
-356,Halim Hasanah,Male,+62-878-555-912,Lintang Widodo,Padang,793,798,3,239000000,0,rent
-357,Patricia Suartini,male,+62-855-555-991,Fitria Yuliarti,Padang Panjang,529,534,0,102000000,0,mortgage
-358,Lalita Yulianti,,+62-812-555-813,Among Mansur,Dumai,628,633,10,41000000,1,rent
-359,Adinata Mulyani,male,+62-817-555-864,Febi Najmudin,Bogor,495,500,6,164000000,1,rent
-360,Kayla Mulyani,,+62-855-555-663,Mila Andriani,Madiun,696,701,7,187000000,1,other
-361,Legawa Halimah,male,+62-838-555-916,Wani Rahayu,Bau-bau,676,681,0,101000000,0,missing
-362,Rudi Zulaika,Male,+62-815-555-511,Wulan Farida,Padang Panjang,340,345,4,128000000,1,other
-363,Tugiman Natsir,male,+62-838-555-349,Mila Hidayat,Padang Panjang,312,317,7,45000000,0,other
-364,Sabrina Widodo,male,+62-855-555-885,Ajimin Habibi,Sorong,633,638,2,67000000,0,rent
-365,Banawa Rahimah,Male,+62-855-555-240,Martana Suwarno,Balikpapan,331,336,0,178000000,0,rent
-366,Caturangga Prakasa,female,+62-838-555-041,Yuni Hariyah,Mataram,827,832,6,216000000,0,own
-367,Rahmi Prasetyo,male,+62-852-555-305,Putri Yuliarti,Banjarbaru,829,834,0,68000000,0,
-368,Gasti Astuti,Female,+62-897-555-301,Padmi Namaga,Ambon,782,787,4,138000000,1,missing
-369,Diah Hartati,female,+62-815-555-555,Surya Yulianti,Banjar,638,643,4,111000000,0,
-370,Karimah Waluyo,Male,+62-878-555-980,Dalima Sihombing,Surabaya,514,519,7,54000000,1,rent
-371,Zulaikha Novitasari,male,+62-878-555-919,Kairav Pratama,Dumai,530,535,5,126000000,0,rent
-372,Ajiono Hariyah,Female,+62-815-555-019,Mahfud Zulkarnain,Ambon,523,528,9,121000000,1,
-373,Alika Santoso,male,+62-817-555-311,Indra Hasanah,Gunung Sitoli,527,532,5,153000000,0,mortgage
-374,Ajimin Hardiansyah,male,+62-838-555-006,Hafshah Hutagalung,Kupang,740,745,7,72000000,0,missing
-375,Lantar Permadi,,+62-859-555-159,Cahyo Simanjuntak,Kediri,675,680,1,93000000,1,missing
-376,Narji Astuti,Male,+62-811-555-415,Dacin Safitri,Madiun,300,305,6,179000000,0,rent
-377,Cecep Sitorus,male,+62-896-555-646,Putri Siregar,Ternate,805,810,8,179000000,0,other
-378,Betania Sudiati,male,+62-838-555-596,Galih Sinaga,Salatiga,319,324,1,94000000,0,missing
-379,Rudi Irawan,Female,+62-878-555-406,Jayadi Agustina,Palu,613,618,7,63000000,0,rent
-380,Hasim Anggriawan,Female,+62-897-555-764,Salimah Halimah,Kotamobagu,370,375,2,87000000,0,mortgage
-381,Oliva Pudjiastuti,male,+62-855-555-838,Gangsa Padmasari,Yogyakarta,574,579,0,158000000,1,missing
-382,Jarwadi Widiastuti,Male,+62-858-555-923,Gangsar Pradipta,Palopo,386,391,5,155000000,1,rent
-383,Salimah Mansur,male,+62-819-555-271,Balapati Rajata,Pagar Alam,665,670,0,81000000,1,own
-384,Ifa Hariyah,,+62-878-555-718,Mila Manullang,Sabang,753,758,5,238000000,1,
-385,Anastasia Napitupulu,male,+62-897-555-024,Hani Pradana,Pekanbaru,762,767,9,228000000,0,rent
-386,Aris Rajasa,Male,+62-896-555-996,Luthfi Utama,Batu,503,508,10,37000000,0,mortgage
-387,Mumpuni Andriani,,+62-898-555-591,Tasnim Situmorang,Blitar,586,591,8,76000000,1,missing
-388,Kuncara Simanjuntak,Female,+62-814-555-186,Samiah Rajasa,Sorong,717,722,1,224000000,1,mortgage
-389,Rahmi Nugroho,Female,+62-898-555-251,Intan Purwanti,Serang,559,564,1,208000000,0,own
-390,Nova Rahmawati,Male,+62-856-555-846,Septi Usada,Madiun,420,425,3,68000000,0,own
-391,Kamal Sinaga,Female,+62-838-555-809,Julia Sihombing,Banjarmasin,340,345,10,65000000,0,other
-392,Farhunnisa Padmasari,Male,+62-816-555-712,Maya Puspasari,Kendari,402,407,4,62000000,1,other
-393,Febi Saptono,male,+62-838-555-735,Kezia Kuswandari,Sibolga,338,343,1,237000000,1,
-394,Gabriella Handayani,female,+62-856-555-794,Yosef Zulaika,Palangka Raya,337,342,6,124000000,1,own
-395,Yani Padmasari,female,+62-838-555-430,Rendy Sudiati,Pare-pare,478,483,10,77000000,0,rent
-396,Zalindra Waluyo,female,+62-838-555-307,Atmaja Gunarto,Palu,767,772,9,65000000,1,mortgage
-397,Rachel Uyainah,Male,+62-897-555-813,Azalea Andriani,Yogyakarta,312,317,10,125000000,0,own
-398,Gading Suartini,Female,+62-838-555-267,Sarah Handayani,Metro,782,787,3,66000000,1,other
-399,Daliman Mahendra,female,+62-898-555-709,Paramita Andriani,Tangerang Selatan,417,422,7,89000000,1,own
-400,Eman Yuniar,Female,+62-898-555-137,Cinthia Aryani,Pekanbaru,409,414,6,159000000,0,mortgage
-401,Prasetya Sitompul,male,+62-856-555-016,Rendy Prasetyo,Bitung,397,402,0,179000000,1,missing
-402,Violet Dongoran,Male,+62-858-555-163,Prakosa Hastuti,Pasuruan,655,660,7,200000000,1,
-403,Queen Hasanah,,+62-897-555-375,Paiman Safitri,Metro,407,412,10,166000000,1,rent
-404,Arta Ardianto,female,+62-859-555-761,Nasab Habibi,Bitung,518,523,6,93000000,0,own
-405,Kasiyah Wijayanti,,+62-838-555-079,Rahayu Yolanda,Palembang,764,769,7,153000000,1,missing
-406,Ophelia Wasita,,+62-878-555-722,Irma Widodo,Jambi,630,635,3,110000000,0,mortgage
-407,Tedi Najmudin,male,+62-856-555-553,Gamblang Rahayu,Sawahlunto,320,325,3,176000000,1,
-408,Rafi Anggriawan,,+62-878-555-331,Maya Kusmawati,Tomohon,601,606,10,88000000,1,mortgage
-409,Puspa Saputra,female,+62-818-555-975,Jelita Hariyah,Yogyakarta,765,770,2,210000000,0,own
-410,Rangga Puspasari,female,+62-899-555-734,Jatmiko Wasita,Lhokseumawe,756,761,7,157000000,1,missing
-411,Putri Yuniar,female,+62-838-555-398,Galuh Sihotang,Probolinggo,739,744,5,54000000,1,rent
-412,Artawan Hutasoit,male,+62-813-555-412,Janet Suartini,Samarinda,402,407,9,72000000,1,own
-413,Violet Purwanti,,+62-815-555-192,Eva Nugroho,Tual,466,471,7,68000000,0,rent
-414,Viktor Handayani,Female,+62-897-555-013,Lanang Nasyidah,Bontang,740,745,6,137000000,0,missing
-415,Daruna Nugroho,female,+62-814-555-322,Empluk Mustofa,Surabaya,380,385,0,183000000,1,
-416,Laila Januar,,+62-815-555-284,Utama Hariyah,Jakarta Pusat,479,484,1,76000000,1,missing
-417,Calista Kuswandari,,+62-878-555-844,Imam Firgantoro,Malang,809,814,4,136000000,1,
-418,Nurul Suartini,,+62-878-555-004,Oliva Suryono,Dumai,427,432,5,135000000,0,own
-419,Purwa Novitasari,Male,+62-857-555-916,Elvin Rajata,Banjarbaru,320,325,2,144000000,0,own
-420,Uli Habibi,,+62-838-555-806,Lukman Padmasari,Cirebon,619,624,4,190000000,1,missing
-421,Sakura Rahimah,male,+62-878-555-626,Luluh Rahmawati,Tanjung Pinang,672,677,1,129000000,0,missing
-422,Dian Permata,female,+62-838-555-572,Bajragin Pertiwi,Kotamobagu,717,722,6,39000000,1,rent
-423,Lidya Hasanah,,+62-878-555-591,Rahman Usamah,Lhokseumawe,774,779,5,110000000,1,mortgage
-424,Suci Halimah,male,+62-878-555-735,Diah Simanjuntak,Dumai,520,525,2,45000000,0,other
-425,Carla Maryati,Male,+62-897-555-846,Karman Wijayanti,Serang,364,369,8,164000000,1,
-426,Bella Wijayanti,Male,+62-897-555-333,Olivia Melani,Medan,792,797,2,217000000,0,rent
-427,Tantri Winarsih,male,+62-853-555-909,Winda Laksmiwati,Jakarta Selatan,719,724,7,60000000,0,other
-428,Cemani Pertiwi,Female,+62-838-555-283,Hilda Nasyiah,Bandar Lampung,810,815,5,222000000,1,rent
-429,Uli Wahyuni,Male,+62-838-555-553,Ophelia Nuraini,Jakarta Utara,436,441,5,221000000,1,missing
-430,Tina Siregar,Male,+62-838-555-358,Shakila Saragih,Probolinggo,360,365,8,77000000,1,missing
-431,Indah Adriansyah,male,+62-838-555-474,Aisyah Wastuti,Blitar,533,538,0,177000000,0,other
-432,Parman Hassanah,male,+62-815-555-925,Iriana Mulyani,Madiun,520,525,7,85000000,0,mortgage
-433,Suci Firmansyah,Female,+62-838-555-204,Jaswadi Novitasari,Jakarta Timur,803,808,9,134000000,0,own
-434,Pranata Pranowo,Male,+62-812-555-863,Bala Lazuardi,Prabumulih,536,541,10,75000000,0,
-435,Gara Jailani,male,+62-853-555-920,Maryanto Mandala,Bogor,486,491,6,188000000,1,missing
-436,Cindy Ramadan,Male,+62-897-555-111,Jarwa Anggraini,Pangkalpinang,704,709,4,115000000,1,other
-437,Viman Rajasa,male,+62-878-555-138,Vanesa Purnawati,Kendari,352,357,1,144000000,1,mortgage
-438,Aslijan Simbolon,female,+62-816-555-295,Balangga Namaga,Tegal,812,817,4,159000000,1,rent
-439,Julia Dongoran,Female,+62-813-555-983,Icha Wastuti,Sukabumi,334,339,5,123000000,0,rent
-440,Malika Manullang,,+62-878-555-814,Wahyu Rahimah,Prabumulih,797,802,9,39000000,1,
-441,Cemani Gunarto,female,+62-838-555-671,Fitria Suartini,Bogor,398,403,8,54000000,1,mortgage
-442,Padma Haryanto,female,+62-812-555-750,Oni Iswahyudi,Kendari,406,411,3,179000000,0,own
-443,Sabri Gunarto,male,+62-859-555-839,Dariati Wijayanti,Bandung,498,503,3,140000000,1,mortgage
-444,Galiono Wibisono,,+62-817-555-126,Kamila Andriani,Sawahlunto,368,373,1,101000000,1,own
-445,Luluh Winarsih,Male,+62-896-555-919,Maida Pratama,Madiun,547,552,5,57000000,1,own
-446,Titin Suryatmi,Male,+62-856-555-199,Endah Mandala,Sungaipenuh,463,468,0,145000000,0,rent
-447,Opan Sirait,,+62-853-555-537,Kania Novitasari,Mataram,469,474,1,168000000,0,own
-448,Padma Nasyiah,female,+62-814-555-241,Yance Prayoga,Banjarmasin,613,618,2,135000000,1,own
-449,Olivia Usada,,+62-878-555-931,Faizah Fujiati,Bogor,478,483,4,133000000,1,own
-450,Tania Agustina,female,+62-818-555-199,Opung Agustina,Gorontalo,832,837,3,98000000,0,own
-451,Titi Kuswandari,female,+62-812-555-183,Dinda Mandasari,Binjai,398,403,0,66000000,1,missing
-452,Garan Hartati,,+62-898-555-951,Cemplunk Nasyiah,Bau-bau,305,310,7,233000000,1,rent
-453,Kusuma Farida,Male,+62-878-555-959,Gara Prasasta,Tidore Kepulauan,357,362,6,199000000,0,own
-454,Dalima Pratama,male,+62-853-555-078,Najwa Wulandari,Banjar,693,698,4,109000000,0,mortgage
-455,Tasnim Hutapea,Male,+62-838-555-662,Mumpuni Kuswandari,Banjarbaru,599,604,0,57000000,1,rent
-456,Laswi Padmasari,Male,+62-878-555-203,Ibun Hariyah,Payakumbuh,832,837,10,73000000,1,rent
-457,Saiful Namaga,male,+62-813-555-914,Surya Mulyani,Ambon,751,756,8,135000000,0,mortgage
-458,Praba Tampubolon,Female,+62-856-555-873,Ade Uyainah,Tanjung Pinang,352,357,3,86000000,0,mortgage
-459,Marwata Sihombing,female,+62-855-555-877,Rina Megantara,Serang,619,624,0,139000000,0,own
-460,Yono Mustofa,,+62-897-555-217,Mutia Prasetyo,Batam,596,601,8,163000000,0,other
-461,Tasdik Palastri,,+62-817-555-979,Oskar Najmudin,Sabang,546,551,9,60000000,0,
-462,Umaya Puspasari,male,+62-838-555-774,Adikara Pradipta,Blitar,688,693,5,214000000,0,mortgage
-463,Dewi Aryani,,+62-855-555-460,Nadia Hasanah,Cimahi,588,593,3,185000000,0,
-464,Liman Oktaviani,male,+62-811-555-223,Adika Nurdiyanti,Surakarta,528,533,9,205000000,0,mortgage
-465,Cinthia Marpaung,,+62-838-555-021,Titin Yolanda,Kupang,827,832,4,164000000,1,own
-466,Prabawa Utama,female,+62-896-555-279,Raditya Sirait,Sabang,437,442,4,215000000,1,rent
-467,Chandra Sihombing,,+62-898-555-056,Sabar Farida,Semarang,480,485,8,132000000,1,missing
-468,Digdaya Oktaviani,Female,+62-856-555-302,Vanesa Putra,Ambon,560,565,10,240000000,1,mortgage
-469,Siti Hakim,female,+62-854-555-206,Mumpuni Siregar,Pangkalpinang,673,678,6,43000000,0,mortgage
-470,Rahmi Megantara,,+62-838-555-905,Dariati Prasetyo,Jakarta Barat,621,626,8,147000000,0,other
-471,Ibrani Nasyiah,,+62-838-555-291,Janet Kuswandari,Bima,337,342,0,59000000,1,other
-472,Puput Sudiati,Female,+62-896-555-545,Sarah Prasetya,Yogyakarta,516,521,10,72000000,0,mortgage
-473,Latif Yulianti,male,+62-838-555-604,Farhunnisa Nugroho,Malang,802,807,5,145000000,1,
-474,Kasiyah Sirait,,+62-896-555-114,Ihsan Hidayanto,Tidore Kepulauan,841,846,0,178000000,0,rent
-475,Margana Maulana,,+62-838-555-151,Ami Laksmiwati,Jambi,659,664,6,143000000,0,missing
-476,Gadang Uyainah,,+62-878-555-794,Jamal Susanti,Dumai,301,306,8,139000000,1,rent
-477,Hesti Laksmiwati,male,+62-814-555-945,Darman Suartini,Depok,627,632,1,174000000,1,
-478,Rafid Budiman,female,+62-878-555-235,Kartika Permata,Semarang,535,540,6,86000000,0,
-479,Erik Agustina,Male,+62-878-555-783,Carla Halim,Pekanbaru,425,430,6,173000000,1,mortgage
-480,Chelsea Haryanti,Male,+62-899-555-875,Among Kuswoyo,Depok,828,833,7,132000000,1,
-481,Wage Dongoran,male,+62-878-555-734,Caturangga Andriani,Metro,663,668,9,68000000,1,mortgage
-482,Maya Uyainah,Male,+62-898-555-821,Sadina Narpati,Banjar,310,315,8,181000000,1,missing
-483,Agnes Halimah,female,+62-878-555-736,Bajragin Safitri,Tarakan,443,448,3,201000000,1,rent
-484,Kawaca Hartati,,+62-858-555-025,Aslijan Zulaika,Lhokseumawe,803,808,9,52000000,1,other
-485,Okto Firmansyah,male,+62-857-555-670,Lantar Mandala,Batu,830,835,3,143000000,0,own
-486,Unggul Padmasari,Male,+62-838-555-666,Betania Namaga,Kotamobagu,585,590,9,211000000,1,missing
-487,Lintang Lestari,female,+62-817-555-379,Puput Firmansyah,Pekanbaru,778,783,5,41000000,1,mortgage
-488,Nurul Rajata,Female,+62-838-555-022,Kayun Sudiati,Langsa,312,317,7,48000000,0,rent
-489,Banawi Rahimah,male,+62-853-555-745,Hilda Santoso,Palangka Raya,372,377,10,180000000,1,own
-490,Ivan Halimah,female,+62-853-555-044,Tasnim Tamba,Salatiga,437,442,6,185000000,1,mortgage
-491,Hani Santoso,Male,+62-853-555-676,Dipa Kuswoyo,Blitar,700,705,3,63000000,0,other
-492,Dian Handayani,Male,+62-859-555-916,Dasa Kuswandari,Salatiga,742,747,10,148000000,0,other
-493,Hasna Nashiruddin,female,+62-854-555-884,Hendra Kuswandari,Tidore Kepulauan,631,636,3,166000000,1,other
-494,Janet Nashiruddin,female,+62-878-555-613,Hamima Rahayu,Bengkulu,506,511,6,159000000,1,own
-495,Kezia Aryani,Male,+62-852-555-276,Kani Farida,Bengkulu,425,430,3,233000000,0,own
-496,Gabriella Marpaung,Female,+62-858-555-370,Lalita Nuraini,Bima,644,649,0,197000000,1,mortgage
-497,Restu Prasetya,,+62-898-555-085,Amalia Setiawan,Pematangsiantar,336,341,0,132000000,1,other
-498,Lurhur Wastuti,Female,+62-838-555-325,Yulia Hidayanto,Bukittinggi,784,789,6,172000000,1,other
-499,Niyaga Melani,,+62-899-555-474,Okta Riyanti,Palangka Raya,381,386,3,176000000,1,
-500,Almira Rahimah,female,+62-838-555-249,Elma Oktaviani,Binjai,614,619,10,97000000,0,own
-501,Jarwi Tarihoran,Female,+62-878-555-994,Cici Wibowo,Tangerang Selatan,713,718,4,198000000,0,missing
-502,Kenari Nurdiyanti,Male,+62-815-555-940,Among Halimah,Bontang,334,339,3,163000000,1,rent
-503,Zaenab Haryanto,Male,+62-878-555-253,Ellis Nasyiah,Denpasar,315,320,8,156000000,0,other
-504,Edi Mardhiyah,,+62-855-555-660,Ella Narpati,Metro,836,841,6,226000000,1,other
-505,Adikara Hariyah,female,+62-853-555-655,Empluk Haryanti,Tasikmalaya,394,399,9,217000000,1,other
-506,Rudi Marbun,Female,+62-878-555-946,Asmianto Pertiwi,Surabaya,705,710,1,236000000,0,rent
-507,Farhunnisa Nashiruddin,,+62-838-555-345,Samiah Mardhiyah,Gunung Sitoli,784,789,7,53000000,0,other
-508,Darman Utama,male,+62-819-555-201,Ani Hidayanto,Sorong,797,802,7,105000000,1,
-509,Azalea Yuliarti,,+62-816-555-552,Ratna Hakim,Banjar,687,692,0,202000000,1,own
-510,Dartono Sihombing,Male,+62-878-555-589,Salwa Mardhiyah,Madiun,498,503,10,190000000,0,
-511,Hana Halimah,male,+62-878-555-715,Raharja Prasasta,Medan,321,326,4,224000000,0,own
-512,Malika Yuliarti,Female,+62-815-555-002,Emil Namaga,Jakarta Selatan,347,352,2,72000000,0,mortgage
-513,Winda Agustina,female,+62-899-555-505,Mahesa Halimah,Mataram,644,649,2,93000000,0,other
-514,Qori Yulianti,female,+62-878-555-110,Harjo Wijayanti,Cilegon,556,561,2,214000000,1,mortgage
-515,Unjani Lestari,Male,+62-838-555-492,Emil Gunawan,Bukittinggi,300,305,9,162000000,0,own
-516,Agnes Novitasari,Female,+62-852-555-716,Nova Sitorus,Jakarta Barat,498,503,6,201000000,0,own
-517,Eka Wacana,male,+62-878-555-441,Mustofa Aryani,Tebing Tinggi,799,804,3,124000000,1,
-518,Citra Wahyudin,,+62-819-555-856,Zalindra Oktaviani,Kotamobagu,683,688,8,72000000,1,mortgage
-519,Setya Hutasoit,female,+62-896-555-303,Ciaobella Purnawati,Sawahlunto,324,329,1,210000000,0,rent
-520,Hafshah Suartini,female,+62-899-555-910,Widya Tampubolon,Bukittinggi,459,464,0,89000000,1,rent
-521,Eja Prakasa,Male,+62-813-555-988,Intan Wahyuni,Bitung,445,450,3,83000000,0,own
-522,Balamantri Prastuti,Female,+62-878-555-353,Karya Kusmawati,Jakarta Barat,611,616,4,140000000,0,mortgage
-523,Jatmiko Maulana,Female,+62-878-555-160,Padmi Hidayanto,Jakarta Selatan,832,837,8,195000000,1,missing
-524,Banara Ramadan,male,+62-897-555-272,Ratih Pranowo,Bandung,359,364,7,217000000,1,own
-525,Pranata Nasyiah,female,+62-896-555-192,Umi Mulyani,Padang Sidempuan,699,704,1,36000000,1,missing
-526,Wahyu Susanti,Female,+62-898-555-993,Tirta Mardhiyah,Banjarbaru,648,653,2,66000000,0,own
-527,Wardi Wibisono,female,+62-898-555-658,Elvina Rajasa,Payakumbuh,656,661,5,145000000,1,own
-528,Ulva Wijayanti,male,+62-878-555-321,Teguh Dabukke,Batam,595,600,5,209000000,0,other
-529,Kairav Puspita,female,+62-897-555-149,Jamalia Pudjiastuti,Cirebon,808,813,0,150000000,0,mortgage
-530,Ajimin Wibisono,,+62-838-555-926,Daliono Winarno,Magelang,452,457,0,224000000,1,other
-531,Clara Riyanti,,+62-896-555-899,Violet Hassanah,Pagar Alam,722,727,0,109000000,1,rent
-532,Gantar Riyanti,,+62-898-555-866,Oman Anggraini,Bandar Lampung,516,521,7,226000000,0,other
-533,Argono Waluyo,Male,+62-899-555-531,Yunita Mustofa,Cilegon,515,520,5,236000000,0,missing
-534,Bella Widodo,male,+62-878-555-814,Praba Sudiati,Sawahlunto,379,384,4,169000000,0,rent
-535,Titi Sihombing,male,+62-855-555-117,Prayitna Sihotang,Tangerang,740,745,5,142000000,1,own
-536,Julia Narpati,female,+62-859-555-505,Marsudi Anggriawan,Gunung Sitoli,536,541,3,163000000,1,rent
-537,Aslijan Laksmiwati,,+62-815-555-617,Salman Widodo,Balikpapan,305,310,1,144000000,0,rent
-538,Puti Gunarto,Female,+62-838-555-254,Safina Rajasa,Palangka Raya,391,396,1,50000000,0,
-539,Jelita Fujiati,,+62-858-555-646,Salsabila Wibisono,Cilegon,695,700,6,227000000,1,
-540,Salman Yolanda,Female,+62-817-555-601,Cemeti Budiyanto,Kupang,632,637,6,86000000,1,missing
-541,Agnes Mayasari,Female,+62-815-555-255,Febi Usada,Salatiga,813,818,9,133000000,0,rent
-542,Tania Wijayanti,Male,+62-878-555-540,Faizah Saefullah,Tangerang Selatan,304,309,4,233000000,0,missing
-543,Kasiyah Suartini,Female,+62-878-555-653,Kartika Puspita,Bengkulu,450,455,0,115000000,1,missing
-544,Qori Hidayanto,female,+62-838-555-073,Ifa Megantara,Ambon,373,378,5,199000000,1,rent
-545,Latika Winarsih,Male,+62-898-555-602,Ifa Haryanti,Dumai,484,489,1,196000000,0,other
-546,Siti Haryanti,Male,+62-838-555-431,Panca Widiastuti,Bitung,472,477,10,89000000,1,other
-547,Prayoga Setiawan,Female,+62-855-555-575,Alika Kuswoyo,Banda Aceh,430,435,0,66000000,1,own
-548,Sabri Melani,,+62-853-555-333,Karsana Adriansyah,Singkawang,714,719,5,56000000,0,rent
-549,Fitriani Zulkarnain,female,+62-838-555-759,Bakiman Nasyidah,Binjai,651,656,10,104000000,0,
-550,Raisa Siregar,male,+62-878-555-486,Alika Mustofa,Serang,748,753,10,121000000,0,other
-551,Karen Puspasari,Male,+62-898-555-585,Amalia Anggriawan,Banjar,574,579,3,56000000,1,
-552,Lasmono Situmorang,female,+62-838-555-856,Silvia Budiyanto,Denpasar,730,735,2,55000000,1,rent
-553,Padmi Yuniar,male,+62-838-555-863,Yusuf Oktaviani,Palangka Raya,300,305,1,45000000,0,rent
-554,Siska Sudiati,Male,+62-897-555-524,Ciaobella Simanjuntak,Pekanbaru,449,454,9,109000000,0,missing
-555,Putu Maryadi,male,+62-858-555-625,Tari Nuraini,Gunung Sitoli,594,599,2,107000000,1,missing
-556,Maryadi Maheswara,female,+62-813-555-251,Karja Siregar,Pekalongan,467,472,0,183000000,1,other
-557,Gatot Sitorus,male,+62-815-555-708,Putri Riyanti,Langsa,767,772,9,100000000,0,other
-558,Muni Yuniar,female,+62-897-555-602,Viktor Wulandari,Pare-pare,484,489,3,94000000,0,rent
-559,Kunthara Halimah,male,+62-878-555-826,Latika Maheswara,Dumai,519,524,0,219000000,1,mortgage
-560,Betania Saefullah,male,+62-838-555-217,Qori Lailasari,Padang Sidempuan,628,633,4,191000000,1,rent
-561,Hesti Kuswoyo,,+62-838-555-069,Ina Firmansyah,Depok,322,327,10,78000000,1,rent
-562,Cindy Uwais,male,+62-819-555-495,Mutia Astuti,Sawahlunto,321,326,5,129000000,0,missing
-563,Eli Prasetyo,Female,+62-878-555-190,Melinda Waluyo,Madiun,463,468,3,224000000,0,own
-564,Viktor Lailasari,Male,+62-838-555-949,Cager Maulana,Kotamobagu,565,570,5,232000000,0,mortgage
-565,Lili Nugroho,Male,+62-838-555-987,Vivi Palastri,Banjar,426,431,5,199000000,1,
-566,Rahmi Wahyudin,,+62-838-555-412,Viman Budiyanto,Semarang,661,666,7,80000000,0,
-567,Mahesa Haryanti,,+62-838-555-414,Suci Namaga,Depok,422,427,4,60000000,0,mortgage
-568,Dimas Megantara,Male,+62-878-555-448,Laras Purnawati,Padang Panjang,815,820,1,175000000,1,missing
-569,Oliva Anggraini,male,+62-811-555-758,Hairyanto Purwanti,Tangerang,438,443,5,226000000,1,rent
-570,Harjaya Napitupulu,male,+62-878-555-746,Jaeman Tampubolon,Jayapura,532,537,0,97000000,1,
-571,Ratna Dabukke,Female,+62-857-555-188,Olivia Waskita,Bima,394,399,8,127000000,1,
-572,Karta Zulkarnain,,+62-818-555-931,Keisha Damanik,Makassar,406,411,10,154000000,1,missing
-573,Prabawa Aryani,male,+62-816-555-229,Puji Suwarno,Jayapura,559,564,4,209000000,1,missing
-574,Carla Gunarto,,+62-896-555-628,Icha Widodo,Bogor,725,730,3,93000000,1,rent
-575,Rosman Maryati,female,+62-812-555-258,Kusuma Oktaviani,Metro,439,444,3,226000000,0,
-576,Kasim Mandasari,Male,+62-878-555-162,Lalita Susanti,Pangkalpinang,725,730,4,56000000,1,
-577,Capa Nashiruddin,female,+62-838-555-363,Mulyanto Iswahyudi,Tual,822,827,1,126000000,0,missing
-578,Elma Saptono,Female,+62-899-555-790,Puji Wijaya,Jayapura,618,623,8,171000000,0,other
-579,Pandu Safitri,Female,+62-838-555-437,Carla Sirait,Bitung,741,746,2,124000000,0,missing
-580,Kartika Zulaika,female,+62-899-555-916,Gara Widiastuti,Pasuruan,645,650,9,83000000,1,other
-581,Ophelia Prakasa,,+62-878-555-476,Vicky Yulianti,Bandung,300,305,10,173000000,0,
-582,Maida Nuraini,female,+62-858-555-276,Devi Namaga,Depok,690,695,3,222000000,1,
-583,Bella Natsir,male,+62-852-555-011,Syahrini Purwanti,Magelang,434,439,6,189000000,0,
-584,Hesti Simbolon,,+62-856-555-303,Ozy Saragih,Semarang,325,330,2,102000000,0,missing
-585,Kenzie Nasyiah,Female,+62-859-555-410,Hamzah Yuniar,Serang,404,409,6,198000000,0,missing
-586,Prima Kusmawati,female,+62-855-555-162,Utama Hassanah,Tanjung Pinang,451,456,10,156000000,0,missing
-587,Gandi Siregar,female,+62-878-555-871,Oskar Palastri,Mataram,658,663,4,49000000,0,rent
-588,Gaman Kuswandari,,+62-898-555-616,Dinda Rahimah,Bekasi,687,692,7,140000000,0,rent
-589,Jane Hidayanto,Female,+62-898-555-609,Nalar Safitri,Pematangsiantar,534,539,8,153000000,0,
-590,Agnes Haryanti,,+62-897-555-747,Jindra Nuraini,Palopo,333,338,2,101000000,0,
-591,Jindra Napitupulu,,+62-838-555-521,Gina Prabowo,Semarang,826,831,7,197000000,0,other
-592,Alika Widiastuti,,+62-878-555-535,Siska Laksmiwati,Gunung Sitoli,803,808,2,44000000,0,missing
-593,Rika Mayasari,female,+62-853-555-674,Aris Farida,Padang,600,605,0,200000000,1,own
-594,Praba Wahyuni,Female,+62-855-555-548,Cayadi Winarsih,Tanjung Pinang,360,365,6,67000000,1,mortgage
-595,Anggabaya Santoso,female,+62-859-555-687,Jati Mangunsong,Balikpapan,648,653,1,178000000,1,
-596,Warsa Damanik,female,+62-878-555-130,Vinsen Winarsih,Mataram,448,453,1,213000000,0,own
-597,Eva Nasyiah,male,+62-819-555-502,Prayitna Usada,Sungaipenuh,756,761,8,196000000,0,rent
-598,Artawan Zulkarnain,Female,+62-817-555-939,Saiful Saefullah,Lhokseumawe,411,416,10,138000000,0,
-599,Reksa Purnawati,,+62-853-555-234,Simon Utami,Pasuruan,599,604,10,138000000,1,missing
-600,Clara Tamba,Male,+62-896-555-753,Wani Lestari,Banjarbaru,322,327,9,155000000,0,mortgage
-601,Dalima Pratiwi,Male,+62-855-555-812,Rama Firgantoro,Langsa,575,580,4,226000000,1,own
-602,Ghani Nurdiyanti,Female,+62-878-555-228,Cakrabuana Dongoran,Mataram,328,333,3,230000000,0,other
-603,Prayoga Zulkarnain,Female,+62-811-555-892,Gaiman Hutasoit,Sungaipenuh,352,357,2,190000000,1,own
-604,Violet Kuswoyo,Male,+62-838-555-239,Kadir Suwarno,Prabumulih,734,739,3,182000000,1,
-605,Nardi Padmasari,female,+62-812-555-066,Gawati Padmasari,Ambon,806,811,3,104000000,1,other
-606,Mustofa Maulana,male,+62-855-555-927,Hartana Nuraini,Sungaipenuh,442,447,0,199000000,0,missing
-607,Samiah Wibowo,Male,+62-897-555-500,Cemani Rahmawati,Pekanbaru,467,472,6,190000000,1,
-608,Tomi Anggriawan,Male,+62-814-555-229,Vero Pratama,Jakarta Selatan,360,365,4,169000000,1,mortgage
-609,Enteng Permadi,,+62-838-555-552,Lanjar Ardianto,Subulussalam,666,671,6,80000000,1,missing
-610,Juli Mandala,,+62-897-555-731,Tiara Latupono,Bandung,527,532,5,50000000,0,mortgage
-611,Tami Lailasari,male,+62-899-555-326,Endah Farida,Sawahlunto,715,720,3,102000000,1,rent
-612,Kariman Marpaung,Female,+62-898-555-504,Perkasa Kuswoyo,Tangerang Selatan,391,396,10,146000000,1,mortgage
-613,Amalia Pudjiastuti,Female,+62-878-555-443,Jasmin Hasanah,Madiun,475,480,8,61000000,1,other
-614,Aurora Winarsih,male,+62-857-555-403,Luhung Novitasari,Magelang,632,637,5,46000000,1,rent
-615,Wirda Sudiati,female,+62-857-555-216,Sabrina Hutagalung,Jakarta Timur,556,561,8,161000000,0,rent
-616,Safina Hartati,Male,+62-898-555-180,Nabila Yulianti,Tomohon,444,449,10,62000000,0,
-617,Genta Gunawan,female,+62-856-555-138,Yusuf Wijayanti,Jakarta Pusat,375,380,0,47000000,1,own
-618,Icha Mayasari,Female,+62-838-555-705,Pangeran Handayani,Pematangsiantar,830,835,1,133000000,0,own
-619,Cornelia Yulianti,male,+62-898-555-393,Niyaga Handayani,Banjarmasin,781,786,3,63000000,1,other
-620,Jatmiko Namaga,Male,+62-817-555-824,Gilang Rajasa,Tual,586,591,2,46000000,0,own
-621,Intan Zulaika,male,+62-854-555-492,Rika Adriansyah,Langsa,681,686,6,83000000,0,
-622,Ratih Wibowo,Female,+62-878-555-671,Aditya Thamrin,Solok,500,505,0,226000000,1,
-623,Nabila Lailasari,Female,+62-816-555-288,Purwanto Megantara,Kupang,574,579,8,115000000,1,mortgage
-624,Humaira Astuti,,+62-896-555-112,Eluh Firgantoro,Pare-pare,534,539,1,207000000,0,own
-625,Eka Haryanti,,+62-855-555-181,Humaira Sitorus,Jakarta Timur,396,401,2,89000000,0,own
-626,Ina Firgantoro,Male,+62-859-555-113,Rika Situmorang,Pontianak,744,749,5,140000000,0,mortgage
-627,Kayla Mahendra,female,+62-838-555-532,Zaenab Lailasari,Kupang,330,335,2,201000000,1,missing
-628,Hartana Pudjiastuti,male,+62-878-555-678,Rina Rahmawati,Medan,819,824,9,150000000,1,missing
-629,Ibun Wijaya,male,+62-855-555-920,Ulva Novitasari,Pontianak,785,790,6,166000000,1,missing
-630,Dadap Nababan,female,+62-898-555-406,Saka Maryati,Batu,374,379,4,194000000,1,rent
-631,Jelita Nainggolan,,+62-897-555-036,Lukman Utami,Bogor,468,473,3,133000000,0,own
-632,Salimah Zulaika,Male,+62-896-555-874,Keisha Wahyuni,Tanjung Balai,763,768,5,170000000,1,own
-633,Hasta Kuswoyo,male,+62-818-555-644,Cornelia Aryani,Sibolga,336,341,10,158000000,1,own
-634,Betania Simanjuntak,male,+62-838-555-868,Rafi Rahimah,Dumai,445,450,6,65000000,1,missing
-635,Yusuf Rajata,,+62-878-555-418,Zaenab Wacana,Sorong,843,848,7,240000000,0,mortgage
-636,Sabrina Manullang,,+62-813-555-700,Kemba Suwarno,Subulussalam,455,460,8,153000000,0,missing
-637,Caket Maheswara,Male,+62-838-555-365,Kacung Mardhiyah,Bengkulu,512,517,9,103000000,0,mortgage
-638,Cawisadi Yuniar,male,+62-896-555-941,Septi Habibi,Sorong,709,714,9,73000000,0,rent
-639,Zulaikha Maryati,male,+62-899-555-777,Kamidin Napitupulu,Sabang,493,498,2,185000000,0,other
-640,Alika Mardhiyah,Male,+62-898-555-808,Salwa Handayani,Banjarmasin,435,440,6,157000000,0,rent
-641,Hamima Nababan,male,+62-818-555-843,Genta Usamah,Kotamobagu,736,741,8,89000000,0,own
-642,Kania Rajasa,Female,+62-878-555-255,Ajimat Thamrin,Mojokerto,763,768,3,175000000,1,mortgage
-643,Labuh Melani,,+62-838-555-504,Zelaya Melani,Kendari,309,314,1,174000000,0,mortgage
-644,Drajat Oktaviani,female,+62-853-555-641,Wirda Laksita,Banjarbaru,746,751,9,52000000,1,mortgage
-645,Dimas Maryati,Female,+62-854-555-052,Nadine Yolanda,Lhokseumawe,480,485,1,37000000,1,rent
-646,Bahuwirya Iswahyudi,male,+62-899-555-320,Putu Laksita,Solok,522,527,6,116000000,0,rent
-647,Yusuf Suartini,Male,+62-838-555-679,Ibun Riyanti,Subulussalam,354,359,3,228000000,1,
-648,Vera Wijayanti,,+62-899-555-903,Bala Sihotang,Cimahi,691,696,2,233000000,1,rent
-649,Dinda Agustina,female,+62-813-555-848,Shakila Samosir,Banda Aceh,529,534,3,85000000,1,
-650,Prayoga Widiastuti,female,+62-813-555-449,Ibun Rajasa,Salatiga,364,369,1,95000000,0,mortgage
-651,Olga Wasita,Male,+62-878-555-848,Latika Hutapea,Banjarmasin,633,638,0,153000000,0,rent
-652,Hardana Situmorang,Male,+62-811-555-325,Nasab Suartini,Magelang,773,778,5,238000000,0,other
-653,Galak Wastuti,,+62-899-555-352,Prakosa Aryani,Cilegon,576,581,4,226000000,1,missing
-654,Prasetyo Nugroho,Female,+62-838-555-532,Emong Anggriawan,Tidore Kepulauan,667,672,3,149000000,1,mortgage
-655,Calista Saputra,,+62-878-555-479,Ega Pratama,Sukabumi,720,725,3,176000000,1,rent
-656,Candra Rahayu,Male,+62-838-555-705,Galur Kurniawan,Payakumbuh,825,830,6,173000000,0,rent
-657,Nalar Pratama,Male,+62-878-555-707,Unjani Usada,Jakarta Utara,589,594,9,188000000,1,missing
-658,Prabu Wacana,,+62-819-555-695,Sabar Megantara,Palembang,396,401,4,76000000,0,own
-659,Cengkir Pranowo,female,+62-856-555-894,Surya Halimah,Sibolga,475,480,0,97000000,0,
-660,Bella Tarihoran,female,+62-838-555-098,Mulya Farida,Jakarta Utara,718,723,8,191000000,1,other
-661,Anita Gunawan,female,+62-899-555-633,Maryadi Susanti,Pontianak,787,792,7,61000000,1,other
-662,Dariati Saputra,male,+62-852-555-272,Prasetya Winarno,Palu,309,314,3,68000000,0,other
-663,Lanang Saragih,,+62-878-555-857,Tedi Prastuti,Jakarta Timur,324,329,4,194000000,0,mortgage
-664,Puti Novitasari,Male,+62-897-555-469,Febi Marbun,Pekanbaru,504,509,8,82000000,0,own
-665,Erik Riyanti,Female,+62-878-555-960,Padma Sitompul,Makassar,571,576,6,66000000,0,own
-666,Unjani Wacana,female,+62-878-555-879,Jessica Habibi,Subulussalam,307,312,9,95000000,0,own
-667,Jamil Yolanda,male,+62-838-555-504,Laksana Pertiwi,Bau-bau,441,446,8,219000000,1,
-668,Suci Ardianto,female,+62-815-555-596,Adiarja Samosir,Bima,598,603,5,195000000,0,mortgage
-669,Aurora Siregar,male,+62-838-555-224,Artanto Sinaga,Kendari,408,413,3,239000000,1,
-670,Sakura Samosir,Female,+62-897-555-633,Malika Suwarno,Binjai,823,828,2,75000000,0,other
-671,Oliva Kuswandari,male,+62-852-555-099,Estiawan Nainggolan,Singkawang,318,323,0,176000000,0,own
-672,Farah Usada,Male,+62-898-555-335,Purwanto Ardianto,Banda Aceh,718,723,0,132000000,0,own
-673,Vera Marpaung,female,+62-838-555-668,Mahesa Narpati,Bitung,736,741,9,89000000,0,own
-674,Ganda Gunarto,,+62-859-555-055,Vanesa Mulyani,Jakarta Pusat,668,673,10,48000000,1,rent
-675,Aurora Kuswandari,,+62-878-555-510,Gadang Safitri,Depok,539,544,7,233000000,1,own
-676,Asmianto Andriani,male,+62-896-555-650,Cinthia Narpati,Pare-pare,791,796,2,157000000,0,other
-677,Marwata Wijayanti,male,+62-878-555-520,Taufik Hassanah,Padang,326,331,6,46000000,1,
-678,Karimah Pradipta,Female,+62-855-555-903,Tasnim Laksita,Banjarmasin,501,506,5,187000000,0,rent
-679,Restu Mayasari,Male,+62-878-555-465,Aditya Mulyani,Tangerang Selatan,450,455,6,51000000,0,mortgage
-680,Salman Maryadi,female,+62-815-555-657,Kamila Nasyiah,Depok,531,536,7,180000000,0,
-681,Unjani Lailasari,female,+62-838-555-245,Bakiman Hidayanto,Bengkulu,528,533,9,57000000,1,missing
-682,Almira Namaga,,+62-838-555-411,Raden Sihotang,Tebing Tinggi,533,538,6,132000000,0,missing
-683,Lala Lazuardi,male,+62-878-555-605,Tina Zulaika,Banda Aceh,432,437,7,148000000,0,
-684,Anastasia Maulana,,+62-858-555-756,Umi Nababan,Samarinda,434,439,4,204000000,1,rent
-685,Humaira Pratama,male,+62-856-555-498,Jefri Riyanti,Bandung,830,835,0,108000000,0,mortgage
-686,Puji Purwanti,Male,+62-838-555-475,Eko Kusumo,Banda Aceh,405,410,9,197000000,0,
-687,Galur Yulianti,Female,+62-838-555-808,Lukita Laksmiwati,Prabumulih,761,766,0,189000000,0,own
-688,Hasna Ardianto,Male,+62-838-555-746,Kawaca Hidayanto,Bandung,413,418,10,116000000,0,mortgage
-689,Praba Firgantoro,female,+62-899-555-521,Irfan Nugroho,Batam,382,387,7,220000000,0,other
-690,Novi Yolanda,Female,+62-859-555-123,Cahyo Melani,Magelang,604,609,9,82000000,0,own
-691,Gading Maryati,Female,+62-812-555-897,Bahuraksa Ramadan,Cirebon,773,778,9,137000000,1,rent
-692,Dian Haryanti,male,+62-899-555-610,Reksa Hassanah,Prabumulih,443,448,9,71000000,1,mortgage
-693,Danang Hasanah,female,+62-818-555-153,Kania Agustina,Binjai,697,702,10,102000000,0,own
-694,Hasta Laksmiwati,female,+62-818-555-652,Raina Salahudin,Makassar,615,620,3,92000000,1,rent
-695,Violet Hasanah,female,+62-898-555-250,Violet Yuliarti,Sawahlunto,312,317,7,115000000,1,rent
-696,Clara Hutapea,Female,+62-815-555-890,Johan Setiawan,Tual,794,799,9,44000000,1,own
-697,Clara Ramadan,Male,+62-898-555-679,Marsito Saragih,Mojokerto,409,414,8,135000000,1,rent
-698,Dwi Susanti,male,+62-878-555-321,Vivi Laksita,Sungaipenuh,818,823,4,222000000,1,mortgage
-699,Putri Mulyani,male,+62-813-555-486,Karimah Pertiwi,Banda Aceh,584,589,1,165000000,1,other
-700,Dacin Permata,male,+62-898-555-955,Shakila Rahayu,Samarinda,557,562,2,231000000,1,
-701,Gina Siregar,,+62-898-555-112,Prabowo Prabowo,Manado,729,734,9,152000000,0,other
-702,Dartono Wahyuni,Female,+62-897-555-129,Ayu Suwarno,Medan,799,804,9,129000000,1,missing
-703,Bagya Handayani,Male,+62-853-555-517,Ika Prakasa,Tomohon,823,828,5,99000000,1,mortgage
-704,Gangsa Nugroho,,+62-854-555-288,Prasetyo Puspita,Yogyakarta,329,334,0,147000000,1,own
-705,Vino Simbolon,male,+62-852-555-552,Eli Simbolon,Palangka Raya,618,623,3,78000000,1,rent
-706,Tina Astuti,male,+62-878-555-869,Maimunah Budiyanto,Payakumbuh,312,317,2,75000000,0,mortgage
-707,Septi Nurdiyanti,male,+62-854-555-052,Akarsana Prastuti,Padang Sidempuan,494,499,7,191000000,1,missing
-708,Pia Mayasari,Female,+62-838-555-695,Ridwan Prabowo,Tangerang,504,509,7,117000000,0,own
-709,Waluyo Suryatmi,,+62-812-555-122,Warsa Mandasari,Banjarbaru,505,510,1,42000000,0,own
-710,Maman Rahimah,female,+62-899-555-760,Zulfa Permata,Manado,629,634,3,230000000,0,rent
-711,Oliva Sihombing,,+62-878-555-861,Halima Narpati,Pagar Alam,473,478,2,188000000,0,mortgage
-712,Samiah Sihotang,Male,+62-898-555-164,Edi Mustofa,Subulussalam,444,449,9,220000000,1,other
-713,Tasdik Riyanti,,+62-878-555-575,Gaman Hutapea,Pariaman,589,594,4,234000000,1,rent
-714,Lintang Rahayu,Female,+62-856-555-911,Ajeng Lestari,Bandar Lampung,491,496,9,117000000,1,mortgage
-715,Gasti Zulaika,Female,+62-878-555-640,Martaka Pertiwi,Langsa,318,323,2,124000000,0,other
-716,Cici Hastuti,male,+62-899-555-277,Asman Januar,Bau-bau,381,386,6,231000000,1,
-717,Putri Prasasta,male,+62-815-555-414,Elon Halimah,Padang,767,772,5,95000000,0,other
-718,Samsul Novitasari,female,+62-878-555-885,Ajimat Napitupulu,Pekanbaru,365,370,10,85000000,0,rent
-719,Adinata Oktaviani,Female,+62-819-555-173,Edward Namaga,Medan,828,833,1,40000000,0,own
-720,Kamidin Melani,male,+62-838-555-504,Cornelia Winarno,Padang,649,654,4,65000000,0,
-721,Kania Prabowo,,+62-897-555-384,Luis Pratama,Bontang,704,709,9,150000000,0,
-722,Damar Haryanti,Male,+62-814-555-351,Darimin Fujiati,Langsa,704,709,10,79000000,1,
-723,Vivi Prasetyo,female,+62-896-555-244,Rahmi Sitorus,Pagar Alam,650,655,10,232000000,0,rent
-724,Sakura Puspita,,+62-858-555-332,Anastasia Dabukke,Padang,600,605,5,52000000,0,other
-725,Karta Prastuti,Male,+62-853-555-700,Harjo Marbun,Kupang,330,335,8,160000000,0,
-726,Lembah Puspasari,Female,+62-878-555-513,Uli Thamrin,Jakarta Utara,464,469,3,226000000,1,own
-727,Ismail Nasyidah,Female,+62-838-555-386,Ika Wasita,Batu,734,739,7,61000000,1,own
-728,Sabar Saputra,Female,+62-878-555-284,Asmianto Permata,Denpasar,597,602,6,102000000,0,own
-729,Nasrullah Mayasari,female,+62-838-555-770,Oliva Waluyo,Bekasi,366,371,3,102000000,0,rent
-730,Sakti Tarihoran,,+62-818-555-578,Warsita Yuliarti,Jakarta Timur,675,680,3,184000000,1,missing
-731,Umar Purnawati,male,+62-838-555-833,Tomi Latupono,Pematangsiantar,400,405,7,62000000,1,own
-732,Queen Kusmawati,female,+62-878-555-388,Icha Mandasari,Lubuklinggau,530,535,1,215000000,0,own
-733,Candrakanta Namaga,Female,+62-854-555-394,Arta Simanjuntak,Batu,605,610,5,120000000,1,other
-734,Tania Nurdiyanti,Female,+62-878-555-297,Wisnu Suartini,Pangkalpinang,566,571,5,139000000,1,own
-735,Kartika Agustina,female,+62-838-555-466,Chelsea Saefullah,Palopo,774,779,9,184000000,1,
-736,Gawati Saefullah,Female,+62-878-555-779,Prabu Andriani,Blitar,665,670,0,177000000,0,missing
-737,Reksa Handayani,,+62-878-555-173,Ida Firmansyah,Singkawang,591,596,7,172000000,1,mortgage
-738,Karimah Pangestu,Female,+62-858-555-578,Cinta Suryatmi,Makassar,582,587,9,46000000,1,other
-739,Malik Winarsih,male,+62-878-555-028,Endra Permata,Tidore Kepulauan,606,611,0,107000000,1,
-740,Surya Pradipta,Male,+62-859-555-742,Jagapati Napitupulu,Balikpapan,539,544,0,119000000,1,mortgage
-741,Syahrini Siregar,,+62-815-555-381,Lukita Pradipta,Pematangsiantar,496,501,10,203000000,1,missing
-742,Oman Budiyanto,male,+62-878-555-065,Zelda Agustina,Palembang,842,847,3,43000000,1,own
-743,Emong Habibi,female,+62-878-555-067,Maria Napitupulu,Bontang,659,664,2,159000000,1,
-744,Yuliana Hassanah,male,+62-838-555-309,Puput Hidayat,Pekanbaru,492,497,3,164000000,0,rent
-745,Bakda Prasasta,female,+62-859-555-236,Puji Permata,Kotamobagu,510,515,2,151000000,1,own
-746,Qori Rahmawati,Female,+62-819-555-249,Malika Putra,Madiun,825,830,1,165000000,1,missing
-747,Jane Uwais,Female,+62-898-555-695,Daliono Irawan,Sibolga,400,405,2,112000000,0,rent
-748,Gatra Januar,Female,+62-857-555-899,Kala Namaga,Bontang,489,494,3,115000000,0,other
-749,Tugiman Lestari,Female,+62-853-555-460,Eva Handayani,Tanjung Pinang,448,453,3,187000000,0,mortgage
-750,Rika Uwais,Female,+62-899-555-748,Caket Aryani,Kendari,540,545,1,74000000,1,own
-751,Dipa Sirait,Female,+62-878-555-603,Devi Usamah,Kupang,684,689,1,137000000,1,mortgage
-752,Yessi Natsir,female,+62-838-555-108,Mulya Prasetyo,Magelang,665,670,3,96000000,1,other
-753,Ratna Riyanti,male,+62-898-555-528,Eja Putra,Jakarta Pusat,609,614,10,79000000,0,other
-754,Viman Prasetya,,+62-856-555-784,Kenes Agustina,Semarang,486,491,10,203000000,0,own
-755,Patricia Hastuti,male,+62-838-555-324,Nadine Firmansyah,Ambon,300,305,0,43000000,1,
-756,Zizi Gunarto,Male,+62-814-555-549,Cakrabuana Hidayanto,Malang,362,367,8,191000000,0,
-757,Satya Hutasoit,Male,+62-856-555-323,Kacung Mustofa,Banjarbaru,468,473,3,88000000,0,other
-758,Balamantri Prasasta,Female,+62-812-555-666,Mutia Saragih,Pagar Alam,642,647,3,147000000,0,own
-759,Darman Hasanah,female,+62-878-555-113,Lidya Prayoga,Tangerang Selatan,719,724,4,240000000,0,own
-760,Unggul Hartati,Female,+62-811-555-149,Zizi Hassanah,Tarakan,711,716,4,105000000,0,missing
-761,Karna Samosir,Male,+62-898-555-196,Sabar Sitompul,Sukabumi,424,429,4,139000000,1,own
-762,Warta Santoso,Male,+62-897-555-111,Hesti Hidayat,Probolinggo,466,471,6,236000000,1,missing
-763,Lalita Yuniar,female,+62-838-555-091,Janet Yuniar,Bima,302,307,9,183000000,1,own
-764,Gangsa Nuraini,,+62-878-555-941,Raden Maryati,Jakarta Selatan,439,444,0,195000000,1,own
-765,Vinsen Hutagalung,Male,+62-899-555-400,Pangestu Hartati,Surabaya,342,347,5,162000000,0,mortgage
-766,Violet Maheswara,Male,+62-878-555-257,Farhunnisa Kuswoyo,Surakarta,681,686,5,39000000,0,mortgage
-767,Kemba Lestari,male,+62-838-555-930,Kenzie Gunawan,Serang,748,753,5,142000000,0,own
-768,Almira Ardianto,,+62-859-555-555,Malik Wibisono,Jakarta Barat,565,570,7,100000000,1,mortgage
-769,Ika Utami,male,+62-897-555-216,Kartika Wibisono,Sungaipenuh,613,618,10,184000000,1,missing
-770,Halim Adriansyah,Female,+62-838-555-739,Yosef Wibisono,Tanjung Pinang,767,772,3,156000000,0,mortgage
-771,Tari Mandasari,Male,+62-878-555-853,Restu Nashiruddin,Tidore Kepulauan,557,562,9,79000000,1,other
-772,Maryanto Utama,male,+62-878-555-733,Pranawa Siregar,Singkawang,367,372,1,38000000,0,other
-773,Cinthia Situmorang,Female,+62-838-555-884,Saka Purnawati,Ternate,416,421,4,220000000,0,own
-774,Yance Laksmiwati,,+62-853-555-303,Garda Prastuti,Kupang,602,607,8,94000000,1,rent
-775,Kadir Wijayanti,female,+62-838-555-005,Cengkal Anggriawan,Batu,584,589,1,234000000,0,rent
-776,Vanya Gunawan,,+62-838-555-842,Warsa Hidayat,Palembang,524,529,7,132000000,0,own
-777,Kajen Yuliarti,female,+62-814-555-407,Putu Mandala,Tarakan,563,568,2,127000000,1,mortgage
-778,Uli Safitri,female,+62-838-555-040,Ira Laksmiwati,Salatiga,707,712,2,97000000,1,missing
-779,Irfan Nasyiah,,+62-838-555-971,Saadat Santoso,Binjai,347,352,2,78000000,1,
-780,Silvia Budiman,Male,+62-838-555-842,Puput Najmudin,Singkawang,326,331,7,137000000,0,own
-781,Bambang Natsir,female,+62-814-555-677,Candra Saragih,Lubuklinggau,579,584,7,222000000,0,mortgage
-782,Elma Utami,Male,+62-838-555-255,Sari Winarsih,Tidore Kepulauan,358,363,1,76000000,0,other
-783,Baktianto Waluyo,male,+62-818-555-661,Melinda Hariyah,Tidore Kepulauan,588,593,0,216000000,0,rent
-784,Jelita Nuraini,Female,+62-819-555-171,Imam Mandasari,Batu,503,508,0,91000000,0,missing
-785,Lanjar Pudjiastuti,,+62-812-555-209,Eva Widiastuti,Lhokseumawe,811,816,6,218000000,0,rent
-786,Eva Sudiati,male,+62-878-555-180,Vera Nugroho,Surabaya,320,325,8,70000000,1,own
-787,Maida Kusumo,male,+62-838-555-827,Cakrajiya Wahyudin,Sukabumi,674,679,10,233000000,1,own
-788,Hadi Fujiati,Female,+62-838-555-749,Ghaliyati Widiastuti,Binjai,572,577,5,118000000,0,own
-789,Akarsana Pranowo,Female,+62-897-555-000,Clara Gunarto,Pagar Alam,302,307,1,220000000,1,
-790,Siti Nuraini,Male,+62-819-555-987,Wardi Purwanti,Kendari,406,411,2,238000000,1,missing
-791,Balijan Iswahyudi,Female,+62-818-555-437,Iriana Wibisono,Padang Panjang,386,391,8,89000000,1,rent
-792,Lanang Pertiwi,Female,+62-815-555-786,Lurhur Nasyiah,Serang,622,627,0,200000000,0,mortgage
-793,Juli Yuniar,Female,+62-899-555-394,Paramita Kusmawati,Medan,721,726,5,96000000,0,missing
-794,Prakosa Yulianti,,+62-878-555-051,Daryani Firgantoro,Kupang,417,422,2,173000000,0,own
-795,Viman Maryadi,male,+62-838-555-600,Winda Nurdiyanti,Pematangsiantar,445,450,4,86000000,1,own
-796,Ilyas Tamba,Female,+62-878-555-702,Agus Nashiruddin,Padang Panjang,505,510,2,146000000,1,missing
-797,Rachel Melani,,+62-814-555-384,Gamanto Andriani,Sawahlunto,809,814,10,216000000,1,other
-798,Alika Maryati,female,+62-852-555-563,Hasna Uyainah,Tangerang Selatan,686,691,6,90000000,0,rent
-799,Tami Hassanah,female,+62-897-555-449,Putri Mandasari,Bitung,757,762,6,206000000,0,rent
-800,Kania Mansur,female,+62-838-555-982,Asmadi Zulaika,Tegal,329,334,3,118000000,1,other
-801,Murti Laksita,Male,+62-812-555-670,Ella Saefullah,Jakarta Pusat,376,381,3,79000000,0,missing
-802,Puji Mangunsong,female,+62-896-555-767,Melinda Anggriawan,Bukittinggi,752,757,3,44000000,1,mortgage
-803,Paiman Pangestu,female,+62-855-555-176,Aris Laksmiwati,Tangerang Selatan,337,342,3,124000000,1,other
-804,Victoria Irawan,female,+62-858-555-359,Gambira Hartati,Pekalongan,512,517,1,57000000,0,missing
-805,Erik Nurdiyanti,male,+62-896-555-549,Gatra Yulianti,Jayapura,712,717,1,202000000,1,other
-806,Panji Napitupulu,Male,+62-814-555-932,Harjasa Sudiati,Banda Aceh,732,737,5,215000000,1,rent
-807,Ismail Santoso,male,+62-838-555-294,Radit Sudiati,Denpasar,607,612,4,185000000,1,
-808,Ilsa Mardhiyah,,+62-897-555-488,Clara Waskita,Yogyakarta,356,361,6,227000000,1,rent
-809,Fitriani Tampubolon,,+62-814-555-230,Padma Permadi,Payakumbuh,733,738,2,225000000,1,missing
-810,Carla Astuti,,+62-878-555-869,Kala Nashiruddin,Metro,582,587,7,40000000,0,own
-811,Makara Uyainah,,+62-859-555-068,Jagapati Prasetyo,Tomohon,331,336,9,85000000,1,mortgage
-812,Gangsa Mahendra,Male,+62-811-555-347,Fitria Purnawati,Tasikmalaya,638,643,4,186000000,1,own
-813,Hasna Winarno,Male,+62-812-555-437,Ajimat Agustina,Gorontalo,600,605,5,139000000,1,mortgage
-814,Galar Simbolon,,+62-899-555-128,Jais Putra,Pariaman,583,588,5,95000000,1,rent
-815,Unggul Yulianti,male,+62-859-555-979,Salsabila Ramadan,Bandung,700,705,5,105000000,1,rent
-816,Nyoman Setiawan,Female,+62-896-555-002,Julia Lazuardi,Jakarta Selatan,339,344,3,128000000,1,mortgage
-817,Puspa Gunarto,female,+62-838-555-580,Vanesa Nainggolan,Pangkalpinang,688,693,3,240000000,0,mortgage
-818,Ian Pangestu,Female,+62-878-555-091,Kenari Maryati,Batam,640,645,1,177000000,1,rent
-819,Bakidin Simanjuntak,Female,+62-898-555-237,Cahyono Napitupulu,Balikpapan,805,810,6,202000000,0,mortgage
-820,Sarah Hartati,Female,+62-878-555-981,Laksana Farida,Pekanbaru,324,329,7,197000000,0,missing
-821,Farah Novitasari,,+62-811-555-614,Sari Anggraini,Jakarta Timur,572,577,6,78000000,1,rent
-822,Emong Riyanti,male,+62-859-555-157,Janet Laksita,Sibolga,624,629,4,195000000,0,missing
-823,Janet Laksmiwati,male,+62-855-555-423,Kadir Permata,Pematangsiantar,330,335,7,64000000,1,
-824,Prima Nugroho,,+62-858-555-218,Victoria Ardianto,Ambon,513,518,7,229000000,1,rent
-825,Agnes Hutasoit,female,+62-838-555-247,Asmadi Anggraini,Pekanbaru,439,444,9,145000000,0,missing
-826,Jono Saefullah,Female,+62-898-555-042,Citra Rahimah,Tanjung Pinang,533,538,6,66000000,1,rent
-827,Ulva Lazuardi,,+62-878-555-807,Dinda Permadi,Dumai,490,495,10,94000000,1,missing
-828,Genta Budiman,,+62-817-555-740,Hari Hartati,Cimahi,565,570,4,109000000,1,other
-829,Diah Marbun,Male,+62-854-555-321,Eja Prastuti,Tual,599,604,7,137000000,0,own
-830,Eluh Hakim,female,+62-855-555-358,Salsabila Melani,Pangkalpinang,640,645,9,193000000,1,mortgage
-831,Dian Prastuti,female,+62-878-555-293,Balidin Wastuti,Jakarta Timur,570,575,0,44000000,1,missing
-832,Nova Siregar,Female,+62-878-555-134,Harsaya Widodo,Bekasi,349,354,8,106000000,0,mortgage
-833,Anastasia Wahyudin,female,+62-897-555-358,Citra Riyanti,Palopo,663,668,2,88000000,1,mortgage
-834,Ganda Suwarno,female,+62-898-555-444,Fathonah Hidayanto,Pagar Alam,821,826,10,223000000,1,other
-835,Kartika Utami,,+62-838-555-207,Cecep Widiastuti,Lubuklinggau,469,474,4,94000000,0,own
-836,Anastasia Suwarno,Female,+62-898-555-526,Eko Widiastuti,Bau-bau,800,805,9,193000000,1,own
-837,Labuh Wastuti,Female,+62-816-555-189,Gaiman Rajasa,Medan,326,331,2,221000000,1,missing
-838,Kawaya Wibowo,male,+62-899-555-141,Ulya Riyanti,Kupang,472,477,4,125000000,0,other
-839,Gadang Nainggolan,female,+62-897-555-717,Labuh Andriani,Mataram,841,846,7,150000000,1,
-840,Lamar Prastuti,male,+62-896-555-054,Samsul Anggraini,Tangerang Selatan,509,514,6,61000000,0,other
-841,Syahrini Simbolon,Female,+62-838-555-896,Hafshah Mahendra,Madiun,516,521,7,96000000,0,other
-842,Legawa Januar,male,+62-838-555-094,Titin Anggraini,Surabaya,809,814,8,171000000,0,
-843,Darsirah Rahimah,Female,+62-819-555-510,Kurnia Mardhiyah,Bau-bau,419,424,10,49000000,1,mortgage
-844,Sarah Permata,Female,+62-898-555-811,Vega Nuraini,Palu,402,407,5,61000000,1,other
-845,Balamantri Sihombing,female,+62-819-555-365,Devi Fujiati,Binjai,512,517,7,210000000,0,other
-846,Tasnim Adriansyah,Male,+62-878-555-245,Irnanto Pangestu,Madiun,709,714,1,236000000,1,other
-847,Carla Wastuti,Male,+62-896-555-102,Umaya Usada,Depok,563,568,3,171000000,0,
-848,Clara Budiyanto,Male,+62-815-555-129,Najwa Nainggolan,Denpasar,508,513,3,163000000,0,missing
-849,Elon Waluyo,female,+62-896-555-319,Gandi Damanik,Sungaipenuh,736,741,1,156000000,1,rent
-850,Febi Hartati,female,+62-878-555-443,Utama Puspita,Banjarmasin,610,615,9,57000000,0,missing
-851,Setya Maheswara,Male,+62-838-555-088,Raina Hastuti,Kendari,619,624,5,37000000,1,mortgage
-852,Samiah Palastri,male,+62-857-555-578,Vicky Latupono,Jakarta Selatan,658,663,2,136000000,0,mortgage
-853,Farhunnisa Firmansyah,male,+62-814-555-873,Luwar Hakim,Palangka Raya,710,715,3,91000000,1,rent
-854,Carla Permata,male,+62-898-555-556,Raden Permata,Bontang,630,635,4,184000000,1,rent
-855,Zahra Damanik,Female,+62-814-555-696,Septi Kuswandari,Yogyakarta,442,447,1,192000000,1,other
-856,Nabila Laksita,,+62-878-555-597,Endra Mulyani,Tual,576,581,8,164000000,1,missing
-857,Kambali Prakasa,female,+62-855-555-220,Lutfan Suryatmi,Sorong,672,677,6,88000000,0,other
-858,Adinata Nuraini,Female,+62-878-555-949,Faizah Hariyah,Surakarta,421,426,10,185000000,1,missing
-859,Michelle Prasetyo,male,+62-898-555-865,Bahuwirya Oktaviani,Jayapura,524,529,10,97000000,0,own
-860,Ami Anggraini,Male,+62-838-555-358,Luis Pertiwi,Banda Aceh,707,712,3,109000000,0,own
-861,Mala Rahimah,male,+62-896-555-567,Utama Pratiwi,Prabumulih,342,347,3,136000000,0,missing
-862,Ellis Suwarno,female,+62-838-555-403,Intan Kuswoyo,Bandung,419,424,4,202000000,1,own
-863,Unjani Sitorus,Female,+62-897-555-920,Raden Puspita,Jakarta Pusat,427,432,9,99000000,1,mortgage
-864,Kamaria Siregar,female,+62-897-555-597,Enteng Wacana,Lubuklinggau,435,440,5,102000000,0,own
-865,Tina Safitri,female,+62-838-555-577,Jono Permadi,Serang,653,658,7,190000000,1,rent
-866,Puji Ramadan,Female,+62-838-555-460,Wakiman Nurdiyanti,Jakarta Utara,768,773,0,234000000,0,
-867,Yono Maryati,male,+62-814-555-037,Latika Lestari,Prabumulih,680,685,2,201000000,1,rent
-868,Calista Situmorang,male,+62-838-555-289,Prayogo Kusmawati,Ternate,480,485,2,177000000,0,other
-869,Murti Mansur,Male,+62-858-555-959,Harimurti Mansur,Mojokerto,658,663,5,172000000,1,own
-870,Irnanto Maryati,Female,+62-816-555-391,Indah Mayasari,Salatiga,670,675,2,131000000,0,own
-871,Samiah Prasetya,female,+62-899-555-932,Wawan Setiawan,Cirebon,817,822,7,232000000,0,mortgage
-872,Bakidin Mardhiyah,Female,+62-817-555-571,Hendra Purwanti,Sukabumi,647,652,2,151000000,1,rent
-873,Cakrajiya Lazuardi,male,+62-878-555-062,Prabawa Anggriawan,Sabang,836,841,2,74000000,1,other
-874,Cager Mardhiyah,Male,+62-858-555-515,Nyoman Hutapea,Bekasi,597,602,6,46000000,1,other
-875,Marwata Maryati,,+62-878-555-389,Elma Suryatmi,Banjarmasin,617,622,1,104000000,0,rent
-876,Mutia Padmasari,,+62-811-555-694,Artawan Usamah,Pontianak,818,823,8,167000000,1,rent
-877,Chelsea Sirait,male,+62-838-555-550,Cawisono Riyanti,Padang Panjang,771,776,2,86000000,0,rent
-878,Aris Sinaga,Male,+62-878-555-627,Jatmiko Anggriawan,Padang Panjang,540,545,8,240000000,1,other
-879,Harjo Hassanah,female,+62-858-555-018,Bahuraksa Hartati,Sibolga,720,725,3,92000000,0,mortgage
-880,Hilda Lestari,Female,+62-838-555-397,Unggul Budiyanto,Tegal,623,628,0,113000000,1,missing
-881,Teddy Wahyuni,Male,+62-859-555-556,Warsa Farida,Ambon,793,798,8,144000000,0,
-882,Almira Damanik,female,+62-878-555-492,Rahmi Wulandari,Sibolga,744,749,8,130000000,0,
-883,Jati Sihotang,Female,+62-852-555-313,Embuh Pudjiastuti,Sukabumi,470,475,1,97000000,1,own
-884,Raihan Lestari,male,+62-858-555-731,Jagaraga Zulaika,Jambi,712,717,4,183000000,1,own
-885,Kania Namaga,Female,+62-896-555-417,Ami Usada,Probolinggo,323,328,9,198000000,1,
-886,Capa Kuswoyo,Male,+62-813-555-494,Puji Utami,Lhokseumawe,734,739,1,206000000,0,missing
-887,Gilda Hasanah,Female,+62-853-555-342,Erik Rahayu,Jakarta Barat,640,645,2,54000000,1,mortgage
-888,Balijan Siregar,,+62-818-555-443,Dirja Nashiruddin,Sabang,819,824,7,60000000,1,mortgage
-889,Wani Pudjiastuti,female,+62-898-555-059,Gawati Nurdiyanti,Yogyakarta,645,650,9,159000000,0,missing
-890,Ade Narpati,male,+62-814-555-971,Anastasia Hartati,Surabaya,486,491,1,97000000,0,
-891,Wardaya Oktaviani,Male,+62-838-555-816,Panca Halim,Bengkulu,309,314,3,51000000,1,mortgage
-892,Ilsa Natsir,Male,+62-838-555-822,Adhiarja Saragih,Tarakan,437,442,10,54000000,1,rent
-893,Umar Handayani,male,+62-811-555-488,Erik Lazuardi,Surakarta,503,508,10,124000000,0,own
-894,Luwar Tampubolon,female,+62-838-555-074,Kemba Situmorang,Pekanbaru,734,739,3,53000000,0,other
-895,Titi Irawan,male,+62-858-555-854,Kawaya Prasetya,Pariaman,597,602,4,65000000,0,rent
-896,Oliva Novitasari,male,+62-878-555-895,Betania Wasita,Singkawang,726,731,7,151000000,1,
-897,Virman Riyanti,Male,+62-817-555-626,Rika Manullang,Cirebon,711,716,8,110000000,1,missing
-898,Dariati Sihotang,female,+62-897-555-791,Damar Mulyani,Lhokseumawe,531,536,3,200000000,0,
-899,Zaenab Nababan,female,+62-838-555-990,Karman Nugroho,Medan,506,511,6,118000000,0,mortgage
-900,Lala Marpaung,male,+62-838-555-384,Belinda Pudjiastuti,Bogor,831,836,4,61000000,1,
-901,Farhunnisa Manullang,female,+62-878-555-548,Yuni Suryatmi,Semarang,732,737,1,39000000,0,
-902,Diana Nugroho,Female,+62-853-555-688,Leo Marpaung,Pangkalpinang,570,575,1,75000000,0,own
-903,Mahesa Yuliarti,Female,+62-838-555-950,Gina Widiastuti,Banda Aceh,740,745,2,64000000,0,own
-904,Dinda Megantara,Female,+62-838-555-985,Halima Usada,Sorong,593,598,3,90000000,1,mortgage
-905,Aisyah Wastuti,female,+62-814-555-705,Manah Puspita,Pekanbaru,812,817,8,167000000,0,own
-906,Elvin Hassanah,Male,+62-819-555-709,Gandi Maryadi,Sawahlunto,449,454,10,120000000,0,own
-907,Suci Mahendra,Female,+62-819-555-823,Paulin Hartati,Jakarta Barat,337,342,3,123000000,0,other
-908,Aurora Padmasari,,+62-838-555-367,Uchita Pradipta,Binjai,630,635,4,49000000,1,other
-909,Sadina Oktaviani,Male,+62-838-555-487,Cici Yolanda,Bandar Lampung,629,634,2,36000000,0,own
-910,Daliman Pradipta,male,+62-813-555-054,Eman Rahmawati,Cimahi,743,748,7,214000000,0,other
-911,Maya Padmasari,Female,+62-899-555-997,Karna Sihotang,Salatiga,751,756,0,71000000,1,missing
-912,Jessica Fujiati,Male,+62-898-555-623,Cawuk Ramadan,Metro,635,640,5,58000000,1,rent
-913,Gamblang Thamrin,Female,+62-855-555-578,Virman Nashiruddin,Salatiga,360,365,9,54000000,0,
-914,Bakianto Nasyidah,male,+62-899-555-515,Cinthia Wibowo,Prabumulih,415,420,8,187000000,0,mortgage
-915,Jatmiko Kusmawati,female,+62-878-555-478,Dimas Laksita,Pariaman,587,592,5,182000000,0,mortgage
-916,Eka Oktaviani,female,+62-859-555-177,Lintang Suryatmi,Tanjung Balai,784,789,2,229000000,0,mortgage
-917,Taufik Yuliarti,Male,+62-838-555-008,Kayla Namaga,Tebing Tinggi,472,477,0,167000000,1,own
-918,Vicky Melani,Male,+62-838-555-983,Kartika Jailani,Sibolga,592,597,4,195000000,0,other
-919,Elvina Pradipta,,+62-838-555-249,Hartana Tarihoran,Sukabumi,498,503,5,153000000,1,own
-920,Harjaya Rajata,male,+62-838-555-470,Mujur Prasasta,Pare-pare,549,554,8,101000000,0,own
-921,Fitria Hardiansyah,Female,+62-896-555-147,Agus Riyanti,Serang,536,541,2,54000000,1,own
-922,Asirwada Suartini,female,+62-898-555-964,Indah Namaga,Bima,462,467,0,68000000,1,rent
-923,Mariadi Sudiati,male,+62-878-555-209,Daniswara Wibowo,Payakumbuh,450,455,4,40000000,1,mortgage
-924,Puti Lestari,female,+62-838-555-013,Tiara Puspasari,Mojokerto,310,315,5,113000000,0,
-925,Shakila Riyanti,Male,+62-878-555-197,Qori Yolanda,Tasikmalaya,740,745,10,153000000,1,mortgage
-926,Candra Pratama,,+62-855-555-488,Adhiarja Wibisono,Sungaipenuh,778,783,7,130000000,1,rent
-927,Ani Salahudin,,+62-878-555-780,Tugiman Maryadi,Bekasi,845,850,3,38000000,0,
-928,Opung Aryani,Male,+62-878-555-898,Widya Hassanah,Palopo,457,462,5,132000000,1,rent
-929,Harsana Yuliarti,female,+62-838-555-406,Tania Kuswandari,Surakarta,623,628,3,215000000,0,missing
-930,Sabar Uwais,male,+62-878-555-805,Niyaga Marpaung,Pagar Alam,604,609,8,58000000,1,mortgage
-931,Bambang Anggriawan,Male,+62-838-555-219,Najib Hakim,Banda Aceh,790,795,10,61000000,1,missing
-932,Iriana Susanti,female,+62-878-555-792,Dina Wahyudin,Pare-pare,843,848,6,171000000,0,other
-933,Vanya Wijayanti,female,+62-898-555-326,Ina Purwanti,Bontang,818,823,4,123000000,0,mortgage
-934,Karsana Santoso,Female,+62-838-555-868,Intan Utama,Solok,464,469,7,54000000,0,other
-935,Pia Purnawati,female,+62-853-555-001,Paris Rahayu,Bitung,831,836,0,76000000,1,mortgage
-936,Karimah Haryanto,Female,+62-854-555-546,Tari Oktaviani,Banjarbaru,629,634,5,96000000,1,rent
-937,Jane Usada,Female,+62-852-555-319,Paiman Zulaika,Samarinda,673,678,4,179000000,1,mortgage
-938,Yusuf Andriani,,+62-898-555-561,Margana Waluyo,Sorong,545,550,3,209000000,1,rent
-939,Jagaraga Yulianti,male,+62-896-555-024,Farhunnisa Maheswara,Sungaipenuh,411,416,6,63000000,0,missing
-940,Ikin Thamrin,male,+62-878-555-708,Reza Saefullah,Padang,602,607,3,187000000,0,other
-941,Putri Thamrin,Male,+62-898-555-390,Samiah Zulaika,Jakarta Pusat,652,657,6,227000000,1,rent
-942,Hartana Situmorang,Male,+62-838-555-619,Ikin Laksmiwati,Bogor,330,335,2,159000000,0,mortgage
-943,Nabila Ardianto,male,+62-852-555-851,Cinta Wasita,Tanjung Pinang,735,740,3,120000000,0,
-944,Darijan Waluyo,female,+62-819-555-663,Wahyu Uyainah,Tegal,316,321,7,42000000,0,rent
-945,Umaya Wulandari,Male,+62-838-555-314,Cahyadi Simanjuntak,Gorontalo,387,392,5,99000000,1,
-946,Hilda Situmorang,male,+62-853-555-216,Nalar Nashiruddin,Pare-pare,579,584,1,47000000,0,other
-947,Bajragin Riyanti,Male,+62-838-555-832,Kanda Permadi,Bontang,642,647,6,151000000,0,missing
-948,Mujur Tarihoran,Male,+62-811-555-312,Zelda Suwarno,Subulussalam,490,495,8,81000000,0,rent
-949,Teguh Puspasari,,+62-819-555-671,Faizah Widodo,Padang Sidempuan,533,538,6,98000000,1,missing
-950,Koko Simanjuntak,Male,+62-853-555-609,Suci Saptono,Mojokerto,344,349,2,195000000,1,other
-951,Cinthia Iswahyudi,Female,+62-878-555-139,Queen Haryanto,Tanjung Balai,562,567,9,220000000,1,
-952,Edward Fujiati,Female,+62-897-555-296,Shania Sitorus,Pekanbaru,362,367,1,210000000,0,rent
-953,Nardi Hartati,male,+62-899-555-350,Jelita Wahyuni,Kotamobagu,333,338,1,148000000,0,
-954,Genta Iswahyudi,,+62-817-555-627,Dipa Mandasari,Banjarmasin,510,515,6,125000000,0,rent
-955,Cawisono Ardianto,Male,+62-896-555-163,Juli Suryatmi,Metro,453,458,6,79000000,0,other
-956,Lamar Wijayanti,Male,+62-857-555-725,Tasdik Kusmawati,Bengkulu,451,456,8,121000000,1,mortgage
-957,Rahmi Sitorus,,+62-814-555-483,Lintang Wijayanti,Batam,712,717,6,151000000,1,mortgage
-958,Ira Mandasari,male,+62-896-555-402,Koko Nasyidah,Jakarta Barat,723,728,2,50000000,1,rent
-959,Digdaya Rahmawati,Female,+62-878-555-865,Empluk Safitri,Jakarta Timur,439,444,1,151000000,0,
-960,Restu Yulianti,Female,+62-838-555-522,Raden Waluyo,Banjar,423,428,8,153000000,0,
-961,Pangestu Megantara,Female,+62-878-555-193,Ratna Dongoran,Tebing Tinggi,572,577,10,37000000,1,rent
-962,Anastasia Budiman,,+62-878-555-074,Eva Lestari,Kotamobagu,363,368,5,199000000,1,rent
-963,Ciaobella Suartini,Female,+62-899-555-777,Carla Hutasoit,Jakarta Utara,591,596,2,50000000,1,missing
-964,Cindy Halimah,female,+62-857-555-063,Estiawan Iswahyudi,Blitar,444,449,10,225000000,0,
-965,Lintang Hutagalung,,+62-854-555-884,Gabriella Farida,Cirebon,430,435,8,220000000,1,missing
-966,Uda Mustofa,,+62-838-555-754,Padmi Nuraini,Lubuklinggau,440,445,1,75000000,1,other
-967,Puti Sihombing,male,+62-853-555-416,Ika Nasyiah,Blitar,699,704,2,216000000,0,
-968,Gandi Pranowo,Male,+62-814-555-092,Teddy Yolanda,Tegal,601,606,3,125000000,0,rent
-969,Fathonah Nuraini,male,+62-897-555-323,Malika Hassanah,Bengkulu,649,654,10,224000000,0,own
-970,Sakura Rahayu,male,+62-857-555-493,Ibrahim Anggraini,Pekalongan,507,512,7,86000000,1,other
-971,Anggabaya Padmasari,female,+62-853-555-376,Johan Putra,Pontianak,743,748,7,140000000,1,missing
-972,Suci Rahimah,Female,+62-838-555-974,Vega Wijaya,Ternate,510,515,5,126000000,1,missing
-973,Aditya Fujiati,female,+62-898-555-743,Gamani Novitasari,Metro,647,652,7,213000000,1,rent
-974,Darimin Hutagalung,,+62-854-555-235,Balidin Yuniar,Singkawang,692,697,6,209000000,1,mortgage
-975,Cawisadi Ramadan,female,+62-878-555-845,Yunita Habibi,Metro,624,629,4,101000000,0,own
-976,Mahesa Uyainah,female,+62-897-555-314,Caturangga Palastri,Bogor,495,500,3,149000000,0,rent
-977,Ulva Farida,male,+62-878-555-513,Kairav Pradana,Sungaipenuh,512,517,2,191000000,1,other
-978,Shania Natsir,,+62-878-555-313,Enteng Firgantoro,Kendari,327,332,6,155000000,0,mortgage
-979,Okta Wulandari,Female,+62-838-555-309,Anggabaya Handayani,Padang Sidempuan,831,836,0,222000000,0,missing
-980,Icha Suartini,male,+62-878-555-676,Kacung Gunarto,Palangka Raya,453,458,3,68000000,1,rent
-981,Lidya Widodo,female,+62-899-555-363,Jarwi Lailasari,Padang Sidempuan,842,847,10,129000000,1,own
-982,Uchita Pranowo,Female,+62-898-555-274,Natalia Suryatmi,Tangerang,485,490,4,87000000,0,own
-983,Dalimin Iswahyudi,male,+62-838-555-604,Patricia Handayani,Pagar Alam,777,782,4,38000000,1,rent
-984,Siti Melani,Male,+62-878-555-266,Tantri Namaga,Sabang,766,771,8,219000000,1,missing
-985,Wardaya Namaga,,+62-878-555-890,Latika Hartati,Metro,696,701,1,82000000,0,other
-986,Karen Andriani,Male,+62-838-555-070,Hasna Purnawati,Gorontalo,633,638,5,240000000,1,own
-987,Maria Rahimah,Female,+62-838-555-401,Ilsa Yolanda,Kediri,403,408,1,133000000,0,mortgage
-988,Maimunah Safitri,Male,+62-819-555-341,Balidin Winarno,Ambon,514,519,10,156000000,0,
-989,Caraka Gunawan,female,+62-878-555-165,Dinda Riyanti,Lubuklinggau,652,657,2,148000000,0,rent
-990,Ratna Fujiati,female,+62-878-555-141,Caraka Nainggolan,Singkawang,795,800,4,42000000,1,other
-991,Ida Setiawan,Male,+62-858-555-514,Oni Puspita,Tarakan,366,371,7,150000000,1,
-992,Nurul Prabowo,male,+62-878-555-471,Titi Sitompul,Pasuruan,549,554,4,217000000,1,
+1,Lili Sitompul,,+62-878-555-746,Jais Rahayu,Bogor,460,465,1,106000000,0,other
+2,Halima Simbolon,,+62-878-555-819,Tina Prasasta,Singkawang,753,758,3,173000000,1,mortgage
+3,Tira Nuraini,female,+62-838-555-834,Najwa Suryono,Prabumulih,378,383,4,66000000,0,other
+4,Uli Dongoran,Female,+62-855-555-322,Yunita Putra,Tidore Kepulauan,352,357,4,72000000,1,rent
+5,Cornelia Saptono,male,+62-878-555-689,Carub Padmasari,Subulussalam,715,720,2,165000000,0,missing
+6,Septi Hartati,male,+62-898-555-482,Titin Hidayanto,Langsa,691,696,6,50000000,0,mortgage
+7,Garan Zulkarnain,male,+62-852-555-144,Iriana Marbun,Tual,646,651,8,179000000,1,mortgage
+8,Natalia Usamah,Female,+62-898-555-852,Rosman Hartati,Salatiga,801,806,2,180000000,1,other
+9,Kania Wijayanti,,+62-838-555-404,Lutfan Suartini,Tanjung Balai,776,781,0,60000000,1,missing
+10,Vanya Prayoga,Male,+62-815-555-899,Anita Budiyanto,Bogor,300,305,1,140000000,0,rent
+11,Wage Firmansyah,female,+62-814-555-354,Tari Maryati,Denpasar,806,811,4,44000000,1,other
+12,Raden Suryono,male,+62-898-555-315,Prima Hartati,Jayapura,664,669,0,41000000,0,
+13,Bambang Habibi,male,+62-819-555-337,Unggul Latupono,Sorong,505,510,3,76000000,0,
+14,Ayu Widiastuti,,+62-854-555-288,Damu Hardiansyah,Batu,536,541,6,96000000,1,mortgage
+15,Utama Pratama,female,+62-838-555-794,Irnanto Jailani,Kendari,576,581,9,91000000,1,mortgage
+16,Bajragin Wahyudin,male,+62-878-555-006,Jais Zulaika,Sabang,402,407,4,67000000,0,own
+17,Gawati Mardhiyah,Male,+62-898-555-857,Galang Gunawan,Banjarbaru,736,741,10,96000000,0,own
+18,Gamblang Safitri,Male,+62-878-555-127,Hardi Winarsih,Pangkalpinang,376,381,5,51000000,1,own
+19,Yulia Saputra,Male,+62-838-555-990,Carla Sitorus,Singkawang,808,813,4,149000000,0,missing
+20,Qori Hasanah,,+62-878-555-539,Yosef Hidayanto,Bengkulu,496,501,7,55000000,0,mortgage
+21,Rika Najmudin,Female,+62-898-555-486,Darmanto Namaga,Tanjung Balai,530,535,3,54000000,0,
+22,Sarah Utami,,+62-854-555-452,Jefri Anggraini,Banjar,380,385,8,167000000,0,own
+23,Parman Nugroho,male,+62-899-555-362,Febi Lailasari,Mataram,638,643,4,48000000,0,mortgage
+24,Bakijan Usada,male,+62-859-555-459,Hani Hidayanto,Solok,300,305,0,59000000,1,missing
+25,Mutia Puspasari,female,+62-852-555-233,Juli Hutagalung,Medan,433,438,2,117000000,0,rent
+26,Mala Simanjuntak,female,+62-898-555-546,Irfan Irawan,Bukittinggi,809,814,9,69000000,1,mortgage
+27,Gasti Firmansyah,female,+62-896-555-833,Ami Budiman,Magelang,310,315,10,145000000,1,missing
+28,Adikara Rahimah,male,+62-838-555-317,Hasta Rahayu,Gorontalo,340,345,1,118000000,0,missing
+29,Cahyanto Laksmiwati,Male,+62-838-555-586,Zulaikha Pratama,Pariaman,587,592,4,124000000,1,rent
+30,Kurnia Halimah,male,+62-856-555-865,Puti Novitasari,Denpasar,661,666,1,162000000,1,missing
+31,Nardi Puspasari,,+62-852-555-413,Johan Kurniawan,Singkawang,656,661,7,148000000,0,missing
+32,Danuja Permata,Female,+62-898-555-276,Malika Mandasari,Bukittinggi,393,398,2,177000000,1,other
+33,Febi Gunawan,Female,+62-878-555-036,Drajat Megantara,Batam,563,568,1,158000000,0,mortgage
+34,Nugraha Fujiati,Male,+62-859-555-522,Kartika Sitorus,Pangkalpinang,428,433,5,48000000,1,
+35,Unjani Wulandari,Female,+62-878-555-077,Sadina Lazuardi,Pariaman,525,530,9,154000000,0,missing
+36,Hana Sitorus,male,+62-838-555-167,Calista Anggraini,Mojokerto,685,690,6,120000000,0,missing
+37,Lala Sihombing,female,+62-838-555-867,Manah Adriansyah,Pangkalpinang,629,634,8,165000000,0,missing
+38,Cici Handayani,Male,+62-878-555-423,Jarwadi Yulianti,Dumai,731,736,1,139000000,1,own
+39,Jaswadi Natsir,Male,+62-858-555-135,Rahman Firmansyah,Tarakan,769,774,7,85000000,0,rent
+40,Oskar Laksita,Female,+62-838-555-143,Estiono Nasyiah,Banjar,373,378,5,65000000,1,mortgage
+41,Luthfi Safitri,male,+62-838-555-797,Asmuni Suartini,Pontianak,311,316,0,49000000,0,mortgage
+42,Galang Situmorang,Male,+62-859-555-290,Tiara Laksita,Bogor,522,527,8,70000000,0,missing
+43,Galur Saputra,male,+62-896-555-850,Lalita Novitasari,Tebing Tinggi,771,776,2,90000000,0,mortgage
+44,Shania Oktaviani,male,+62-815-555-138,Irsad Nugroho,Tangerang,826,831,8,77000000,0,
+45,Kiandra Dabukke,,+62-838-555-998,Latika Nurdiyanti,Jakarta Selatan,672,677,5,155000000,0,other
+46,Cinthia Tarihoran,male,+62-811-555-008,Tantri Samosir,Jakarta Pusat,626,631,10,45000000,0,own
+47,Patricia Anggriawan,Male,+62-838-555-397,Dimas Hutasoit,Bengkulu,532,537,7,162000000,0,own
+48,Opan Najmudin,male,+62-838-555-204,Ellis Wahyudin,Magelang,561,566,5,57000000,0,other
+49,Rachel Laksita,,+62-896-555-380,Ilyas Pudjiastuti,Subulussalam,735,740,5,104000000,0,
+50,Queen Marbun,male,+62-898-555-584,Elon Prabowo,Padang,667,672,3,111000000,1,other
+51,Olga Maryati,male,+62-878-555-889,Mutia Yulianti,Yogyakarta,530,535,3,137000000,0,
+52,Purwadi Budiman,Female,+62-811-555-136,Genta Hutasoit,Tebing Tinggi,431,436,8,37000000,0,
+53,Citra Melani,male,+62-814-555-822,Hartana Latupono,Batam,483,488,2,124000000,1,own
+54,Marsudi Haryanti,Female,+62-896-555-787,Titi Oktaviani,Sibolga,427,432,0,106000000,1,missing
+55,Harimurti Wasita,male,+62-858-555-020,Titin Nurdiyanti,Padang,793,798,6,47000000,1,
+56,Samiah Tamba,Female,+62-852-555-686,Harsana Siregar,Semarang,547,552,3,170000000,0,missing
+57,Ifa Wulandari,female,+62-878-555-728,Amalia Mandasari,Gorontalo,478,483,3,149000000,1,other
+58,Qori Uyainah,Male,+62-878-555-772,Alika Riyanti,Jakarta Pusat,809,814,9,159000000,0,mortgage
+59,Lalita Firmansyah,Male,+62-811-555-331,Cemani Permadi,Tebing Tinggi,353,358,2,134000000,1,own
+60,Eli Wacana,,+62-811-555-982,Virman Siregar,Pekanbaru,474,479,8,179000000,1,missing
+61,Sakura Haryanti,Male,+62-899-555-658,Darijan Lestari,Pangkalpinang,684,689,0,58000000,0,missing
+62,Dartono Iswahyudi,,+62-818-555-756,Ella Pranowo,Tanjung Pinang,790,795,2,75000000,1,other
+63,Zaenab Pratama,Male,+62-878-555-613,Ida Nasyiah,Palangka Raya,657,662,4,83000000,0,missing
+64,Paramita Halimah,female,+62-897-555-548,Juli Nurdiyanti,Bekasi,371,376,6,130000000,1,
+65,Queen Irawan,Female,+62-838-555-968,Teguh Andriani,Surakarta,685,690,1,105000000,1,
+66,Safina Hassanah,,+62-878-555-488,Aisyah Fujiati,Cilegon,406,411,9,93000000,1,mortgage
+67,Nilam Mahendra,Male,+62-878-555-322,Lasmono Hidayat,Pekanbaru,360,365,10,158000000,0,own
+68,Cager Usamah,Male,+62-899-555-350,Saiful Anggraini,Palangka Raya,329,334,5,36000000,0,missing
+69,Gaman Wibowo,Male,+62-838-555-322,Niyaga Rahimah,Lubuklinggau,389,394,9,103000000,0,own
+70,Wirda Mandala,Male,+62-897-555-712,Wirda Hidayat,Bekasi,496,501,10,92000000,0,own
+71,Sakti Hartati,,+62-899-555-248,Cemeti Kuswoyo,Subulussalam,804,809,5,99000000,1,mortgage
+72,Unggul Hassanah,female,+62-854-555-947,Melinda Wastuti,Tomohon,736,741,10,142000000,1,missing
+73,Karimah Mandala,male,+62-857-555-674,Dalima Mahendra,Ternate,458,463,4,149000000,1,own
+74,Halima Prabowo,female,+62-878-555-909,Natalia Aryani,Binjai,538,543,6,125000000,0,mortgage
+75,Salimah Prayoga,Male,+62-855-555-566,Betania Latupono,Bengkulu,352,357,10,126000000,1,other
+76,Ade Lailasari,,+62-856-555-184,Kani Wahyudin,Metro,477,482,10,70000000,0,other
+77,Siska Lestari,male,+62-838-555-644,Asirwanda Rahmawati,Pekalongan,462,467,6,156000000,0,rent
+78,Capa Dabukke,male,+62-811-555-056,Makara Rahimah,Banjarmasin,486,491,4,70000000,0,own
+79,Galak Sudiati,Male,+62-899-555-981,Yahya Pradipta,Binjai,805,810,8,113000000,0,rent
+80,Iriana Andriani,female,+62-878-555-475,Mila Fujiati,Tebing Tinggi,719,724,1,57000000,0,rent
+81,Kemal Wasita,Female,+62-897-555-629,Manah Melani,Padang Panjang,306,311,3,86000000,0,mortgage
+82,Raisa Situmorang,male,+62-899-555-680,Shakila Prayoga,Gorontalo,334,339,10,106000000,0,mortgage
+83,Paulin Wulandari,Female,+62-898-555-435,Latika Suryatmi,Depok,441,446,3,65000000,0,own
+84,Marsudi Latupono,male,+62-811-555-485,Rina Adriansyah,Langsa,758,763,8,84000000,0,own
+85,Belinda Iswahyudi,Female,+62-878-555-368,Raden Safitri,Batu,634,639,6,179000000,1,own
+86,Maras Rahmawati,male,+62-898-555-684,Makuta Mandasari,Salatiga,328,333,8,87000000,0,missing
+87,Silvia Pratama,male,+62-857-555-400,Shakila Dabukke,Malang,460,465,6,64000000,1,missing
+88,Oskar Kusmawati,Male,+62-878-555-633,Among Gunarto,Padang,785,790,1,50000000,0,rent
+89,Rendy Santoso,female,+62-855-555-471,Fitriani Mardhiyah,Surabaya,629,634,0,82000000,0,rent
+90,Keisha Yuliarti,Male,+62-899-555-520,Lurhur Hasanah,Padang,573,578,6,76000000,0,other
+91,Hafshah Riyanti,male,+62-838-555-831,Mustika Permata,Cirebon,745,750,9,144000000,1,missing
+92,Mahesa Hartati,Male,+62-878-555-022,Elma Rajata,Prabumulih,471,476,4,158000000,1,
+93,Vanesa Hassanah,Male,+62-815-555-879,Jessica Utami,Samarinda,652,657,2,106000000,1,other
+94,Maimunah Wibowo,Female,+62-878-555-317,Ibun Fujiati,Cimahi,480,485,2,67000000,1,own
+95,Novi Yuliarti,Female,+62-838-555-270,Diah Prastuti,Bandar Lampung,645,650,4,54000000,0,
+96,Cakrabirawa Firgantoro,,+62-896-555-635,Limar Purwanti,Balikpapan,433,438,3,47000000,0,rent
+97,Ciaobella Ardianto,Male,+62-878-555-521,Raden Suryatmi,Bau-bau,341,346,4,108000000,1,rent
+98,Saka Simbolon,,+62-838-555-427,Diana Zulaika,Bekasi,414,419,2,74000000,0,missing
+99,Padma Mulyani,Female,+62-896-555-509,Caraka Rahmawati,Jakarta Selatan,804,809,2,109000000,1,other
+100,Ulya Thamrin,female,+62-812-555-446,Vera Nasyiah,Sibolga,501,506,8,43000000,0,missing
+101,Halima Oktaviani,,+62-819-555-483,Ira Purnawati,Pekanbaru,517,522,9,131000000,0,
+102,Halim Salahudin,male,+62-838-555-751,Embuh Novitasari,Tegal,455,460,1,143000000,1,missing
+103,Oskar Wibowo,Female,+62-878-555-893,Kusuma Adriansyah,Banda Aceh,555,560,3,109000000,0,
+104,Asmianto Tampubolon,Male,+62-817-555-659,Jarwadi Wijayanti,Sawahlunto,414,419,2,163000000,0,own
+105,Kartika Prabowo,male,+62-819-555-908,Galur Ramadan,Tanjung Pinang,345,350,7,81000000,1,mortgage
+106,Vicky Prastuti,Male,+62-878-555-373,Cahyono Andriani,Pekalongan,630,635,3,172000000,0,mortgage
+107,Karsa Wibisono,female,+62-878-555-762,Juli Nugroho,Surakarta,577,582,6,56000000,0,missing
+108,Hamima Saefullah,female,+62-838-555-639,Maria Prasasta,Padang,829,834,5,101000000,1,mortgage
+109,Malika Hasanah,Female,+62-899-555-653,Harjasa Agustina,Tegal,781,786,0,58000000,0,missing
+110,Hasta Pertiwi,female,+62-852-555-236,Adikara Nainggolan,Blitar,352,357,10,45000000,0,own
+111,Rosman Melani,male,+62-852-555-176,Saka Sihombing,Tarakan,328,333,1,88000000,0,mortgage
+112,Halima Astuti,male,+62-856-555-848,Bancar Hutapea,Tangerang Selatan,394,399,5,129000000,0,own
+113,Kemba Agustina,male,+62-856-555-216,Bakti Narpati,Jambi,706,711,1,109000000,1,rent
+114,Sarah Nuraini,Male,+62-878-555-094,Maria Waskita,Jakarta Utara,343,348,8,96000000,1,rent
+115,Elma Puspasari,male,+62-838-555-667,Jinawi Hutasoit,Pasuruan,782,787,3,154000000,1,mortgage
+116,Pangestu Prasetyo,,+62-838-555-198,Cinta Lestari,Bandung,781,786,9,112000000,0,
+117,Kenari Prakasa,Male,+62-811-555-845,Ana Iswahyudi,Tebing Tinggi,550,555,4,69000000,1,rent
+118,Kenzie Zulkarnain,female,+62-878-555-672,Rina Puspasari,Jakarta Pusat,817,822,1,131000000,0,
+119,Irsad Yolanda,female,+62-838-555-183,Setya Latupono,Pagar Alam,657,662,7,103000000,1,mortgage
+120,Kania Najmudin,male,+62-878-555-698,Hamima Mandala,Batu,622,627,5,62000000,1,rent
+121,Aurora Oktaviani,male,+62-838-555-798,Kawaca Hartati,Sawahlunto,614,619,5,39000000,0,other
+122,Devi Siregar,,+62-854-555-288,Novi Nababan,Tangerang,417,422,6,110000000,1,missing
+123,Gaman Wibisono,Male,+62-899-555-442,Atmaja Tarihoran,Cilegon,608,613,4,108000000,0,
+124,Ibrahim Melani,Male,+62-878-555-489,Lembah Kusmawati,Tangerang Selatan,332,337,3,114000000,0,rent
+125,Ciaobella Wastuti,male,+62-878-555-715,Marsudi Hutapea,Banjarbaru,491,496,1,108000000,0,
+126,Arsipatra Latupono,Female,+62-854-555-092,Catur Riyanti,Tarakan,342,347,10,174000000,0,
+127,Ajeng Januar,,+62-878-555-608,Kayla Safitri,Sabang,605,610,6,61000000,1,
+128,Harsanto Utama,Male,+62-814-555-309,Yuliana Habibi,Depok,642,647,6,136000000,1,missing
+129,Jayadi Nuraini,male,+62-838-555-797,Vivi Hastuti,Sungaipenuh,744,749,4,61000000,1,own
+130,Nadine Irawan,,+62-897-555-312,Alika Yolanda,Tegal,462,467,6,159000000,1,
+131,Balapati Prayoga,Male,+62-859-555-405,Aurora Anggraini,Singkawang,737,742,6,75000000,1,mortgage
+132,Sari Nugroho,Male,+62-896-555-959,Harja Zulaika,Jakarta Utara,522,527,2,52000000,1,rent
+133,Jessica Kuswandari,Male,+62-899-555-683,Edi Winarsih,Banjar,421,426,10,72000000,1,rent
+134,Darmaji Mustofa,Female,+62-897-555-636,Ina Laksmiwati,Tual,519,524,10,55000000,0,mortgage
+135,Lala Farida,female,+62-838-555-608,Eva Maheswara,Tanjung Balai,721,726,7,180000000,1,
+136,Ghaliyati Pudjiastuti,female,+62-855-555-571,Argono Pranowo,Kediri,673,678,0,41000000,1,mortgage
+137,Amalia Suartini,,+62-878-555-581,Prayogo Laksita,Medan,677,682,10,178000000,1,mortgage
+138,Intan Wijayanti,female,+62-896-555-661,Nasim Laksita,Metro,304,309,4,84000000,1,other
+139,Jamil Wahyuni,male,+62-878-555-226,Jais Yulianti,Prabumulih,318,323,7,117000000,1,missing
+140,Uli Hassanah,male,+62-878-555-408,Artanto Palastri,Bengkulu,347,352,5,137000000,0,rent
+141,Edison Winarno,female,+62-814-555-613,Iriana Uwais,Sungaipenuh,598,603,9,170000000,0,
+142,Rizki Firgantoro,female,+62-838-555-073,Ulva Latupono,Sabang,484,489,3,55000000,0,mortgage
+143,Puspa Marbun,male,+62-897-555-105,Bahuwarna Suwarno,Kediri,319,324,3,97000000,0,
+144,Alika Pudjiastuti,female,+62-853-555-310,Ami Wahyudin,Banda Aceh,737,742,8,108000000,1,
+145,Irwan Pratiwi,male,+62-878-555-800,Nrima Dongoran,Medan,666,671,9,160000000,1,missing
+146,Yulia Puspasari,Female,+62-811-555-340,Sadina Hasanah,Ambon,470,475,1,80000000,1,missing
+147,Asman Astuti,,+62-811-555-745,Jamil Sihotang,Manado,773,778,6,76000000,0,mortgage
+148,Danang Waluyo,female,+62-838-555-683,Calista Prayoga,Tual,805,810,7,134000000,1,own
+149,Zelaya Anggraini,Female,+62-854-555-361,Wulan Oktaviani,Cimahi,736,741,10,76000000,0,other
+150,Cahyo Rahimah,Female,+62-838-555-987,Atma Habibi,Langsa,434,439,0,84000000,1,missing
+151,Faizah Utami,male,+62-878-555-213,Hairyanto Suryatmi,Gorontalo,753,758,4,150000000,1,
+152,Mustika Zulaika,Male,+62-838-555-199,Sakti Nasyiah,Madiun,595,600,6,141000000,0,mortgage
+153,Digdaya Manullang,male,+62-855-555-663,Nabila Latupono,Padang Panjang,491,496,0,157000000,0,other
+154,Lidya Melani,female,+62-838-555-154,Eja Mulyani,Mojokerto,830,835,2,161000000,1,missing
+155,Raden Situmorang,Male,+62-878-555-776,Darman Wulandari,Tegal,433,438,9,143000000,0,mortgage
+156,Asmadi Permata,male,+62-878-555-936,Mursita Haryanto,Palopo,615,620,0,73000000,0,other
+157,Alambana Suryatmi,female,+62-838-555-866,Nova Sihotang,Bengkulu,749,754,0,143000000,0,missing
+158,Hartaka Padmasari,female,+62-857-555-781,Shania Nababan,Madiun,421,426,2,126000000,0,mortgage
+159,Taufik Mandasari,Male,+62-898-555-301,Amelia Hidayanto,Tasikmalaya,663,668,1,73000000,1,other
+160,Okta Adriansyah,Female,+62-838-555-802,Virman Prakasa,Ambon,415,420,4,54000000,1,missing
+161,Ridwan Hasanah,,+62-817-555-488,Jessica Nasyidah,Medan,560,565,0,77000000,0,rent
+162,Asmianto Samosir,Male,+62-838-555-028,Zahra Susanti,Cimahi,330,335,0,122000000,1,
+163,Sarah Tarihoran,Female,+62-859-555-745,Mutia Handayani,Tarakan,578,583,6,112000000,0,mortgage
+164,Dirja Siregar,Female,+62-838-555-061,Kemal Hastuti,Banjarmasin,521,526,7,127000000,0,other
+165,Wawan Iswahyudi,female,+62-878-555-937,Jagapati Yuliarti,Gorontalo,550,555,0,92000000,0,own
+166,Kacung Pudjiastuti,Male,+62-897-555-478,Okta Tamba,Tanjung Pinang,375,380,2,72000000,1,own
+167,Mahmud Riyanti,female,+62-898-555-916,Mumpuni Saputra,Pontianak,478,483,10,115000000,0,missing
+168,Nova Najmudin,,+62-812-555-988,Nasim Maulana,Kotamobagu,451,456,1,133000000,1,rent
+169,Jarwi Kuswoyo,Male,+62-815-555-200,Puji Aryani,Lhokseumawe,724,729,9,68000000,0,other
+170,Tami Mulyani,Male,+62-878-555-725,Darimin Oktaviani,Makassar,730,735,9,157000000,0,missing
+171,Irnanto Wastuti,female,+62-878-555-336,Nasim Anggriawan,Tidore Kepulauan,629,634,5,149000000,0,rent
+172,Reza Saragih,Female,+62-898-555-134,Zulaikha Fujiati,Denpasar,320,325,1,119000000,1,
+173,Maya Waluyo,male,+62-878-555-372,Vega Yuliarti,Metro,681,686,8,62000000,1,other
+174,Opan Tampubolon,,+62-859-555-078,Vanya Kuswoyo,Tanjung Balai,839,844,4,60000000,0,rent
+175,Olga Prastuti,,+62-857-555-590,Salman Lazuardi,Batu,824,829,1,113000000,0,rent
+176,Mustofa Gunawan,male,+62-811-555-692,Simon Anggriawan,Bengkulu,733,738,1,160000000,0,own
+177,Daniswara Kuswandari,female,+62-855-555-188,Marwata Marpaung,Binjai,616,621,3,103000000,1,other
+178,Uchita Kuswoyo,Male,+62-859-555-586,Respati Handayani,Surabaya,802,807,0,50000000,0,rent
+179,Harsaya Dongoran,male,+62-858-555-459,Umi Situmorang,Pangkalpinang,763,768,10,57000000,0,own
+180,Estiono Andriani,male,+62-896-555-588,Viktor Tamba,Cilegon,464,469,10,151000000,0,
+181,Jaeman Rahimah,male,+62-896-555-601,Bahuraksa Purwanti,Tasikmalaya,634,639,6,109000000,0,other
+182,Luis Pratiwi,Male,+62-838-555-115,Ami Laksita,Tanjung Pinang,480,485,9,43000000,0,other
+183,Bakidin Prasetyo,male,+62-838-555-912,Ira Farida,Lhokseumawe,484,489,3,96000000,1,mortgage
+184,Rahmat Januar,Male,+62-859-555-310,Eva Rahayu,Jambi,329,334,6,136000000,0,other
+185,Paris Mulyani,female,+62-819-555-379,Jessica Suartini,Sungaipenuh,363,368,5,38000000,1,missing
+186,Upik Kusumo,female,+62-878-555-980,Lanang Hastuti,Jakarta Selatan,806,811,8,174000000,1,mortgage
+187,Chelsea Puspita,male,+62-838-555-986,Maida Tarihoran,Jakarta Selatan,705,710,0,158000000,0,mortgage
+188,Ami Laksita,Female,+62-878-555-217,Salman Mansur,Bontang,433,438,6,63000000,1,own
+189,Cindy Haryanti,,+62-898-555-556,Hartana Nasyidah,Tegal,653,658,1,128000000,0,mortgage
+190,Zaenab Suartini,Male,+62-896-555-983,Nilam Rahmawati,Cimahi,762,767,8,146000000,0,other
+191,Empluk Pradipta,Female,+62-813-555-077,Raisa Budiyanto,Kediri,601,606,8,124000000,1,
+192,Adikara Utami,male,+62-857-555-079,Hamima Lestari,Lhokseumawe,344,349,2,63000000,0,rent
+193,Cakrabirawa Nashiruddin,male,+62-854-555-633,Rafi Padmasari,Blitar,315,320,5,60000000,1,missing
+194,Oni Samosir,Female,+62-838-555-376,Hendri Yuniar,Ternate,550,555,2,142000000,0,
+195,Banara Lestari,Male,+62-838-555-029,Lasmono Widiastuti,Semarang,779,784,2,100000000,0,rent
+196,Parman Maheswara,Male,+62-859-555-475,Humaira Novitasari,Banjarbaru,454,459,9,160000000,1,
+197,Paramita Yulianti,Male,+62-815-555-487,Devi Damanik,Probolinggo,413,418,0,102000000,0,missing
+198,Emin Maryati,Male,+62-878-555-754,Zizi Gunarto,Pematangsiantar,763,768,7,104000000,1,own
+199,Ikhsan Lailasari,female,+62-878-555-550,Hamzah Simbolon,Tangerang,680,685,3,143000000,1,own
+200,Karsa Wijayanti,Male,+62-815-555-862,Anastasia Widiastuti,Tasikmalaya,485,490,0,142000000,0,
+201,Wulan Suryatmi,male,+62-838-555-017,Karman Nasyiah,Medan,787,792,5,144000000,1,rent
+202,Hasta Wijayanti,Male,+62-878-555-328,Hilda Rahayu,Semarang,512,517,0,156000000,1,missing
+203,Omar Manullang,female,+62-838-555-887,Hasan Sihotang,Banjar,835,840,6,167000000,1,
+204,Daliono Rahimah,,+62-898-555-300,Galak Suryatmi,Bekasi,508,513,1,150000000,0,missing
+205,Wani Marpaung,,+62-838-555-240,Atma Megantara,Tidore Kepulauan,642,647,2,174000000,1,mortgage
+206,Daryani Iswahyudi,,+62-878-555-270,Daruna Nasyiah,Kediri,533,538,4,76000000,0,own
+207,Vicky Januar,female,+62-838-555-947,Faizah Prasasta,Sungaipenuh,516,521,9,107000000,1,other
+208,Lili Utama,,+62-878-555-054,Eli Winarno,Ambon,731,736,0,99000000,1,other
+209,Ajiono Usada,,+62-815-555-314,Edward Agustina,Malang,822,827,5,78000000,0,mortgage
+210,Mala Lestari,female,+62-838-555-722,Siti Usada,Payakumbuh,740,745,8,75000000,0,own
+211,Julia Lazuardi,Male,+62-817-555-303,Wardaya Natsir,Gunung Sitoli,442,447,0,116000000,0,missing
+212,Septi Tamba,Female,+62-838-555-439,Ade Wijayanti,Banda Aceh,573,578,8,148000000,0,missing
+213,Ina Widodo,male,+62-838-555-010,Teguh Rahayu,Tidore Kepulauan,535,540,9,38000000,1,other
+214,Tania Tampubolon,female,+62-817-555-864,Diana Laksita,Balikpapan,403,408,10,51000000,0,missing
+215,Kania Prakasa,,+62-899-555-726,Gawati Yuniar,Tanjung Balai,340,345,9,53000000,1,other
+216,Olivia Mandala,,+62-838-555-186,Ophelia Natsir,Langsa,663,668,6,46000000,0,missing
+217,Teguh Puspita,Female,+62-878-555-483,Dian Suryatmi,Tarakan,810,815,0,97000000,1,
+218,Alika Rahimah,Male,+62-819-555-126,Mulyono Sihombing,Blitar,383,388,6,138000000,0,missing
+219,Latika Uyainah,,+62-813-555-633,Cayadi Maulana,Cimahi,481,486,2,106000000,0,rent
+220,Gamani Napitupulu,male,+62-899-555-620,Chelsea Utama,Tangerang Selatan,646,651,5,164000000,0,other
+221,Gawati Hutagalung,female,+62-896-555-381,Asmadi Prasetyo,Jakarta Utara,453,458,2,101000000,0,rent
+222,Karen Pertiwi,Male,+62-818-555-943,Lalita Saefullah,Manado,801,806,0,84000000,0,mortgage
+223,Keisha Mardhiyah,,+62-899-555-282,Bakijan Laksita,Subulussalam,542,547,6,176000000,0,mortgage
+224,Rina Puspita,Male,+62-853-555-445,Samiah Santoso,Tanjung Balai,355,360,0,61000000,0,own
+225,Sidiq Megantara,Female,+62-838-555-172,Putri Waskita,Balikpapan,777,782,9,54000000,0,missing
+226,Halima Uyainah,male,+62-896-555-603,Ika Gunarto,Langsa,474,479,3,100000000,1,missing
+227,Karja Utama,male,+62-818-555-742,Darman Rahayu,Jakarta Pusat,733,738,1,174000000,1,own
+228,Uli Kusmawati,Male,+62-838-555-492,Jessica Purnawati,Palu,466,471,4,99000000,1,other
+229,Cinta Mangunsong,female,+62-816-555-200,Rachel Mahendra,Medan,644,649,2,45000000,1,own
+230,Jarwadi Budiyanto,female,+62-854-555-876,Opung Firgantoro,Jakarta Barat,527,532,6,51000000,1,missing
+231,Julia Wahyuni,,+62-899-555-380,Titi Siregar,Jakarta Barat,393,398,10,141000000,1,own
+232,Kartika Pratama,female,+62-878-555-812,Saiful Riyanti,Payakumbuh,434,439,2,171000000,0,rent
+233,Kairav Hutagalung,male,+62-838-555-575,Fathonah Wasita,Pekalongan,549,554,0,112000000,0,
+234,Opung Suryono,Male,+62-878-555-631,Ganda Salahudin,Mojokerto,664,669,9,55000000,0,own
+235,Joko Marbun,male,+62-838-555-258,Nilam Pradipta,Tangerang,666,671,0,151000000,1,
+236,Rina Safitri,female,+62-838-555-105,Amelia Mayasari,Subulussalam,760,765,10,86000000,1,
+237,Karsana Usada,Female,+62-857-555-027,Jaswadi Wijaya,Jakarta Barat,640,645,2,167000000,1,rent
+238,Jefri Saputra,male,+62-838-555-282,Yani Prasetya,Bau-bau,778,783,4,159000000,0,other
+239,Puji Nasyidah,Male,+62-812-555-873,Tira Novitasari,Banda Aceh,782,787,3,100000000,0,other
+240,Paiman Puspita,,+62-811-555-922,Kairav Wacana,Langsa,798,803,10,75000000,1,
+241,Viman Nasyiah,male,+62-855-555-911,Bahuwirya Rahayu,Tangerang Selatan,761,766,0,111000000,0,rent
+242,Cahyadi Natsir,,+62-838-555-102,Puti Purwanti,Pekalongan,391,396,0,160000000,0,missing
+243,Aris Lailasari,Male,+62-878-555-553,Lanjar Permata,Banjarmasin,676,681,0,177000000,1,own
+244,Wahyu Sinaga,female,+62-858-555-930,Mutia Hidayat,Denpasar,464,469,3,117000000,0,own
+245,Daniswara Santoso,,+62-897-555-897,Cawisadi Kuswandari,Depok,611,616,3,130000000,1,
+246,Prayogo Mayasari,Female,+62-899-555-109,Nabila Ardianto,Bengkulu,632,637,5,60000000,1,own
+247,Putu Jailani,Female,+62-858-555-119,Ratna Pranowo,Prabumulih,533,538,1,117000000,0,rent
+248,Indah Hariyah,male,+62-878-555-199,Cinta Astuti,Cirebon,840,845,10,159000000,1,
+249,Tira Putra,female,+62-838-555-623,Emong Sinaga,Prabumulih,627,632,10,42000000,1,missing
+250,Patricia Manullang,male,+62-858-555-938,Michelle Sihotang,Bukittinggi,624,629,6,72000000,0,
+251,Mariadi Mansur,Male,+62-853-555-663,Julia Nurdiyanti,Tanjung Pinang,352,357,1,176000000,1,
+252,Opan Andriani,male,+62-838-555-750,Kania Handayani,Sawahlunto,547,552,0,147000000,0,mortgage
+253,Estiono Nugroho,male,+62-816-555-557,Darimin Halimah,Bogor,452,457,5,85000000,1,missing
+254,Faizah Budiman,Female,+62-858-555-308,Vivi Yuniar,Padang Sidempuan,466,471,10,53000000,0,
+255,Syahrini Ardianto,,+62-899-555-880,Chelsea Simanjuntak,Tomohon,817,822,9,176000000,0,missing
+256,Lanang Pratiwi,male,+62-812-555-174,Ridwan Usada,Bogor,578,583,10,146000000,0,own
+257,Ratna Saefullah,Male,+62-838-555-624,Narji Purwanti,Bitung,736,741,0,66000000,1,own
+258,Dina Puspasari,Male,+62-897-555-087,Gada Maryati,Yogyakarta,428,433,7,79000000,0,missing
+259,Ratna Megantara,,+62-878-555-749,Luwar Yuniar,Banda Aceh,687,692,1,87000000,1,missing
+260,Bagya Mulyani,Male,+62-813-555-058,Padmi Mayasari,Pontianak,384,389,5,174000000,1,rent
+261,Caket Prayoga,female,+62-878-555-602,Farah Oktaviani,Medan,727,732,0,180000000,1,missing
+262,Siti Habibi,female,+62-857-555-047,Makara Siregar,Sungaipenuh,307,312,1,57000000,0,
+263,Cornelia Pertiwi,,+62-859-555-408,Najwa Hakim,Pontianak,391,396,1,90000000,1,other
+264,Kamila Rahimah,male,+62-853-555-962,Maya Hidayat,Bengkulu,715,720,6,120000000,0,own
+265,Cindy Pratama,,+62-878-555-641,Upik Permadi,Banda Aceh,804,809,1,153000000,0,other
+266,Aurora Budiyanto,Male,+62-818-555-932,Martaka Tampubolon,Batu,800,805,1,60000000,1,own
+267,Padma Puspasari,female,+62-838-555-228,Padma Irawan,Padang Sidempuan,748,753,2,145000000,0,missing
+268,Lasmono Prasasta,male,+62-817-555-182,Intan Hastuti,Pematangsiantar,693,698,7,107000000,1,
+269,Mustika Pudjiastuti,female,+62-838-555-431,Artawan Laksita,Surakarta,581,586,8,87000000,1,rent
+270,Hasan Marpaung,Male,+62-852-555-344,Narji Yuliarti,Dumai,521,526,1,48000000,0,other
+271,Lasmono Marbun,male,+62-812-555-779,Prasetyo Pratama,Pematangsiantar,813,818,7,59000000,0,missing
+272,Rafi Hastuti,female,+62-878-555-138,Ayu Prakasa,Samarinda,404,409,8,164000000,0,own
+273,Hasna Mayasari,Female,+62-859-555-751,Arta Latupono,Jakarta Utara,349,354,2,108000000,1,
+274,Queen Zulkarnain,Female,+62-852-555-753,Safina Firgantoro,Banjar,763,768,6,48000000,1,
+275,Puput Yulianti,male,+62-817-555-984,Makara Handayani,Blitar,462,467,3,164000000,0,mortgage
+276,Putri Hariyah,female,+62-878-555-016,Cinta Anggriawan,Bau-bau,482,487,5,119000000,0,own
+277,Gamblang Haryanto,male,+62-838-555-435,Laras Thamrin,Balikpapan,361,366,1,52000000,0,
+278,Upik Natsir,Female,+62-852-555-280,Dalima Prasetya,Cirebon,540,545,3,148000000,1,rent
+279,Genta Namaga,female,+62-838-555-614,Hardana Purwanti,Bengkulu,679,684,1,133000000,1,missing
+280,Wulan Rahayu,Male,+62-838-555-532,Sakura Safitri,Depok,509,514,3,110000000,0,missing
+281,Aswani Budiman,Male,+62-813-555-199,Farhunnisa Gunawan,Banjar,636,641,5,137000000,1,own
+282,Lanang Nababan,Male,+62-897-555-813,Jarwadi Nasyiah,Madiun,306,311,7,180000000,0,
+283,Wahyu Halimah,female,+62-878-555-598,Maimunah Nuraini,Pematangsiantar,423,428,2,97000000,0,own
+284,Cornelia Najmudin,female,+62-897-555-380,Yusuf Wulandari,Tanjung Pinang,388,393,4,121000000,1,
+285,Kartika Rajata,Male,+62-878-555-730,Darsirah Damanik,Serang,409,414,4,68000000,1,own
+286,Putri Mandasari,Female,+62-815-555-895,Dadap Kusmawati,Medan,690,695,9,106000000,0,mortgage
+287,Lintang Oktaviani,male,+62-878-555-537,Rosman Waluyo,Bau-bau,465,470,0,168000000,0,
+288,Fathonah Rajata,female,+62-898-555-904,Ade Latupono,Binjai,792,797,0,114000000,0,
+289,Melinda Latupono,female,+62-838-555-120,Hesti Kuswoyo,Sibolga,431,436,5,169000000,0,mortgage
+290,Tira Wahyudin,male,+62-857-555-198,Luwar Marbun,Tanjung Balai,354,359,10,113000000,0,missing
+291,Yessi Samosir,male,+62-819-555-302,Ani Uwais,Tebing Tinggi,736,741,7,57000000,0,other
+292,Nadia Widiastuti,Female,+62-812-555-379,Puput Prabowo,Sibolga,597,602,10,171000000,1,other
+293,Puji Oktaviani,Female,+62-815-555-444,Nilam Januar,Cirebon,434,439,7,106000000,0,mortgage
+294,Jumadi Winarsih,Male,+62-899-555-953,Laila Wacana,Gunung Sitoli,659,664,0,96000000,1,mortgage
+295,Pangeran Riyanti,female,+62-817-555-255,Jais Hidayanto,Malang,668,673,1,166000000,0,other
+296,Mustika Saragih,female,+62-878-555-987,Cakrabirawa Namaga,Malang,684,689,3,170000000,1,mortgage
+297,Jayadi Hasanah,male,+62-897-555-316,Bakiono Pudjiastuti,Tanjung Pinang,616,621,8,96000000,0,other
+298,Cakrawala Zulaika,female,+62-878-555-924,Balijan Widiastuti,Langsa,520,525,4,175000000,0,own
+299,Farhunnisa Laksmiwati,Male,+62-852-555-655,Zulfa Kuswandari,Tangerang,354,359,1,51000000,1,mortgage
+300,Hasan Tampubolon,female,+62-817-555-737,Reza Mangunsong,Jakarta Selatan,442,447,9,144000000,0,own
+301,Rina Dongoran,female,+62-896-555-851,Malik Usamah,Depok,576,581,5,88000000,0,own
+302,Gatot Manullang,male,+62-899-555-808,Malik Prayoga,Singkawang,302,307,6,136000000,1,rent
+303,Purwa Rahimah,Female,+62-898-555-241,Yessi Prastuti,Samarinda,634,639,3,41000000,1,mortgage
+304,Uli Pradipta,female,+62-838-555-529,Wasis Permata,Makassar,483,488,0,90000000,1,rent
+305,Ajeng Anggriawan,,+62-838-555-013,Betania Wastuti,Banjarbaru,333,338,10,127000000,0,
+306,Edison Safitri,male,+62-857-555-268,Kasim Lailasari,Metro,652,657,6,143000000,0,missing
+307,Rama Agustina,Male,+62-898-555-370,Aurora Nasyidah,Blitar,568,573,6,92000000,0,
+308,Teddy Safitri,Male,+62-878-555-582,Makara Latupono,Tegal,659,664,10,94000000,0,other
+309,Embuh Rajata,,+62-854-555-870,Soleh Habibi,Pangkalpinang,528,533,9,160000000,1,mortgage
+310,Sarah Mansur,Female,+62-819-555-387,Makara Nashiruddin,Solok,548,553,0,92000000,0,
+311,Warsita Pradipta,female,+62-816-555-176,Widya Widodo,Dumai,506,511,6,133000000,0,own
+312,Eva Winarsih,,+62-853-555-893,Natalia Yuniar,Jakarta Barat,461,466,7,92000000,1,own
+313,Prasetyo Kuswandari,male,+62-854-555-212,Tasnim Wahyuni,Sawahlunto,418,423,9,71000000,1,
+314,Gasti Pranowo,male,+62-819-555-764,Bakijan Firmansyah,Kupang,613,618,10,151000000,1,
+315,Siti Wastuti,Female,+62-898-555-776,Rudi Hidayanto,Pematangsiantar,516,521,6,88000000,0,other
+316,Gatot Firmansyah,,+62-878-555-866,Syahrini Nugroho,Bengkulu,617,622,6,121000000,0,missing
+317,Zizi Yuniar,male,+62-838-555-351,Mujur Susanti,Sabang,337,342,2,86000000,0,mortgage
+318,Gina Usada,Female,+62-878-555-427,Bahuraksa Wulandari,Bengkulu,462,467,10,158000000,0,missing
+319,Garan Wahyuni,Female,+62-838-555-791,Zelaya Marbun,Banjarbaru,388,393,9,152000000,0,rent
+320,Sabrina Lestari,,+62-878-555-754,Talia Prastuti,Madiun,378,383,4,135000000,1,missing
+321,Rini Anggraini,female,+62-878-555-708,Bella Suartini,Cirebon,509,514,3,60000000,1,own
+322,Yulia Wacana,male,+62-838-555-065,Darijan Marpaung,Dumai,408,413,0,159000000,0,mortgage
+323,Kadir Rahimah,Female,+62-852-555-376,Harsaya Manullang,Sukabumi,628,633,8,48000000,0,rent
+324,Malik Usamah,female,+62-811-555-264,Mulyanto Nurdiyanti,Banjar,582,587,1,154000000,1,own
+325,Rosman Hardiansyah,Female,+62-898-555-551,Laksana Marpaung,Binjai,727,732,3,170000000,1,other
+326,Raden Zulkarnain,,+62-878-555-822,Zamira Saptono,Jakarta Selatan,642,647,6,137000000,1,rent
+327,Tari Nainggolan,,+62-838-555-535,Iriana Nasyiah,Solok,763,768,0,88000000,0,mortgage
+328,Iriana Simanjuntak,female,+62-896-555-792,Zelda Haryanti,Tual,388,393,7,148000000,0,missing
+329,Wira Tamba,male,+62-857-555-102,Prasetyo Maryati,Metro,736,741,1,40000000,0,own
+330,Rini Haryanto,Female,+62-815-555-487,Cahyo Winarno,Bau-bau,713,718,7,151000000,0,
+331,Iriana Lazuardi,female,+62-899-555-303,Cahyanto Mangunsong,Dumai,804,809,5,161000000,0,own
+332,Jefri Zulkarnain,Male,+62-899-555-366,Lulut Kusmawati,Mojokerto,403,408,3,75000000,1,
+333,Taufik Purnawati,Male,+62-878-555-636,Kenes Sitompul,Mojokerto,634,639,1,37000000,0,own
+334,Vanya Halimah,Female,+62-896-555-276,Zamira Utami,Cimahi,300,305,3,117000000,1,
+335,Heryanto Setiawan,Female,+62-899-555-066,Rahman Hidayat,Surabaya,499,504,2,113000000,1,
+336,Mila Agustina,Male,+62-838-555-385,Rahmi Suwarno,Ternate,752,757,9,54000000,0,mortgage
+337,Ulva Hasanah,Female,+62-838-555-279,Respati Andriani,Tangerang Selatan,472,477,10,78000000,1,
+338,Emil Natsir,Male,+62-853-555-318,Azalea Rahimah,Jayapura,777,782,4,141000000,1,missing
+339,Jamalia Halimah,Female,+62-857-555-200,Lanang Pudjiastuti,Malang,789,794,6,83000000,0,other
+340,Nugraha Yulianti,male,+62-878-555-684,Puput Wasita,Bekasi,524,529,3,57000000,1,mortgage
+341,Lintang Budiman,Female,+62-815-555-066,Jail Megantara,Ternate,306,311,7,92000000,1,own
+342,Puspa Widodo,female,+62-898-555-293,Hani Lestari,Kupang,742,747,7,47000000,1,other
+343,Rika Firmansyah,Male,+62-898-555-857,Surya Mardhiyah,Bitung,465,470,6,152000000,0,rent
+344,Hani Agustina,,+62-855-555-511,Aswani Megantara,Jakarta Pusat,455,460,9,143000000,1,other
+345,Citra Susanti,female,+62-878-555-662,Harjaya Sitorus,Palopo,510,515,10,94000000,1,rent
+346,Nilam Yolanda,Male,+62-899-555-438,Artawan Mulyani,Bandar Lampung,587,592,2,61000000,0,mortgage
+347,Lala Widiastuti,,+62-855-555-405,Garda Hasanah,Ternate,655,660,0,44000000,0,own
+348,Ratna Latupono,Male,+62-896-555-798,Pranata Wibisono,Yogyakarta,581,586,5,39000000,1,own
+349,Rizki Maheswara,male,+62-852-555-893,Putri Wahyudin,Payakumbuh,816,821,1,128000000,1,
+350,Ibrani Kusmawati,,+62-897-555-020,Edison Ardianto,Jakarta Barat,548,553,10,155000000,1,missing
+351,Titin Situmorang,female,+62-815-555-855,Galak Agustina,Cimahi,799,804,0,99000000,0,missing
+352,Dodo Nuraini,,+62-813-555-157,Tiara Firmansyah,Langsa,411,416,4,50000000,1,own
+353,Kezia Oktaviani,,+62-898-555-584,Hendra Napitupulu,Banjarmasin,310,315,0,98000000,1,own
+354,Eka Dabukke,female,+62-896-555-915,Ifa Lestari,Jakarta Selatan,521,526,10,79000000,1,
+355,Zahra Suryono,male,+62-815-555-029,Anita Namaga,Tarakan,312,317,9,125000000,1,
+356,Halim Hasanah,,+62-878-555-912,Lintang Widodo,Banda Aceh,788,793,4,67000000,0,mortgage
+357,Patricia Suartini,Female,+62-855-555-991,Fitria Yuliarti,Batam,751,756,6,136000000,1,rent
+358,Lalita Yulianti,Female,+62-812-555-813,Among Mansur,Lubuklinggau,438,443,2,180000000,0,mortgage
+359,Adinata Mulyani,male,+62-817-555-864,Febi Najmudin,Tidore Kepulauan,738,743,1,167000000,0,missing
+360,Kayla Mulyani,Female,+62-855-555-663,Mila Andriani,Medan,746,751,3,126000000,0,missing
+361,Legawa Halimah,male,+62-838-555-916,Wani Rahayu,Palu,723,728,4,97000000,0,mortgage
+362,Rudi Zulaika,male,+62-815-555-511,Wulan Farida,Ternate,464,469,0,178000000,1,
+363,Tugiman Natsir,Male,+62-838-555-349,Mila Hidayat,Cilegon,319,324,5,74000000,0,rent
+364,Sabrina Widodo,,+62-855-555-885,Ajimin Habibi,Dumai,529,534,0,67000000,1,missing
+365,Banawa Rahimah,Male,+62-855-555-240,Martana Suwarno,Tidore Kepulauan,828,833,0,90000000,0,mortgage
+366,Caturangga Prakasa,female,+62-838-555-041,Yuni Hariyah,Surabaya,346,351,0,167000000,1,other
+367,Rahmi Prasetyo,Female,+62-852-555-305,Putri Yuliarti,Tegal,397,402,1,43000000,1,
+368,Gasti Astuti,male,+62-897-555-301,Padmi Namaga,Batu,808,813,2,116000000,1,
+369,Diah Hartati,male,+62-815-555-555,Surya Yulianti,Cilegon,446,451,2,41000000,0,own
+370,Karimah Waluyo,,+62-878-555-980,Dalima Sihombing,Kediri,709,714,10,68000000,0,
+371,Zulaikha Novitasari,male,+62-878-555-919,Kairav Pratama,Ternate,808,813,4,51000000,0,rent
+372,Ajiono Hariyah,male,+62-815-555-019,Mahfud Zulkarnain,Banjarbaru,826,831,9,133000000,0,other
+373,Alika Santoso,Female,+62-817-555-311,Indra Hasanah,Padang Sidempuan,612,617,9,137000000,0,mortgage
+374,Ajimin Hardiansyah,Male,+62-838-555-006,Hafshah Hutagalung,Batu,518,523,2,154000000,1,
+375,Lantar Permadi,female,+62-859-555-159,Cahyo Simanjuntak,Tomohon,767,772,0,59000000,0,rent
+376,Narji Astuti,Female,+62-811-555-415,Dacin Safitri,Bandung,304,309,6,171000000,1,rent
+377,Cecep Sitorus,Male,+62-896-555-646,Putri Siregar,Probolinggo,558,563,0,61000000,1,
+378,Betania Sudiati,female,+62-838-555-596,Galih Sinaga,Tanjung Balai,313,318,2,67000000,1,other
+379,Rudi Irawan,male,+62-878-555-406,Jayadi Agustina,Tangerang,333,338,5,108000000,1,missing
+380,Hasim Anggriawan,female,+62-897-555-764,Salimah Halimah,Bekasi,696,701,1,126000000,1,
+381,Oliva Pudjiastuti,female,+62-855-555-838,Gangsa Padmasari,Tomohon,455,460,9,87000000,0,
+382,Jarwadi Widiastuti,female,+62-858-555-923,Gangsar Pradipta,Sabang,617,622,10,146000000,0,missing
+383,Salimah Mansur,,+62-819-555-271,Balapati Rajata,Jakarta Utara,646,651,3,38000000,1,other
+384,Ifa Hariyah,,+62-878-555-718,Mila Manullang,Langsa,784,789,1,176000000,1,other
+385,Anastasia Napitupulu,male,+62-897-555-024,Hani Pradana,Banjar,678,683,8,87000000,0,other
+386,Aris Rajasa,Male,+62-896-555-996,Luthfi Utama,Metro,626,631,5,98000000,1,missing
+387,Mumpuni Andriani,,+62-898-555-591,Tasnim Situmorang,Lubuklinggau,424,429,8,109000000,1,own
+388,Kuncara Simanjuntak,male,+62-814-555-186,Samiah Rajasa,Sukabumi,366,371,2,54000000,0,missing
+389,Rahmi Nugroho,female,+62-898-555-251,Intan Purwanti,Jakarta Utara,561,566,2,80000000,0,own
+390,Nova Rahmawati,female,+62-856-555-846,Septi Usada,Tangerang,650,655,7,120000000,1,mortgage
+391,Kamal Sinaga,Male,+62-838-555-809,Julia Sihombing,Kediri,379,384,3,81000000,1,mortgage
+392,Farhunnisa Padmasari,Male,+62-816-555-712,Maya Puspasari,Bima,684,689,7,89000000,1,rent
+393,Febi Saptono,Female,+62-838-555-735,Kezia Kuswandari,Madiun,669,674,2,168000000,0,other
+394,Gabriella Handayani,,+62-856-555-794,Yosef Zulaika,Tasikmalaya,305,310,8,138000000,0,mortgage
+395,Yani Padmasari,,+62-838-555-430,Rendy Sudiati,Tangerang,430,435,1,55000000,0,other
+396,Zalindra Waluyo,,+62-838-555-307,Atmaja Gunarto,Kendari,401,406,3,59000000,0,rent
+397,Rachel Uyainah,,+62-897-555-813,Azalea Andriani,Batu,599,604,4,102000000,1,other
+398,Gading Suartini,Female,+62-838-555-267,Sarah Handayani,Cilegon,456,461,7,171000000,1,own
+399,Daliman Mahendra,female,+62-898-555-709,Paramita Andriani,Tegal,470,475,8,76000000,0,
+400,Eman Yuniar,,+62-898-555-137,Cinthia Aryani,Langsa,737,742,0,165000000,1,other
+401,Prasetya Sitompul,,+62-856-555-016,Rendy Prasetyo,Batam,657,662,4,53000000,0,missing
+402,Violet Dongoran,female,+62-858-555-163,Prakosa Hastuti,Sungaipenuh,375,380,1,50000000,1,missing
+403,Queen Hasanah,Female,+62-897-555-375,Paiman Safitri,Batu,609,614,7,156000000,1,
+404,Arta Ardianto,male,+62-859-555-761,Nasab Habibi,Tanjung Balai,392,397,7,59000000,0,other
+405,Kasiyah Wijayanti,,+62-838-555-079,Rahayu Yolanda,Padang,550,555,10,125000000,1,own
+406,Ophelia Wasita,Male,+62-878-555-722,Irma Widodo,Tangerang Selatan,598,603,5,125000000,0,missing
+407,Tedi Najmudin,Male,+62-856-555-553,Gamblang Rahayu,Medan,352,357,8,134000000,1,missing
+408,Rafi Anggriawan,Female,+62-878-555-331,Maya Kusmawati,Sawahlunto,820,825,9,59000000,1,rent
+409,Puspa Saputra,Male,+62-818-555-975,Jelita Hariyah,Medan,768,773,8,91000000,0,own
+410,Rangga Puspasari,Female,+62-899-555-734,Jatmiko Wasita,Bontang,572,577,1,68000000,0,mortgage
+411,Putri Yuniar,Female,+62-838-555-398,Galuh Sihotang,Pekanbaru,721,726,4,175000000,1,other
+412,Artawan Hutasoit,,+62-813-555-412,Janet Suartini,Ternate,649,654,2,76000000,1,mortgage
+413,Violet Purwanti,male,+62-815-555-192,Eva Nugroho,Probolinggo,719,724,6,141000000,1,missing
+414,Viktor Handayani,Male,+62-897-555-013,Lanang Nasyidah,Bengkulu,446,451,2,172000000,1,rent
+415,Daruna Nugroho,male,+62-814-555-322,Empluk Mustofa,Metro,632,637,10,98000000,1,mortgage
+416,Laila Januar,male,+62-815-555-284,Utama Hariyah,Subulussalam,832,837,9,120000000,0,missing
+417,Calista Kuswandari,,+62-878-555-844,Imam Firgantoro,Padang Sidempuan,460,465,9,55000000,0,rent
+418,Nurul Suartini,male,+62-878-555-004,Oliva Suryono,Tidore Kepulauan,652,657,8,121000000,0,mortgage
+419,Purwa Novitasari,male,+62-857-555-916,Elvin Rajata,Semarang,549,554,1,43000000,1,mortgage
+420,Uli Habibi,,+62-838-555-806,Lukman Padmasari,Manado,489,494,1,110000000,1,missing
+421,Sakura Rahimah,Male,+62-878-555-626,Luluh Rahmawati,Mojokerto,445,450,9,75000000,1,other
+422,Dian Permata,Female,+62-838-555-572,Bajragin Pertiwi,Bau-bau,582,587,9,112000000,1,own
+423,Lidya Hasanah,male,+62-878-555-591,Rahman Usamah,Semarang,753,758,3,105000000,1,missing
+424,Suci Halimah,,+62-878-555-735,Diah Simanjuntak,Semarang,818,823,6,136000000,1,own
+425,Carla Maryati,,+62-897-555-846,Karman Wijayanti,Singkawang,813,818,5,66000000,0,own
+426,Bella Wijayanti,female,+62-897-555-333,Olivia Melani,Jakarta Utara,680,685,3,143000000,0,
+427,Tantri Winarsih,male,+62-853-555-909,Winda Laksmiwati,Mojokerto,394,399,9,124000000,1,own
+428,Cemani Pertiwi,Female,+62-838-555-283,Hilda Nasyiah,Madiun,759,764,8,91000000,0,missing
+429,Uli Wahyuni,male,+62-838-555-553,Ophelia Nuraini,Dumai,702,707,7,60000000,0,
+430,Tina Siregar,Male,+62-838-555-358,Shakila Saragih,Jambi,608,613,6,115000000,1,own
+431,Indah Adriansyah,Male,+62-838-555-474,Aisyah Wastuti,Serang,377,382,1,39000000,0,other
+432,Parman Hassanah,Male,+62-815-555-925,Iriana Mulyani,Batam,534,539,5,135000000,1,
+433,Suci Firmansyah,female,+62-838-555-204,Jaswadi Novitasari,Pematangsiantar,471,476,1,117000000,0,rent
+434,Pranata Pranowo,female,+62-812-555-863,Bala Lazuardi,Prabumulih,728,733,3,148000000,1,rent
+435,Gara Jailani,Male,+62-853-555-920,Maryanto Mandala,Cirebon,459,464,2,136000000,0,rent
+436,Cindy Ramadan,Female,+62-897-555-111,Jarwa Anggraini,Padang Sidempuan,340,345,3,154000000,1,
+437,Viman Rajasa,Female,+62-878-555-138,Vanesa Purnawati,Pasuruan,830,835,6,165000000,1,missing
+438,Aslijan Simbolon,Male,+62-816-555-295,Balangga Namaga,Solok,844,849,4,119000000,0,missing
+439,Julia Dongoran,Female,+62-813-555-983,Icha Wastuti,Sabang,822,827,6,118000000,0,other
+440,Malika Manullang,Male,+62-878-555-814,Wahyu Rahimah,Jakarta Utara,702,707,10,174000000,1,missing
+441,Cemani Gunarto,Male,+62-838-555-671,Fitria Suartini,Madiun,494,499,6,85000000,0,other
+442,Padma Haryanto,male,+62-812-555-750,Oni Iswahyudi,Prabumulih,605,610,5,99000000,0,other
+443,Sabri Gunarto,female,+62-859-555-839,Dariati Wijayanti,Pekanbaru,799,804,0,178000000,1,own
+444,Galiono Wibisono,Female,+62-817-555-126,Kamila Andriani,Sawahlunto,345,350,0,113000000,0,other
+445,Luluh Winarsih,,+62-896-555-919,Maida Pratama,Palangka Raya,770,775,0,156000000,0,missing
+446,Titin Suryatmi,female,+62-856-555-199,Endah Mandala,Semarang,373,378,8,83000000,0,rent
+447,Opan Sirait,Female,+62-853-555-537,Kania Novitasari,Tangerang,303,308,7,173000000,0,own
+448,Padma Nasyiah,,+62-814-555-241,Yance Prayoga,Gorontalo,454,459,8,65000000,0,own
+449,Olivia Usada,Male,+62-878-555-931,Faizah Fujiati,Makassar,579,584,8,150000000,0,missing
+450,Tania Agustina,Male,+62-818-555-199,Opung Agustina,Tanjung Balai,321,326,1,36000000,0,other
+451,Titi Kuswandari,female,+62-812-555-183,Dinda Mandasari,Lhokseumawe,574,579,2,50000000,0,own
+452,Garan Hartati,male,+62-898-555-951,Cemplunk Nasyiah,Bogor,816,821,3,54000000,1,rent
+453,Kusuma Farida,Female,+62-878-555-959,Gara Prasasta,Jakarta Barat,337,342,4,132000000,1,missing
+454,Dalima Pratama,male,+62-853-555-078,Najwa Wulandari,Jakarta Selatan,422,427,4,103000000,1,rent
+455,Tasnim Hutapea,Female,+62-838-555-662,Mumpuni Kuswandari,Bontang,708,713,2,87000000,1,mortgage
+456,Laswi Padmasari,,+62-878-555-203,Ibun Hariyah,Serang,357,362,10,47000000,0,
+457,Saiful Namaga,Female,+62-813-555-914,Surya Mulyani,Langsa,635,640,0,68000000,0,mortgage
+458,Praba Tampubolon,male,+62-856-555-873,Ade Uyainah,Lhokseumawe,650,655,2,100000000,1,other
+459,Marwata Sihombing,female,+62-855-555-877,Rina Megantara,Lubuklinggau,343,348,1,77000000,1,other
+460,Yono Mustofa,Male,+62-897-555-217,Mutia Prasetyo,Mojokerto,747,752,2,95000000,0,
+461,Tasdik Palastri,Male,+62-817-555-979,Oskar Najmudin,Cilegon,452,457,1,78000000,1,other
+462,Umaya Puspasari,Male,+62-838-555-774,Adikara Pradipta,Jakarta Pusat,788,793,0,104000000,0,other
+463,Dewi Aryani,female,+62-855-555-460,Nadia Hasanah,Pangkalpinang,555,560,0,56000000,1,rent
+464,Liman Oktaviani,Female,+62-811-555-223,Adika Nurdiyanti,Kediri,528,533,10,175000000,0,missing
+465,Cinthia Marpaung,,+62-838-555-021,Titin Yolanda,Magelang,783,788,0,73000000,0,
+466,Prabawa Utama,Male,+62-896-555-279,Raditya Sirait,Banda Aceh,417,422,2,70000000,1,other
+467,Chandra Sihombing,Male,+62-898-555-056,Sabar Farida,Tomohon,611,616,7,116000000,1,
+468,Digdaya Oktaviani,female,+62-856-555-302,Vanesa Putra,Gorontalo,777,782,8,120000000,1,mortgage
+469,Siti Hakim,male,+62-854-555-206,Mumpuni Siregar,Surakarta,675,680,6,110000000,1,own
+470,Rahmi Megantara,male,+62-838-555-905,Dariati Prasetyo,Sibolga,606,611,4,163000000,0,rent
+471,Ibrani Nasyiah,,+62-838-555-291,Janet Kuswandari,Batu,673,678,10,112000000,0,missing
+472,Puput Sudiati,Male,+62-896-555-545,Sarah Prasetya,Palu,509,514,7,65000000,0,rent
+473,Latif Yulianti,Female,+62-838-555-604,Farhunnisa Nugroho,Pagar Alam,573,578,4,145000000,0,missing
+474,Kasiyah Sirait,Female,+62-896-555-114,Ihsan Hidayanto,Lhokseumawe,718,723,4,97000000,0,own
+475,Margana Maulana,Female,+62-838-555-151,Ami Laksmiwati,Depok,821,826,5,71000000,0,rent
+476,Gadang Uyainah,male,+62-878-555-794,Jamal Susanti,Lubuklinggau,393,398,10,176000000,0,mortgage
+477,Hesti Laksmiwati,male,+62-814-555-945,Darman Suartini,Jambi,487,492,5,53000000,1,mortgage
+478,Rafid Budiman,Female,+62-878-555-235,Kartika Permata,Madiun,598,603,9,69000000,0,other
+479,Erik Agustina,female,+62-878-555-783,Carla Halim,Tebing Tinggi,680,685,7,40000000,0,mortgage
+480,Chelsea Haryanti,Male,+62-899-555-875,Among Kuswoyo,Banda Aceh,455,460,8,52000000,1,other
+481,Wage Dongoran,male,+62-878-555-734,Caturangga Andriani,Prabumulih,686,691,8,79000000,0,
+482,Maya Uyainah,female,+62-898-555-821,Sadina Narpati,Tarakan,606,611,10,150000000,0,mortgage
+483,Agnes Halimah,Female,+62-878-555-736,Bajragin Safitri,Yogyakarta,816,821,10,77000000,1,rent
+484,Kawaca Hartati,Male,+62-858-555-025,Aslijan Zulaika,Samarinda,462,467,3,58000000,1,rent
+485,Okto Firmansyah,Female,+62-857-555-670,Lantar Mandala,Prabumulih,569,574,7,170000000,1,own
+486,Unggul Padmasari,Female,+62-838-555-666,Betania Namaga,Bima,531,536,10,123000000,0,own
+487,Lintang Lestari,,+62-817-555-379,Puput Firmansyah,Payakumbuh,354,359,0,176000000,1,mortgage
+488,Nurul Rajata,,+62-838-555-022,Kayun Sudiati,Batu,587,592,2,163000000,1,mortgage
+489,Banawi Rahimah,female,+62-853-555-745,Hilda Santoso,Surakarta,397,402,3,92000000,1,rent
+490,Ivan Halimah,female,+62-853-555-044,Tasnim Tamba,Semarang,496,501,7,40000000,1,mortgage
+491,Hani Santoso,female,+62-853-555-676,Dipa Kuswoyo,Jakarta Barat,752,757,5,69000000,0,own
+492,Dian Handayani,female,+62-859-555-916,Dasa Kuswandari,Singkawang,329,334,2,161000000,1,other
+493,Hasna Nashiruddin,female,+62-854-555-884,Hendra Kuswandari,Pasuruan,586,591,7,159000000,0,missing
+494,Janet Nashiruddin,female,+62-878-555-613,Hamima Rahayu,Singkawang,844,849,0,47000000,0,
+495,Kezia Aryani,Male,+62-852-555-276,Kani Farida,Manado,819,824,10,173000000,1,missing
+496,Gabriella Marpaung,,+62-858-555-370,Lalita Nuraini,Probolinggo,685,690,7,96000000,0,missing
+497,Restu Prasetya,Male,+62-898-555-085,Amalia Setiawan,Depok,603,608,0,169000000,1,own
+498,Lurhur Wastuti,,+62-838-555-325,Yulia Hidayanto,Padang Sidempuan,636,641,3,60000000,1,mortgage
+499,Niyaga Melani,,+62-899-555-474,Okta Riyanti,Samarinda,759,764,0,113000000,0,rent
+500,Almira Rahimah,female,+62-838-555-249,Elma Oktaviani,Tual,316,321,1,116000000,1,rent
+501,Jarwi Tarihoran,,+62-878-555-994,Cici Wibowo,Blitar,647,652,0,158000000,0,own
+502,Kenari Nurdiyanti,,+62-815-555-940,Among Halimah,Mojokerto,824,829,10,50000000,0,mortgage
+503,Zaenab Haryanto,female,+62-878-555-253,Ellis Nasyiah,Palangka Raya,693,698,8,136000000,1,rent
+504,Edi Mardhiyah,female,+62-855-555-660,Ella Narpati,Padang,589,594,5,36000000,0,missing
+505,Adikara Hariyah,,+62-853-555-655,Empluk Haryanti,Padang,587,592,0,85000000,0,other
+506,Rudi Marbun,female,+62-878-555-946,Asmianto Pertiwi,Palembang,520,525,3,128000000,1,rent
+507,Farhunnisa Nashiruddin,Male,+62-838-555-345,Samiah Mardhiyah,Surabaya,829,834,8,108000000,0,
+508,Darman Utama,female,+62-819-555-201,Ani Hidayanto,Tasikmalaya,401,406,4,98000000,1,own
+509,Azalea Yuliarti,Male,+62-816-555-552,Ratna Hakim,Pekanbaru,627,632,7,145000000,0,other
+510,Dartono Sihombing,Male,+62-878-555-589,Salwa Mardhiyah,Manado,845,850,5,66000000,1,other
+511,Hana Halimah,Female,+62-878-555-715,Raharja Prasasta,Pagar Alam,676,681,7,109000000,1,missing
+512,Malika Yuliarti,Female,+62-815-555-002,Emil Namaga,Prabumulih,522,527,1,56000000,0,other
+513,Winda Agustina,female,+62-899-555-505,Mahesa Halimah,Denpasar,374,379,0,47000000,1,other
+514,Qori Yulianti,,+62-878-555-110,Harjo Wijayanti,Binjai,660,665,6,62000000,1,rent
+515,Unjani Lestari,male,+62-838-555-492,Emil Gunawan,Prabumulih,571,576,4,83000000,1,
+516,Agnes Novitasari,Male,+62-852-555-716,Nova Sitorus,Pontianak,788,793,10,46000000,0,other
+517,Eka Wacana,male,+62-878-555-441,Mustofa Aryani,Tanjung Pinang,427,432,5,124000000,0,rent
+518,Citra Wahyudin,male,+62-819-555-856,Zalindra Oktaviani,Jakarta Selatan,807,812,5,157000000,1,other
+519,Setya Hutasoit,Male,+62-896-555-303,Ciaobella Purnawati,Probolinggo,430,435,8,108000000,0,own
+520,Hafshah Suartini,male,+62-899-555-910,Widya Tampubolon,Semarang,612,617,8,139000000,0,other
+521,Eja Prakasa,male,+62-813-555-988,Intan Wahyuni,Yogyakarta,498,503,10,50000000,0,own
+522,Balamantri Prastuti,female,+62-878-555-353,Karya Kusmawati,Pagar Alam,760,765,8,170000000,0,rent
+523,Jatmiko Maulana,male,+62-878-555-160,Padmi Hidayanto,Blitar,759,764,3,54000000,0,missing
+524,Banara Ramadan,Male,+62-897-555-272,Ratih Pranowo,Batam,589,594,5,43000000,1,own
+525,Pranata Nasyiah,male,+62-896-555-192,Umi Mulyani,Tasikmalaya,449,454,9,44000000,0,missing
+526,Wahyu Susanti,Female,+62-898-555-993,Tirta Mardhiyah,Payakumbuh,650,655,1,161000000,0,missing
+527,Wardi Wibisono,,+62-898-555-658,Elvina Rajasa,Bima,821,826,9,135000000,1,rent
+528,Ulva Wijayanti,Male,+62-878-555-321,Teguh Dabukke,Jakarta Selatan,387,392,4,147000000,1,
+529,Kairav Puspita,Male,+62-897-555-149,Jamalia Pudjiastuti,Gunung Sitoli,539,544,4,61000000,0,rent
+530,Ajimin Wibisono,female,+62-838-555-926,Daliono Winarno,Cimahi,733,738,1,55000000,1,missing
+531,Clara Riyanti,,+62-896-555-899,Violet Hassanah,Pasuruan,471,476,8,126000000,1,
+532,Gantar Riyanti,male,+62-898-555-866,Oman Anggraini,Semarang,753,758,1,108000000,0,other
+533,Argono Waluyo,female,+62-899-555-531,Yunita Mustofa,Balikpapan,568,573,6,55000000,0,mortgage
+534,Bella Widodo,female,+62-878-555-814,Praba Sudiati,Pematangsiantar,601,606,0,59000000,0,rent
+535,Titi Sihombing,Female,+62-855-555-117,Prayitna Sihotang,Probolinggo,476,481,9,117000000,0,missing
+536,Julia Narpati,,+62-859-555-505,Marsudi Anggriawan,Lhokseumawe,705,710,4,63000000,1,missing
+537,Aslijan Laksmiwati,Male,+62-815-555-617,Salman Widodo,Denpasar,597,602,3,41000000,0,mortgage
+538,Puti Gunarto,male,+62-838-555-254,Safina Rajasa,Pagar Alam,384,389,2,144000000,1,rent
+539,Jelita Fujiati,female,+62-858-555-646,Salsabila Wibisono,Jayapura,310,315,2,36000000,1,other
+540,Salman Yolanda,Female,+62-817-555-601,Cemeti Budiyanto,Jakarta Barat,649,654,5,44000000,0,rent
+541,Agnes Mayasari,female,+62-815-555-255,Febi Usada,Tual,491,496,7,117000000,1,own
+542,Tania Wijayanti,Female,+62-878-555-540,Faizah Saefullah,Balikpapan,684,689,7,66000000,1,missing
+543,Kasiyah Suartini,,+62-878-555-653,Kartika Puspita,Batam,366,371,3,180000000,1,rent
+544,Qori Hidayanto,Male,+62-838-555-073,Ifa Megantara,Surakarta,615,620,8,143000000,0,
+545,Latika Winarsih,Male,+62-898-555-602,Ifa Haryanti,Pangkalpinang,711,716,2,166000000,1,mortgage
+546,Siti Haryanti,female,+62-838-555-431,Panca Widiastuti,Mojokerto,764,769,7,155000000,1,own
+547,Prayoga Setiawan,Male,+62-855-555-575,Alika Kuswoyo,Bau-bau,695,700,0,107000000,1,rent
+548,Sabri Melani,female,+62-853-555-333,Karsana Adriansyah,Semarang,753,758,4,55000000,0,rent
+549,Fitriani Zulkarnain,,+62-838-555-759,Bakiman Nasyidah,Jambi,673,678,3,67000000,0,other
+550,Raisa Siregar,Female,+62-878-555-486,Alika Mustofa,Dumai,842,847,4,135000000,0,other
+551,Karen Puspasari,Male,+62-898-555-585,Amalia Anggriawan,Tanjung Balai,767,772,2,41000000,1,own
+552,Lasmono Situmorang,male,+62-838-555-856,Silvia Budiyanto,Tasikmalaya,489,494,1,79000000,1,other
+553,Padmi Yuniar,,+62-838-555-863,Yusuf Oktaviani,Manado,361,366,3,159000000,1,
+554,Siska Sudiati,male,+62-897-555-524,Ciaobella Simanjuntak,Banjarmasin,381,386,1,47000000,1,rent
+555,Putu Maryadi,,+62-858-555-625,Tari Nuraini,Batu,639,644,3,113000000,0,mortgage
+556,Maryadi Maheswara,Male,+62-813-555-251,Karja Siregar,Prabumulih,440,445,4,164000000,1,rent
+557,Gatot Sitorus,male,+62-815-555-708,Putri Riyanti,Sukabumi,585,590,10,37000000,0,missing
+558,Muni Yuniar,Female,+62-897-555-602,Viktor Wulandari,Palu,631,636,5,77000000,0,own
+559,Kunthara Halimah,female,+62-878-555-826,Latika Maheswara,Makassar,769,774,9,121000000,0,mortgage
+560,Betania Saefullah,Male,+62-838-555-217,Qori Lailasari,Tasikmalaya,303,308,1,46000000,0,rent
+561,Hesti Kuswoyo,,+62-838-555-069,Ina Firmansyah,Tarakan,773,778,0,67000000,0,other
+562,Cindy Uwais,,+62-819-555-495,Mutia Astuti,Sukabumi,733,738,2,128000000,1,missing
+563,Eli Prasetyo,Male,+62-878-555-190,Melinda Waluyo,Singkawang,458,463,7,155000000,1,other
+564,Viktor Lailasari,Male,+62-838-555-949,Cager Maulana,Salatiga,722,727,10,119000000,1,rent
+565,Lili Nugroho,Female,+62-838-555-987,Vivi Palastri,Padang Sidempuan,667,672,10,134000000,0,other
+566,Rahmi Wahyudin,female,+62-838-555-412,Viman Budiyanto,Jakarta Selatan,751,756,8,81000000,0,missing
+567,Mahesa Haryanti,male,+62-838-555-414,Suci Namaga,Palembang,716,721,4,99000000,1,own
+568,Dimas Megantara,Female,+62-878-555-448,Laras Purnawati,Solok,456,461,6,136000000,1,other
+569,Oliva Anggraini,Male,+62-811-555-758,Hairyanto Purwanti,Tidore Kepulauan,490,495,6,130000000,1,rent
+570,Harjaya Napitupulu,female,+62-878-555-746,Jaeman Tampubolon,Banjar,439,444,2,160000000,1,
+571,Ratna Dabukke,,+62-857-555-188,Olivia Waskita,Tanjung Balai,837,842,9,176000000,0,other
+572,Karta Zulkarnain,male,+62-818-555-931,Keisha Damanik,Bima,580,585,9,151000000,1,mortgage
+573,Prabawa Aryani,Male,+62-816-555-229,Puji Suwarno,Bima,825,830,0,159000000,0,
+574,Carla Gunarto,male,+62-896-555-628,Icha Widodo,Lubuklinggau,765,770,8,143000000,0,other
+575,Rosman Maryati,,+62-812-555-258,Kusuma Oktaviani,Solok,479,484,5,114000000,0,missing
+576,Kasim Mandasari,Female,+62-878-555-162,Lalita Susanti,Palembang,656,661,2,82000000,1,mortgage
+577,Capa Nashiruddin,Female,+62-838-555-363,Mulyanto Iswahyudi,Tomohon,786,791,0,37000000,0,missing
+578,Elma Saptono,female,+62-899-555-790,Puji Wijaya,Pematangsiantar,559,564,0,67000000,0,rent
+579,Pandu Safitri,female,+62-838-555-437,Carla Sirait,Bukittinggi,307,312,0,94000000,0,
+580,Kartika Zulaika,female,+62-899-555-916,Gara Widiastuti,Padang,663,668,6,168000000,1,
+581,Ophelia Prakasa,female,+62-878-555-476,Vicky Yulianti,Serang,711,716,7,142000000,1,rent
+582,Maida Nuraini,Male,+62-858-555-276,Devi Namaga,Tanjung Pinang,414,419,5,114000000,0,other
+583,Bella Natsir,,+62-852-555-011,Syahrini Purwanti,Medan,714,719,6,99000000,0,mortgage
+584,Hesti Simbolon,Male,+62-856-555-303,Ozy Saragih,Pontianak,545,550,1,56000000,0,missing
+585,Kenzie Nasyiah,Female,+62-859-555-410,Hamzah Yuniar,Tomohon,677,682,1,48000000,1,missing
+586,Prima Kusmawati,,+62-855-555-162,Utama Hassanah,Tomohon,677,682,7,127000000,0,mortgage
+587,Gandi Siregar,Male,+62-878-555-871,Oskar Palastri,Jakarta Pusat,468,473,7,134000000,1,rent
+588,Gaman Kuswandari,,+62-898-555-616,Dinda Rahimah,Tanjung Balai,590,595,4,157000000,1,own
+589,Jane Hidayanto,,+62-898-555-609,Nalar Safitri,Binjai,346,351,6,180000000,0,own
+590,Agnes Haryanti,male,+62-897-555-747,Jindra Nuraini,Ternate,373,378,9,140000000,1,
+591,Jindra Napitupulu,Female,+62-838-555-521,Gina Prabowo,Banda Aceh,476,481,5,68000000,1,
+592,Alika Widiastuti,Male,+62-878-555-535,Siska Laksmiwati,Padang,444,449,9,64000000,1,
+593,Rika Mayasari,,+62-853-555-674,Aris Farida,Tidore Kepulauan,618,623,7,143000000,1,missing
+594,Praba Wahyuni,Male,+62-855-555-548,Cayadi Winarsih,Gunung Sitoli,681,686,10,99000000,0,rent
+595,Anggabaya Santoso,,+62-859-555-687,Jati Mangunsong,Pangkalpinang,339,344,8,151000000,1,own
+596,Warsa Damanik,Male,+62-878-555-130,Vinsen Winarsih,Subulussalam,791,796,9,64000000,0,mortgage
+597,Eva Nasyiah,male,+62-819-555-502,Prayitna Usada,Kotamobagu,520,525,6,45000000,0,
+598,Artawan Zulkarnain,male,+62-817-555-939,Saiful Saefullah,Manado,360,365,1,147000000,0,mortgage
+599,Reksa Purnawati,,+62-853-555-234,Simon Utami,Sibolga,406,411,9,130000000,0,rent
+600,Clara Tamba,,+62-896-555-753,Wani Lestari,Magelang,344,349,7,60000000,0,own
+601,Dalima Pratiwi,Female,+62-855-555-812,Rama Firgantoro,Malang,750,755,4,40000000,0,missing
+602,Ghani Nurdiyanti,Female,+62-878-555-228,Cakrabuana Dongoran,Surakarta,633,638,5,146000000,0,own
+603,Prayoga Zulkarnain,Male,+62-811-555-892,Gaiman Hutasoit,Bandung,774,779,4,70000000,1,
+604,Violet Kuswoyo,female,+62-838-555-239,Kadir Suwarno,Sabang,696,701,2,142000000,1,
+605,Nardi Padmasari,male,+62-812-555-066,Gawati Padmasari,Pematangsiantar,492,497,1,41000000,0,rent
+606,Mustofa Maulana,female,+62-855-555-927,Hartana Nuraini,Dumai,376,381,9,77000000,1,mortgage
+607,Samiah Wibowo,,+62-897-555-500,Cemani Rahmawati,Malang,340,345,2,170000000,0,own
+608,Tomi Anggriawan,Female,+62-814-555-229,Vero Pratama,Pekalongan,624,629,4,107000000,0,rent
+609,Enteng Permadi,male,+62-838-555-552,Lanjar Ardianto,Bekasi,793,798,10,38000000,0,other
+610,Juli Mandala,,+62-897-555-731,Tiara Latupono,Padang Sidempuan,356,361,2,144000000,1,rent
+611,Tami Lailasari,,+62-899-555-326,Endah Farida,Sukabumi,711,716,7,70000000,1,mortgage
+612,Kariman Marpaung,Male,+62-898-555-504,Perkasa Kuswoyo,Jakarta Timur,703,708,9,129000000,0,rent
+613,Amalia Pudjiastuti,Female,+62-878-555-443,Jasmin Hasanah,Pagar Alam,435,440,3,102000000,0,own
+614,Aurora Winarsih,Female,+62-857-555-403,Luhung Novitasari,Cirebon,556,561,8,73000000,0,missing
+615,Wirda Sudiati,female,+62-857-555-216,Sabrina Hutagalung,Serang,566,571,10,151000000,0,
+616,Safina Hartati,Female,+62-898-555-180,Nabila Yulianti,Binjai,823,828,10,40000000,1,
+617,Genta Gunawan,,+62-856-555-138,Yusuf Wijayanti,Lhokseumawe,529,534,1,164000000,0,missing
+618,Icha Mayasari,male,+62-838-555-705,Pangeran Handayani,Padang Sidempuan,465,470,0,147000000,1,own
+619,Cornelia Yulianti,female,+62-898-555-393,Niyaga Handayani,Yogyakarta,500,505,1,171000000,0,missing
+620,Jatmiko Namaga,female,+62-817-555-824,Gilang Rajasa,Banjarmasin,315,320,2,164000000,0,rent
+621,Intan Zulaika,,+62-854-555-492,Rika Adriansyah,Jambi,601,606,5,70000000,0,other
+622,Ratih Wibowo,Male,+62-878-555-671,Aditya Thamrin,Padang,469,474,0,155000000,1,mortgage
+623,Nabila Lailasari,Female,+62-816-555-288,Purwanto Megantara,Surakarta,524,529,3,91000000,0,own
+624,Humaira Astuti,,+62-896-555-112,Eluh Firgantoro,Sorong,627,632,9,54000000,1,own
+625,Eka Haryanti,Female,+62-855-555-181,Humaira Sitorus,Jakarta Selatan,420,425,3,159000000,1,own
+626,Ina Firgantoro,Male,+62-859-555-113,Rika Situmorang,Pekalongan,676,681,7,145000000,1,rent
+627,Kayla Mahendra,,+62-838-555-532,Zaenab Lailasari,Sukabumi,757,762,8,93000000,0,
+628,Hartana Pudjiastuti,Male,+62-878-555-678,Rina Rahmawati,Pekanbaru,591,596,4,180000000,0,missing
+629,Ibun Wijaya,,+62-855-555-920,Ulva Novitasari,Jambi,578,583,8,86000000,0,rent
+630,Dadap Nababan,Male,+62-898-555-406,Saka Maryati,Lhokseumawe,399,404,8,56000000,0,other
+631,Jelita Nainggolan,Female,+62-897-555-036,Lukman Utami,Jayapura,700,705,8,78000000,0,
+632,Salimah Zulaika,male,+62-896-555-874,Keisha Wahyuni,Bau-bau,744,749,9,176000000,0,own
+633,Hasta Kuswoyo,female,+62-818-555-644,Cornelia Aryani,Tual,761,766,0,37000000,0,rent
+634,Betania Simanjuntak,Female,+62-838-555-868,Rafi Rahimah,Subulussalam,633,638,1,126000000,0,other
+635,Yusuf Rajata,Female,+62-878-555-418,Zaenab Wacana,Tegal,480,485,5,76000000,1,missing
+636,Sabrina Manullang,Male,+62-813-555-700,Kemba Suwarno,Tomohon,844,849,4,43000000,1,missing
+637,Caket Maheswara,female,+62-838-555-365,Kacung Mardhiyah,Padang Panjang,782,787,9,176000000,1,
+638,Cawisadi Yuniar,Female,+62-896-555-941,Septi Habibi,Batam,544,549,0,77000000,1,other
+639,Zulaikha Maryati,male,+62-899-555-777,Kamidin Napitupulu,Langsa,685,690,9,138000000,0,missing
+640,Alika Mardhiyah,,+62-898-555-808,Salwa Handayani,Tual,654,659,5,61000000,1,own
+641,Hamima Nababan,,+62-818-555-843,Genta Usamah,Cilegon,760,765,7,49000000,0,rent
+642,Kania Rajasa,male,+62-878-555-255,Ajimat Thamrin,Gunung Sitoli,537,542,3,42000000,1,other
+643,Labuh Melani,Male,+62-838-555-504,Zelaya Melani,Kotamobagu,808,813,0,72000000,1,mortgage
+644,Drajat Oktaviani,female,+62-853-555-641,Wirda Laksita,Sungaipenuh,827,832,4,172000000,1,own
+645,Dimas Maryati,,+62-854-555-052,Nadine Yolanda,Bitung,819,824,5,158000000,1,rent
+646,Bahuwirya Iswahyudi,female,+62-899-555-320,Putu Laksita,Metro,443,448,3,171000000,0,own
+647,Yusuf Suartini,Male,+62-838-555-679,Ibun Riyanti,Serang,836,841,10,177000000,1,mortgage
+648,Vera Wijayanti,Female,+62-899-555-903,Bala Sihotang,Kupang,415,420,1,95000000,0,mortgage
+649,Dinda Agustina,,+62-813-555-848,Shakila Samosir,Sungaipenuh,517,522,5,79000000,1,own
+650,Prayoga Widiastuti,female,+62-813-555-449,Ibun Rajasa,Sawahlunto,649,654,2,90000000,1,mortgage
+651,Olga Wasita,female,+62-878-555-848,Latika Hutapea,Kendari,765,770,10,120000000,0,
+652,Hardana Situmorang,female,+62-811-555-325,Nasab Suartini,Tomohon,796,801,5,55000000,1,mortgage
+653,Galak Wastuti,Male,+62-899-555-352,Prakosa Aryani,Pariaman,623,628,1,136000000,1,missing
+654,Prasetyo Nugroho,Female,+62-838-555-532,Emong Anggriawan,Denpasar,348,353,4,136000000,0,rent
+655,Calista Saputra,male,+62-878-555-479,Ega Pratama,Magelang,635,640,8,95000000,1,
+656,Candra Rahayu,Male,+62-838-555-705,Galur Kurniawan,Pariaman,746,751,3,168000000,1,other
+657,Nalar Pratama,Female,+62-878-555-707,Unjani Usada,Bekasi,838,843,4,101000000,0,own
+658,Prabu Wacana,Male,+62-819-555-695,Sabar Megantara,Mojokerto,600,605,1,116000000,0,mortgage
+659,Cengkir Pranowo,Female,+62-856-555-894,Surya Halimah,Bekasi,467,472,9,111000000,1,rent
+660,Bella Tarihoran,,+62-838-555-098,Mulya Farida,Tanjung Pinang,343,348,9,176000000,0,
+661,Anita Gunawan,Male,+62-899-555-633,Maryadi Susanti,Sungaipenuh,394,399,6,59000000,1,rent
+662,Dariati Saputra,male,+62-852-555-272,Prasetya Winarno,Tebing Tinggi,405,410,1,44000000,0,rent
+663,Lanang Saragih,Male,+62-878-555-857,Tedi Prastuti,Langsa,446,451,4,64000000,0,missing
+664,Puti Novitasari,female,+62-897-555-469,Febi Marbun,Sukabumi,694,699,1,85000000,0,mortgage
+665,Erik Riyanti,female,+62-878-555-960,Padma Sitompul,Lhokseumawe,844,849,6,113000000,1,
+666,Unjani Wacana,Male,+62-878-555-879,Jessica Habibi,Jambi,607,612,8,176000000,0,mortgage
+667,Jamil Yolanda,,+62-838-555-504,Laksana Pertiwi,Makassar,636,641,4,179000000,0,missing
+668,Suci Ardianto,,+62-815-555-596,Adiarja Samosir,Magelang,319,324,2,83000000,1,rent
+669,Aurora Siregar,male,+62-838-555-224,Artanto Sinaga,Medan,716,721,3,55000000,0,
+670,Sakura Samosir,Female,+62-897-555-633,Malika Suwarno,Palu,561,566,9,134000000,1,rent
+671,Oliva Kuswandari,male,+62-852-555-099,Estiawan Nainggolan,Padang,728,733,5,48000000,0,mortgage
+672,Farah Usada,male,+62-898-555-335,Purwanto Ardianto,Serang,580,585,5,157000000,1,own
+673,Vera Marpaung,,+62-838-555-668,Mahesa Narpati,Pariaman,790,795,9,140000000,1,
+674,Ganda Gunarto,male,+62-859-555-055,Vanesa Mulyani,Blitar,415,420,0,54000000,0,
+675,Aurora Kuswandari,,+62-878-555-510,Gadang Safitri,Blitar,650,655,0,92000000,0,
+676,Asmianto Andriani,male,+62-896-555-650,Cinthia Narpati,Sungaipenuh,532,537,2,77000000,1,own
+677,Marwata Wijayanti,Male,+62-878-555-520,Taufik Hassanah,Medan,758,763,2,103000000,1,missing
+678,Karimah Pradipta,male,+62-855-555-903,Tasnim Laksita,Jakarta Selatan,787,792,0,55000000,1,mortgage
+679,Restu Mayasari,male,+62-878-555-465,Aditya Mulyani,Probolinggo,583,588,0,136000000,1,other
+680,Salman Maryadi,,+62-815-555-657,Kamila Nasyiah,Langsa,408,413,5,116000000,0,other
+681,Unjani Lailasari,female,+62-838-555-245,Bakiman Hidayanto,Pontianak,822,827,0,180000000,0,other
+682,Almira Namaga,Female,+62-838-555-411,Raden Sihotang,Bau-bau,686,691,6,174000000,1,
+683,Lala Lazuardi,male,+62-878-555-605,Tina Zulaika,Ternate,439,444,8,145000000,0,own
+684,Anastasia Maulana,male,+62-858-555-756,Umi Nababan,Serang,764,769,5,52000000,0,rent
+685,Humaira Pratama,Male,+62-856-555-498,Jefri Riyanti,Payakumbuh,594,599,2,64000000,1,
+686,Puji Purwanti,female,+62-838-555-475,Eko Kusumo,Tanjung Pinang,811,816,10,100000000,0,
+687,Galur Yulianti,Male,+62-838-555-808,Lukita Laksmiwati,Tegal,585,590,8,42000000,1,own
+688,Hasna Ardianto,,+62-838-555-746,Kawaca Hidayanto,Probolinggo,781,786,3,151000000,1,own
+689,Praba Firgantoro,,+62-899-555-521,Irfan Nugroho,Sukabumi,780,785,8,166000000,0,mortgage
+690,Novi Yolanda,,+62-859-555-123,Cahyo Melani,Padang,660,665,4,47000000,0,missing
+691,Gading Maryati,Male,+62-812-555-897,Bahuraksa Ramadan,Kupang,427,432,0,132000000,1,
+692,Dian Haryanti,male,+62-899-555-610,Reksa Hassanah,Surabaya,796,801,3,64000000,0,rent
+693,Danang Hasanah,male,+62-818-555-153,Kania Agustina,Bau-bau,365,370,10,135000000,1,mortgage
+694,Hasta Laksmiwati,Female,+62-818-555-652,Raina Salahudin,Cilegon,309,314,9,90000000,0,other
+695,Violet Hasanah,male,+62-898-555-250,Violet Yuliarti,Sawahlunto,745,750,7,133000000,0,missing
+696,Clara Hutapea,male,+62-815-555-890,Johan Setiawan,Pekalongan,565,570,1,177000000,0,other
+697,Clara Ramadan,,+62-898-555-679,Marsito Saragih,Kendari,492,497,7,112000000,0,rent
+698,Dwi Susanti,female,+62-878-555-321,Vivi Laksita,Bontang,758,763,8,161000000,0,own
+699,Putri Mulyani,male,+62-813-555-486,Karimah Pertiwi,Jakarta Barat,402,407,8,123000000,1,mortgage
+700,Dacin Permata,male,+62-898-555-955,Shakila Rahayu,Banjar,691,696,0,145000000,1,missing
+701,Gina Siregar,Female,+62-898-555-112,Prabowo Prabowo,Jakarta Pusat,804,809,4,157000000,0,missing
+702,Dartono Wahyuni,,+62-897-555-129,Ayu Suwarno,Cirebon,304,309,5,180000000,1,missing
+703,Bagya Handayani,female,+62-853-555-517,Ika Prakasa,Denpasar,584,589,7,132000000,0,mortgage
+704,Gangsa Nugroho,Male,+62-854-555-288,Prasetyo Puspita,Probolinggo,344,349,1,165000000,1,rent
+705,Vino Simbolon,Female,+62-852-555-552,Eli Simbolon,Batu,726,731,1,135000000,1,own
+706,Tina Astuti,male,+62-878-555-869,Maimunah Budiyanto,Samarinda,552,557,10,102000000,1,own
+707,Septi Nurdiyanti,Male,+62-854-555-052,Akarsana Prastuti,Bandung,819,824,9,143000000,0,missing
+708,Pia Mayasari,female,+62-838-555-695,Ridwan Prabowo,Gunung Sitoli,694,699,5,172000000,0,mortgage
+709,Waluyo Suryatmi,male,+62-812-555-122,Warsa Mandasari,Sawahlunto,689,694,5,61000000,1,other
+710,Maman Rahimah,female,+62-899-555-760,Zulfa Permata,Bontang,621,626,9,98000000,1,mortgage
+711,Oliva Sihombing,Female,+62-878-555-861,Halima Narpati,Bukittinggi,811,816,9,111000000,1,own
+712,Samiah Sihotang,Male,+62-898-555-164,Edi Mustofa,Tual,406,411,1,91000000,1,
+713,Tasdik Riyanti,,+62-878-555-575,Gaman Hutapea,Tidore Kepulauan,756,761,4,76000000,1,
+714,Lintang Rahayu,Male,+62-856-555-911,Ajeng Lestari,Bukittinggi,814,819,8,119000000,0,own
+715,Gasti Zulaika,Female,+62-878-555-640,Martaka Pertiwi,Cirebon,763,768,1,68000000,1,mortgage
+716,Cici Hastuti,Male,+62-899-555-277,Asman Januar,Tarakan,647,652,3,108000000,0,mortgage
+717,Putri Prasasta,Female,+62-815-555-414,Elon Halimah,Dumai,758,763,8,144000000,0,rent
+718,Samsul Novitasari,Male,+62-878-555-885,Ajimat Napitupulu,Bogor,520,525,3,109000000,0,mortgage
+719,Adinata Oktaviani,Male,+62-819-555-173,Edward Namaga,Tidore Kepulauan,323,328,10,81000000,1,rent
+720,Kamidin Melani,Male,+62-838-555-504,Cornelia Winarno,Palangka Raya,623,628,3,148000000,0,own
+721,Kania Prabowo,female,+62-897-555-384,Luis Pratama,Tebing Tinggi,530,535,2,140000000,1,
+722,Damar Haryanti,Male,+62-814-555-351,Darimin Fujiati,Banjarbaru,664,669,4,164000000,0,mortgage
+723,Vivi Prasetyo,Female,+62-896-555-244,Rahmi Sitorus,Jakarta Timur,550,555,0,133000000,1,other
+724,Sakura Puspita,female,+62-858-555-332,Anastasia Dabukke,Banjarmasin,537,542,7,75000000,0,own
+725,Karta Prastuti,male,+62-853-555-700,Harjo Marbun,Metro,614,619,3,175000000,1,rent
+726,Lembah Puspasari,Female,+62-878-555-513,Uli Thamrin,Sabang,615,620,6,49000000,1,rent
+727,Ismail Nasyidah,,+62-838-555-386,Ika Wasita,Bogor,591,596,2,170000000,1,own
+728,Sabar Saputra,male,+62-878-555-284,Asmianto Permata,Gorontalo,493,498,2,177000000,1,own
+729,Nasrullah Mayasari,female,+62-838-555-770,Oliva Waluyo,Jayapura,826,831,5,63000000,1,
+730,Sakti Tarihoran,Male,+62-818-555-578,Warsita Yuliarti,Blitar,578,583,1,79000000,0,missing
+731,Umar Purnawati,Male,+62-838-555-833,Tomi Latupono,Bandung,703,708,0,114000000,0,missing
+732,Queen Kusmawati,Male,+62-878-555-388,Icha Mandasari,Surakarta,717,722,5,88000000,0,
+733,Candrakanta Namaga,female,+62-854-555-394,Arta Simanjuntak,Kediri,735,740,8,52000000,1,mortgage
+734,Tania Nurdiyanti,male,+62-878-555-297,Wisnu Suartini,Manado,422,427,7,86000000,1,missing
+735,Kartika Agustina,,+62-838-555-466,Chelsea Saefullah,Palu,817,822,9,171000000,1,
+736,Gawati Saefullah,female,+62-878-555-779,Prabu Andriani,Metro,481,486,5,72000000,0,rent
+737,Reksa Handayani,Female,+62-878-555-173,Ida Firmansyah,Tasikmalaya,837,842,6,175000000,0,other
+738,Karimah Pangestu,male,+62-858-555-578,Cinta Suryatmi,Padang Panjang,388,393,10,65000000,1,own
+739,Malik Winarsih,,+62-878-555-028,Endra Permata,Yogyakarta,394,399,0,150000000,0,mortgage
+740,Surya Pradipta,Male,+62-859-555-742,Jagapati Napitupulu,Banda Aceh,475,480,3,178000000,1,
+741,Syahrini Siregar,Male,+62-815-555-381,Lukita Pradipta,Palopo,765,770,7,122000000,0,mortgage
+742,Oman Budiyanto,male,+62-878-555-065,Zelda Agustina,Tangerang,669,674,0,165000000,0,own
+743,Emong Habibi,Male,+62-878-555-067,Maria Napitupulu,Tebing Tinggi,612,617,4,101000000,0,mortgage
+744,Yuliana Hassanah,female,+62-838-555-309,Puput Hidayat,Magelang,777,782,10,43000000,0,mortgage
+745,Bakda Prasasta,Male,+62-859-555-236,Puji Permata,Semarang,568,573,3,169000000,1,mortgage
+746,Qori Rahmawati,female,+62-819-555-249,Malika Putra,Prabumulih,671,676,3,104000000,0,rent
+747,Jane Uwais,,+62-898-555-695,Daliono Irawan,Sibolga,655,660,10,80000000,0,own
+748,Gatra Januar,,+62-857-555-899,Kala Namaga,Subulussalam,646,651,4,65000000,1,rent
+749,Tugiman Lestari,Male,+62-853-555-460,Eva Handayani,Denpasar,549,554,4,146000000,0,missing
+750,Rika Uwais,,+62-899-555-748,Caket Aryani,Magelang,325,330,5,93000000,0,rent
+751,Dipa Sirait,male,+62-878-555-603,Devi Usamah,Pare-pare,780,785,0,79000000,1,own
+752,Yessi Natsir,Female,+62-838-555-108,Mulya Prasetyo,Manado,622,627,10,97000000,0,own
+753,Ratna Riyanti,male,+62-898-555-528,Eja Putra,Ternate,456,461,5,165000000,0,rent
+754,Viman Prasetya,female,+62-856-555-784,Kenes Agustina,Surakarta,731,736,8,162000000,0,
+755,Patricia Hastuti,female,+62-838-555-324,Nadine Firmansyah,Ambon,576,581,0,83000000,0,rent
+756,Zizi Gunarto,Female,+62-814-555-549,Cakrabuana Hidayanto,Salatiga,492,497,3,119000000,0,own
+757,Satya Hutasoit,male,+62-856-555-323,Kacung Mustofa,Bengkulu,536,541,9,93000000,1,other
+758,Balamantri Prasasta,Male,+62-812-555-666,Mutia Saragih,Samarinda,304,309,5,174000000,0,mortgage
+759,Darman Hasanah,Male,+62-878-555-113,Lidya Prayoga,Depok,696,701,2,86000000,1,
+760,Unggul Hartati,female,+62-811-555-149,Zizi Hassanah,Padang Sidempuan,797,802,4,165000000,1,
+761,Karna Samosir,,+62-898-555-196,Sabar Sitompul,Semarang,717,722,0,91000000,1,
+762,Warta Santoso,Male,+62-897-555-111,Hesti Hidayat,Bandar Lampung,757,762,7,95000000,0,other
+763,Lalita Yuniar,,+62-838-555-091,Janet Yuniar,Kupang,464,469,4,92000000,0,mortgage
+764,Gangsa Nuraini,Male,+62-878-555-941,Raden Maryati,Pontianak,530,535,9,178000000,1,
+765,Vinsen Hutagalung,female,+62-899-555-400,Pangestu Hartati,Bandar Lampung,330,335,3,48000000,1,other
+766,Violet Maheswara,Female,+62-878-555-257,Farhunnisa Kuswoyo,Ambon,718,723,0,160000000,0,
+767,Kemba Lestari,,+62-838-555-930,Kenzie Gunawan,Singkawang,447,452,6,44000000,1,own
+768,Almira Ardianto,Female,+62-859-555-555,Malik Wibisono,Tangerang Selatan,633,638,9,167000000,1,mortgage
+769,Ika Utami,male,+62-897-555-216,Kartika Wibisono,Tomohon,837,842,3,52000000,1,
+770,Halim Adriansyah,female,+62-838-555-739,Yosef Wibisono,Bitung,787,792,7,116000000,0,
+771,Tari Mandasari,female,+62-878-555-853,Restu Nashiruddin,Pare-pare,552,557,5,44000000,0,missing
+772,Maryanto Utama,male,+62-878-555-733,Pranawa Siregar,Bandar Lampung,762,767,7,111000000,0,missing
+773,Cinthia Situmorang,Male,+62-838-555-884,Saka Purnawati,Tarakan,608,613,3,51000000,1,rent
+774,Yance Laksmiwati,Male,+62-853-555-303,Garda Prastuti,Cilegon,530,535,3,124000000,1,
+775,Kadir Wijayanti,Female,+62-838-555-005,Cengkal Anggriawan,Yogyakarta,568,573,3,109000000,1,
+776,Vanya Gunawan,Male,+62-838-555-842,Warsa Hidayat,Sungaipenuh,671,676,7,115000000,0,
+777,Kajen Yuliarti,Male,+62-814-555-407,Putu Mandala,Pematangsiantar,724,729,9,48000000,0,own
+778,Uli Safitri,female,+62-838-555-040,Ira Laksmiwati,Pontianak,393,398,5,44000000,1,rent
+779,Irfan Nasyiah,Female,+62-838-555-971,Saadat Santoso,Jambi,830,835,8,77000000,0,rent
+780,Silvia Budiman,,+62-838-555-842,Puput Najmudin,Dumai,342,347,7,130000000,0,other
+781,Bambang Natsir,male,+62-814-555-677,Candra Saragih,Bitung,824,829,7,141000000,1,
+782,Elma Utami,,+62-838-555-255,Sari Winarsih,Ambon,446,451,8,58000000,1,missing
+783,Baktianto Waluyo,female,+62-818-555-661,Melinda Hariyah,Pariaman,609,614,5,121000000,1,other
+784,Jelita Nuraini,Female,+62-819-555-171,Imam Mandasari,Bengkulu,635,640,3,172000000,1,
+785,Lanjar Pudjiastuti,Female,+62-812-555-209,Eva Widiastuti,Payakumbuh,593,598,6,91000000,1,missing
+786,Eva Sudiati,Male,+62-878-555-180,Vera Nugroho,Bontang,561,566,2,143000000,0,missing
+787,Maida Kusumo,,+62-838-555-827,Cakrajiya Wahyudin,Madiun,699,704,3,40000000,1,own
+788,Hadi Fujiati,Female,+62-838-555-749,Ghaliyati Widiastuti,Jakarta Pusat,620,625,10,132000000,0,other
+789,Akarsana Pranowo,Female,+62-897-555-000,Clara Gunarto,Pasuruan,645,650,5,42000000,1,rent
+790,Siti Nuraini,,+62-819-555-987,Wardi Purwanti,Bau-bau,607,612,4,88000000,0,own
+791,Balijan Iswahyudi,male,+62-818-555-437,Iriana Wibisono,Sawahlunto,328,333,7,89000000,1,rent
+792,Lanang Pertiwi,female,+62-815-555-786,Lurhur Nasyiah,Bandar Lampung,529,534,8,109000000,1,missing
+793,Juli Yuniar,male,+62-899-555-394,Paramita Kusmawati,Bima,678,683,6,113000000,0,own
+794,Prakosa Yulianti,,+62-878-555-051,Daryani Firgantoro,Surakarta,563,568,10,147000000,1,other
+795,Viman Maryadi,male,+62-838-555-600,Winda Nurdiyanti,Padang Sidempuan,641,646,0,128000000,1,rent
+796,Ilyas Tamba,Female,+62-878-555-702,Agus Nashiruddin,Jakarta Pusat,692,697,7,45000000,0,rent
+797,Rachel Melani,,+62-814-555-384,Gamanto Andriani,Binjai,679,684,0,172000000,1,rent
+798,Alika Maryati,Female,+62-852-555-563,Hasna Uyainah,Serang,492,497,9,63000000,0,missing
+799,Tami Hassanah,Female,+62-897-555-449,Putri Mandasari,Cimahi,771,776,6,133000000,0,
+800,Kania Mansur,female,+62-838-555-982,Asmadi Zulaika,Makassar,468,473,2,54000000,1,mortgage
+801,Murti Laksita,female,+62-812-555-670,Ella Saefullah,Blitar,837,842,2,148000000,0,mortgage
+802,Puji Mangunsong,,+62-896-555-767,Melinda Anggriawan,Tebing Tinggi,707,712,3,176000000,0,rent
+803,Paiman Pangestu,male,+62-855-555-176,Aris Laksmiwati,Lhokseumawe,355,360,3,111000000,0,missing
+804,Victoria Irawan,female,+62-858-555-359,Gambira Hartati,Balikpapan,722,727,4,167000000,1,
+805,Erik Nurdiyanti,female,+62-896-555-549,Gatra Yulianti,Bandar Lampung,458,463,5,176000000,1,other
+806,Panji Napitupulu,,+62-814-555-932,Harjasa Sudiati,Pontianak,831,836,0,102000000,1,rent
+807,Ismail Santoso,Female,+62-838-555-294,Radit Sudiati,Banda Aceh,636,641,8,67000000,1,missing
+808,Ilsa Mardhiyah,,+62-897-555-488,Clara Waskita,Jambi,624,629,9,111000000,0,rent
+809,Fitriani Tampubolon,Female,+62-814-555-230,Padma Permadi,Bukittinggi,352,357,6,100000000,1,own
+810,Carla Astuti,Female,+62-878-555-869,Kala Nashiruddin,Tegal,776,781,6,47000000,1,own
+811,Makara Uyainah,male,+62-859-555-068,Jagapati Prasetyo,Pontianak,344,349,2,114000000,1,rent
+812,Gangsa Mahendra,,+62-811-555-347,Fitria Purnawati,Bengkulu,370,375,3,37000000,0,other
+813,Hasna Winarno,female,+62-812-555-437,Ajimat Agustina,Kediri,775,780,3,119000000,0,
+814,Galar Simbolon,Male,+62-899-555-128,Jais Putra,Singkawang,604,609,3,137000000,1,mortgage
+815,Unggul Yulianti,male,+62-859-555-979,Salsabila Ramadan,Tangerang Selatan,772,777,9,148000000,1,rent
+816,Nyoman Setiawan,,+62-896-555-002,Julia Lazuardi,Banda Aceh,397,402,6,92000000,0,other
+817,Puspa Gunarto,female,+62-838-555-580,Vanesa Nainggolan,Probolinggo,495,500,5,175000000,1,other
+818,Ian Pangestu,,+62-878-555-091,Kenari Maryati,Binjai,740,745,7,170000000,1,rent
+819,Bakidin Simanjuntak,Female,+62-898-555-237,Cahyono Napitupulu,Bau-bau,726,731,9,136000000,0,
+820,Sarah Hartati,Female,+62-878-555-981,Laksana Farida,Palembang,436,441,3,46000000,1,mortgage
+821,Farah Novitasari,female,+62-811-555-614,Sari Anggraini,Cirebon,615,620,4,133000000,0,mortgage
+822,Emong Riyanti,Female,+62-859-555-157,Janet Laksita,Semarang,776,781,8,90000000,0,missing
+823,Janet Laksmiwati,Male,+62-855-555-423,Kadir Permata,Sungaipenuh,481,486,8,69000000,0,
+824,Prima Nugroho,male,+62-858-555-218,Victoria Ardianto,Langsa,398,403,4,145000000,1,other
+825,Agnes Hutasoit,Female,+62-838-555-247,Asmadi Anggraini,Prabumulih,567,572,1,99000000,0,missing
+826,Jono Saefullah,male,+62-898-555-042,Citra Rahimah,Jayapura,647,652,9,158000000,1,
+827,Ulva Lazuardi,male,+62-878-555-807,Dinda Permadi,Tidore Kepulauan,756,761,7,178000000,0,other
+828,Genta Budiman,Male,+62-817-555-740,Hari Hartati,Serang,755,760,10,141000000,0,missing
+829,Diah Marbun,,+62-854-555-321,Eja Prastuti,Tanjung Balai,806,811,8,52000000,0,other
+830,Eluh Hakim,female,+62-855-555-358,Salsabila Melani,Kendari,651,656,8,55000000,0,missing
+831,Dian Prastuti,Male,+62-878-555-293,Balidin Wastuti,Sungaipenuh,611,616,4,147000000,0,mortgage
+832,Nova Siregar,female,+62-878-555-134,Harsaya Widodo,Kupang,687,692,5,83000000,1,rent
+833,Anastasia Wahyudin,male,+62-897-555-358,Citra Riyanti,Kotamobagu,479,484,6,57000000,1,rent
+834,Ganda Suwarno,female,+62-898-555-444,Fathonah Hidayanto,Batu,812,817,2,96000000,0,other
+835,Kartika Utami,Female,+62-838-555-207,Cecep Widiastuti,Sukabumi,532,537,2,131000000,0,
+836,Anastasia Suwarno,female,+62-898-555-526,Eko Widiastuti,Padang Sidempuan,336,341,8,133000000,0,rent
+837,Labuh Wastuti,Male,+62-816-555-189,Gaiman Rajasa,Tanjung Balai,300,305,8,77000000,1,mortgage
+838,Kawaya Wibowo,Male,+62-899-555-141,Ulya Riyanti,Ternate,764,769,9,103000000,0,other
+839,Gadang Nainggolan,Male,+62-897-555-717,Labuh Andriani,Makassar,670,675,7,125000000,0,own
+840,Lamar Prastuti,Male,+62-896-555-054,Samsul Anggraini,Mataram,527,532,0,166000000,0,other
+841,Syahrini Simbolon,female,+62-838-555-896,Hafshah Mahendra,Prabumulih,457,462,4,108000000,1,mortgage
+842,Legawa Januar,,+62-838-555-094,Titin Anggraini,Gorontalo,623,628,3,94000000,1,missing
+843,Darsirah Rahimah,,+62-819-555-510,Kurnia Mardhiyah,Pare-pare,692,697,1,99000000,1,missing
+844,Sarah Permata,female,+62-898-555-811,Vega Nuraini,Cirebon,373,378,10,97000000,1,other
+845,Balamantri Sihombing,male,+62-819-555-365,Devi Fujiati,Lhokseumawe,354,359,3,167000000,0,rent
+846,Tasnim Adriansyah,male,+62-878-555-245,Irnanto Pangestu,Tegal,807,812,1,121000000,1,mortgage
+847,Carla Wastuti,male,+62-896-555-102,Umaya Usada,Solok,401,406,5,163000000,0,mortgage
+848,Clara Budiyanto,female,+62-815-555-129,Najwa Nainggolan,Palembang,568,573,6,162000000,1,mortgage
+849,Elon Waluyo,female,+62-896-555-319,Gandi Damanik,Ambon,637,642,0,154000000,1,own
+850,Febi Hartati,Female,+62-878-555-443,Utama Puspita,Ternate,575,580,9,170000000,0,
+851,Setya Maheswara,male,+62-838-555-088,Raina Hastuti,Gunung Sitoli,363,368,10,64000000,0,mortgage
+852,Samiah Palastri,female,+62-857-555-578,Vicky Latupono,Kediri,484,489,3,106000000,0,own
+853,Farhunnisa Firmansyah,Male,+62-814-555-873,Luwar Hakim,Pangkalpinang,766,771,3,130000000,1,own
+854,Carla Permata,Male,+62-898-555-556,Raden Permata,Lubuklinggau,762,767,1,112000000,1,missing
+855,Zahra Damanik,male,+62-814-555-696,Septi Kuswandari,Jayapura,446,451,1,85000000,1,rent
+856,Nabila Laksita,Male,+62-878-555-597,Endra Mulyani,Depok,524,529,8,129000000,0,rent
+857,Kambali Prakasa,Female,+62-855-555-220,Lutfan Suryatmi,Palopo,567,572,7,127000000,1,other
+858,Adinata Nuraini,,+62-878-555-949,Faizah Hariyah,Bengkulu,488,493,8,60000000,0,other
+859,Michelle Prasetyo,Male,+62-898-555-865,Bahuwirya Oktaviani,Batam,681,686,9,104000000,0,other
+860,Ami Anggraini,female,+62-838-555-358,Luis Pertiwi,Pekalongan,429,434,0,151000000,1,mortgage
+861,Mala Rahimah,,+62-896-555-567,Utama Pratiwi,Cirebon,744,749,3,133000000,1,missing
+862,Ellis Suwarno,Female,+62-838-555-403,Intan Kuswoyo,Malang,484,489,10,139000000,1,other
+863,Unjani Sitorus,male,+62-897-555-920,Raden Puspita,Cirebon,501,506,8,98000000,0,rent
+864,Kamaria Siregar,Female,+62-897-555-597,Enteng Wacana,Gunung Sitoli,302,307,9,125000000,0,mortgage
+865,Tina Safitri,Female,+62-838-555-577,Jono Permadi,Bontang,665,670,8,143000000,0,
+866,Puji Ramadan,male,+62-838-555-460,Wakiman Nurdiyanti,Cilegon,802,807,9,145000000,1,rent
+867,Yono Maryati,,+62-814-555-037,Latika Lestari,Cimahi,464,469,4,85000000,1,other
+868,Calista Situmorang,female,+62-838-555-289,Prayogo Kusmawati,Kendari,487,492,6,146000000,1,other
+869,Murti Mansur,,+62-858-555-959,Harimurti Mansur,Banjarbaru,682,687,9,46000000,1,own
+870,Irnanto Maryati,male,+62-816-555-391,Indah Mayasari,Blitar,670,675,5,102000000,1,other
+871,Samiah Prasetya,female,+62-899-555-932,Wawan Setiawan,Tebing Tinggi,466,471,10,161000000,1,own
+872,Bakidin Mardhiyah,female,+62-817-555-571,Hendra Purwanti,Blitar,494,499,5,88000000,1,
+873,Cakrajiya Lazuardi,,+62-878-555-062,Prabawa Anggriawan,Subulussalam,392,397,10,95000000,0,mortgage
+874,Cager Mardhiyah,male,+62-858-555-515,Nyoman Hutapea,Pontianak,808,813,10,123000000,0,mortgage
+875,Marwata Maryati,male,+62-878-555-389,Elma Suryatmi,Pare-pare,748,753,8,109000000,0,
+876,Mutia Padmasari,male,+62-811-555-694,Artawan Usamah,Banjar,658,663,9,116000000,0,own
+877,Chelsea Sirait,Female,+62-838-555-550,Cawisono Riyanti,Bengkulu,736,741,9,66000000,0,mortgage
+878,Aris Sinaga,female,+62-878-555-627,Jatmiko Anggriawan,Palangka Raya,307,312,5,180000000,1,missing
+879,Harjo Hassanah,male,+62-858-555-018,Bahuraksa Hartati,Bandung,662,667,9,85000000,1,
+880,Hilda Lestari,male,+62-838-555-397,Unggul Budiyanto,Palembang,648,653,0,142000000,1,
+881,Teddy Wahyuni,female,+62-859-555-556,Warsa Farida,Kotamobagu,735,740,2,68000000,1,missing
+882,Almira Damanik,Female,+62-878-555-492,Rahmi Wulandari,Metro,813,818,9,85000000,0,missing
+883,Jati Sihotang,female,+62-852-555-313,Embuh Pudjiastuti,Kediri,302,307,3,172000000,0,rent
+884,Raihan Lestari,,+62-858-555-731,Jagaraga Zulaika,Tomohon,822,827,5,52000000,1,own
+885,Kania Namaga,,+62-896-555-417,Ami Usada,Blitar,685,690,6,107000000,0,missing
+886,Capa Kuswoyo,male,+62-813-555-494,Puji Utami,Tomohon,312,317,7,150000000,0,
+887,Gilda Hasanah,male,+62-853-555-342,Erik Rahayu,Ambon,740,745,1,101000000,0,mortgage
+888,Balijan Siregar,,+62-818-555-443,Dirja Nashiruddin,Bekasi,684,689,0,167000000,0,missing
+889,Wani Pudjiastuti,Male,+62-898-555-059,Gawati Nurdiyanti,Palangka Raya,680,685,3,55000000,1,mortgage
+890,Ade Narpati,Male,+62-814-555-971,Anastasia Hartati,Tebing Tinggi,668,673,7,149000000,1,mortgage
+891,Wardaya Oktaviani,,+62-838-555-816,Panca Halim,Pasuruan,557,562,0,88000000,0,rent
+892,Ilsa Natsir,Male,+62-838-555-822,Adhiarja Saragih,Banjarbaru,334,339,7,114000000,0,mortgage
+893,Umar Handayani,Male,+62-811-555-488,Erik Lazuardi,Pasuruan,744,749,10,151000000,1,missing
+894,Luwar Tampubolon,male,+62-838-555-074,Kemba Situmorang,Tangerang,506,511,4,42000000,1,
+895,Titi Irawan,Female,+62-858-555-854,Kawaya Prasetya,Palangka Raya,331,336,1,133000000,1,
+896,Oliva Novitasari,female,+62-878-555-895,Betania Wasita,Tarakan,594,599,3,139000000,1,own
+897,Virman Riyanti,female,+62-817-555-626,Rika Manullang,Mojokerto,569,574,2,141000000,1,missing
+898,Dariati Sihotang,Male,+62-897-555-791,Damar Mulyani,Ambon,425,430,0,147000000,1,
+899,Zaenab Nababan,Female,+62-838-555-990,Karman Nugroho,Payakumbuh,454,459,10,177000000,1,missing
+900,Lala Marpaung,male,+62-838-555-384,Belinda Pudjiastuti,Jakarta Pusat,739,744,6,132000000,0,missing
+901,Farhunnisa Manullang,Female,+62-878-555-548,Yuni Suryatmi,Singkawang,807,812,4,104000000,1,mortgage
+902,Diana Nugroho,male,+62-853-555-688,Leo Marpaung,Salatiga,653,658,0,92000000,1,rent
+903,Mahesa Yuliarti,male,+62-838-555-950,Gina Widiastuti,Mataram,728,733,7,51000000,1,missing
+904,Dinda Megantara,Female,+62-838-555-985,Halima Usada,Padang Panjang,444,449,2,61000000,0,other
+905,Aisyah Wastuti,female,+62-814-555-705,Manah Puspita,Medan,689,694,4,112000000,0,
+906,Elvin Hassanah,female,+62-819-555-709,Gandi Maryadi,Banjarbaru,707,712,6,115000000,1,own
+907,Suci Mahendra,Male,+62-819-555-823,Paulin Hartati,Surakarta,650,655,10,152000000,0,mortgage
+908,Aurora Padmasari,female,+62-838-555-367,Uchita Pradipta,Langsa,658,663,6,45000000,0,missing
+909,Sadina Oktaviani,male,+62-838-555-487,Cici Yolanda,Lhokseumawe,352,357,7,84000000,1,
+910,Daliman Pradipta,,+62-813-555-054,Eman Rahmawati,Banjarmasin,382,387,2,168000000,0,rent
+911,Maya Padmasari,,+62-899-555-997,Karna Sihotang,Sabang,503,508,7,143000000,0,other
+912,Jessica Fujiati,female,+62-898-555-623,Cawuk Ramadan,Mojokerto,811,816,3,152000000,1,mortgage
+913,Gamblang Thamrin,male,+62-855-555-578,Virman Nashiruddin,Langsa,788,793,2,44000000,1,rent
+914,Bakianto Nasyidah,male,+62-899-555-515,Cinthia Wibowo,Surakarta,494,499,0,153000000,1,missing
+915,Jatmiko Kusmawati,,+62-878-555-478,Dimas Laksita,Pare-pare,528,533,9,174000000,0,own
+916,Eka Oktaviani,female,+62-859-555-177,Lintang Suryatmi,Madiun,520,525,2,119000000,0,missing
+917,Taufik Yuliarti,Male,+62-838-555-008,Kayla Namaga,Pekanbaru,653,658,6,139000000,1,missing
+918,Vicky Melani,male,+62-838-555-983,Kartika Jailani,Bengkulu,688,693,5,83000000,0,missing
+919,Elvina Pradipta,female,+62-838-555-249,Hartana Tarihoran,Pekalongan,346,351,2,154000000,1,own
+920,Harjaya Rajata,Female,+62-838-555-470,Mujur Prasasta,Bandar Lampung,394,399,6,118000000,0,rent
+921,Fitria Hardiansyah,female,+62-896-555-147,Agus Riyanti,Banjarbaru,465,470,3,47000000,0,missing
+922,Asirwada Suartini,female,+62-898-555-964,Indah Namaga,Sibolga,598,603,8,177000000,1,missing
+923,Mariadi Sudiati,female,+62-878-555-209,Daniswara Wibowo,Padang,411,416,7,95000000,1,missing
+924,Puti Lestari,,+62-838-555-013,Tiara Puspasari,Surakarta,531,536,8,88000000,1,other
+925,Shakila Riyanti,male,+62-878-555-197,Qori Yolanda,Bau-bau,409,414,3,53000000,1,
+926,Candra Pratama,female,+62-855-555-488,Adhiarja Wibisono,Serang,546,551,2,51000000,1,rent
+927,Ani Salahudin,Male,+62-878-555-780,Tugiman Maryadi,Pasuruan,615,620,10,173000000,0,own
+928,Opung Aryani,Female,+62-878-555-898,Widya Hassanah,Bontang,815,820,6,149000000,0,
+929,Harsana Yuliarti,Male,+62-838-555-406,Tania Kuswandari,Semarang,791,796,3,123000000,0,
+930,Sabar Uwais,Male,+62-878-555-805,Niyaga Marpaung,Kupang,765,770,2,126000000,0,rent
+931,Bambang Anggriawan,Male,+62-838-555-219,Najib Hakim,Yogyakarta,797,802,3,88000000,1,own
+932,Iriana Susanti,Male,+62-878-555-792,Dina Wahyudin,Langsa,708,713,3,122000000,1,own
+933,Vanya Wijayanti,,+62-898-555-326,Ina Purwanti,Pasuruan,808,813,6,80000000,0,other
+934,Karsana Santoso,,+62-838-555-868,Intan Utama,Blitar,644,649,3,77000000,1,other
+935,Pia Purnawati,male,+62-853-555-001,Paris Rahayu,Tangerang,594,599,1,63000000,0,
+936,Karimah Haryanto,,+62-854-555-546,Tari Oktaviani,Cirebon,375,380,5,87000000,1,other
+937,Jane Usada,male,+62-852-555-319,Paiman Zulaika,Bekasi,431,436,1,116000000,1,own
+938,Yusuf Andriani,Male,+62-898-555-561,Margana Waluyo,Surakarta,441,446,6,150000000,0,mortgage
+939,Jagaraga Yulianti,Male,+62-896-555-024,Farhunnisa Maheswara,Lubuklinggau,719,724,10,106000000,1,own
+940,Ikin Thamrin,Male,+62-878-555-708,Reza Saefullah,Dumai,812,817,2,143000000,1,own
+941,Putri Thamrin,male,+62-898-555-390,Samiah Zulaika,Jambi,302,307,4,174000000,1,own
+942,Hartana Situmorang,male,+62-838-555-619,Ikin Laksmiwati,Padang Sidempuan,574,579,0,180000000,1,mortgage
+943,Nabila Ardianto,female,+62-852-555-851,Cinta Wasita,Probolinggo,563,568,9,118000000,1,rent
+944,Darijan Waluyo,,+62-819-555-663,Wahyu Uyainah,Tebing Tinggi,385,390,2,164000000,1,missing
+945,Umaya Wulandari,Female,+62-838-555-314,Cahyadi Simanjuntak,Serang,843,848,9,175000000,1,
+946,Hilda Situmorang,,+62-853-555-216,Nalar Nashiruddin,Bima,798,803,6,87000000,1,missing
+947,Bajragin Riyanti,Male,+62-838-555-832,Kanda Permadi,Payakumbuh,504,509,0,65000000,0,rent
+948,Mujur Tarihoran,,+62-811-555-312,Zelda Suwarno,Tanjung Pinang,378,383,5,138000000,1,own
+949,Teguh Puspasari,Male,+62-819-555-671,Faizah Widodo,Tanjung Balai,300,305,9,86000000,1,rent
+950,Koko Simanjuntak,male,+62-853-555-609,Suci Saptono,Dumai,319,324,2,133000000,0,own
+951,Cinthia Iswahyudi,,+62-878-555-139,Queen Haryanto,Jakarta Utara,631,636,10,72000000,1,other
+952,Edward Fujiati,Male,+62-897-555-296,Shania Sitorus,Bekasi,639,644,3,97000000,1,missing
+953,Nardi Hartati,female,+62-899-555-350,Jelita Wahyuni,Madiun,797,802,4,126000000,0,rent
+954,Genta Iswahyudi,female,+62-817-555-627,Dipa Mandasari,Tasikmalaya,598,603,10,172000000,0,mortgage
+955,Cawisono Ardianto,Female,+62-896-555-163,Juli Suryatmi,Tanjung Pinang,679,684,4,134000000,0,other
+956,Lamar Wijayanti,female,+62-857-555-725,Tasdik Kusmawati,Payakumbuh,595,600,0,93000000,0,mortgage
+957,Rahmi Sitorus,,+62-814-555-483,Lintang Wijayanti,Bandung,805,810,2,93000000,0,
+958,Ira Mandasari,female,+62-896-555-402,Koko Nasyidah,Tidore Kepulauan,841,846,2,157000000,0,missing
+959,Digdaya Rahmawati,Female,+62-878-555-865,Empluk Safitri,Palembang,754,759,6,66000000,0,
+960,Restu Yulianti,Male,+62-838-555-522,Raden Waluyo,Kendari,831,836,5,179000000,1,own
+961,Pangestu Megantara,Male,+62-878-555-193,Ratna Dongoran,Pekanbaru,648,653,10,115000000,0,rent
+962,Anastasia Budiman,female,+62-878-555-074,Eva Lestari,Jakarta Timur,337,342,10,124000000,0,
+963,Ciaobella Suartini,Male,+62-899-555-777,Carla Hutasoit,Batu,441,446,10,51000000,0,other
+964,Cindy Halimah,Female,+62-857-555-063,Estiawan Iswahyudi,Bandung,629,634,0,42000000,0,own
+965,Lintang Hutagalung,,+62-854-555-884,Gabriella Farida,Palembang,716,721,9,156000000,1,other
+966,Uda Mustofa,female,+62-838-555-754,Padmi Nuraini,Salatiga,683,688,7,70000000,1,own
+967,Puti Sihombing,Male,+62-853-555-416,Ika Nasyiah,Pontianak,720,725,2,96000000,1,mortgage
+968,Gandi Pranowo,,+62-814-555-092,Teddy Yolanda,Bandar Lampung,764,769,2,148000000,0,
+969,Fathonah Nuraini,,+62-897-555-323,Malika Hassanah,Makassar,647,652,2,104000000,0,
+970,Sakura Rahayu,female,+62-857-555-493,Ibrahim Anggraini,Manado,587,592,3,109000000,1,own
+971,Anggabaya Padmasari,Female,+62-853-555-376,Johan Putra,Tebing Tinggi,382,387,4,103000000,0,mortgage
+972,Suci Rahimah,Male,+62-838-555-974,Vega Wijaya,Palopo,833,838,4,142000000,0,rent
+973,Aditya Fujiati,Female,+62-898-555-743,Gamani Novitasari,Batam,783,788,4,92000000,1,own
+974,Darimin Hutagalung,Female,+62-854-555-235,Balidin Yuniar,Dumai,745,750,7,90000000,0,other
+975,Cawisadi Ramadan,Male,+62-878-555-845,Yunita Habibi,Mataram,371,376,8,136000000,0,rent
+976,Mahesa Uyainah,Male,+62-897-555-314,Caturangga Palastri,Bekasi,564,569,3,62000000,0,rent
+977,Ulva Farida,Female,+62-878-555-513,Kairav Pradana,Ambon,346,351,8,102000000,1,mortgage
+978,Shania Natsir,male,+62-878-555-313,Enteng Firgantoro,Subulussalam,583,588,8,102000000,0,other
+979,Okta Wulandari,Female,+62-838-555-309,Anggabaya Handayani,Tidore Kepulauan,577,582,6,168000000,1,rent
+980,Icha Suartini,male,+62-878-555-676,Kacung Gunarto,Serang,691,696,1,60000000,1,rent
+981,Lidya Widodo,,+62-899-555-363,Jarwi Lailasari,Bandung,365,370,10,45000000,1,
+982,Uchita Pranowo,Male,+62-898-555-274,Natalia Suryatmi,Sukabumi,476,481,1,118000000,0,rent
+983,Dalimin Iswahyudi,male,+62-838-555-604,Patricia Handayani,Pagar Alam,750,755,0,164000000,1,mortgage
+984,Siti Melani,,+62-878-555-266,Tantri Namaga,Sawahlunto,386,391,7,106000000,0,other
+985,Wardaya Namaga,Male,+62-878-555-890,Latika Hartati,Palu,568,573,1,147000000,1,mortgage
+986,Karen Andriani,Female,+62-838-555-070,Hasna Purnawati,Banjar,641,646,4,124000000,1,
+987,Maria Rahimah,female,+62-838-555-401,Ilsa Yolanda,Kupang,835,840,3,95000000,1,own
+988,Maimunah Safitri,male,+62-819-555-341,Balidin Winarno,Tarakan,348,353,2,102000000,0,mortgage
+989,Caraka Gunawan,male,+62-878-555-165,Dinda Riyanti,Palopo,391,396,10,122000000,1,
+990,Ratna Fujiati,female,+62-878-555-141,Caraka Nainggolan,Makassar,550,555,4,42000000,0,
+991,Ida Setiawan,Female,+62-858-555-514,Oni Puspita,Kotamobagu,323,328,3,159000000,0,other
+992,Nurul Prabowo,Male,+62-878-555-471,Titi Sitompul,Jakarta Timur,493,498,1,89000000,1,mortgage
 993,Kairav Nasyidah,male,+62-896-555-426,Harsaya Mandala,Palangka Raya,695,700,2,50000000,1,own
 994,Kairav Nasyidah,male,+62-896-555-426,Harsaya Mandala,Palangka Raya,695,700,2,50000000,1,own
 995,Harto Firmansyah,male,+62-878-555-616,Paiman Hasanah,Dumai,565,570,3,56000000,1,rent
