@@ -1,1 +1,1 @@
-print('This is the seventh script on test-squash-and-merge branch')
+print('This is the sevetnh script on test-squash-and-merge branch')
