@@ -1,0 +1,1 @@
+print('second script on test-normal-merge')
