@@ -1,0 +1,1 @@
+print('This is the fifth script on test-squash-and-merge branch')
