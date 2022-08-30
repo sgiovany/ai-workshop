@@ -1,0 +1,1 @@
+print('This is the third script on test-merge')
