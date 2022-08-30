@@ -1,6 +1,6 @@
 import sys
 
-print('This scritp must be conflicted')
+print('This script mutsbe conflicted')
 
 
-print('Try to resolve the script')print('Script for demo')
+print('Try to resolve print('Script for demo') the script')
